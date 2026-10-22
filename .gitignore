@@ -4,6 +4,7 @@ models/
 *.zip
 __pycache__/
 .venv/
+.venv-*/
 *.wav
 *.log
 

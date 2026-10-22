@@ -1,0 +1,29 @@
+{
+  "dataset": "DCASE 2020 Task 2 development",
+  "model": "FISHER-small-0723",
+  "model_repo": "jiangab/FISHER-small-0723",
+  "model_revision": "1fb316962ebb863d570217b12b40fb0ec1e957c5",
+  "checkpoint_sha256": "9924cdeec51ea796557af0c1920f0a2148303b3c26d2b41a39dbb8c4ff94fb4a",
+  "metrics": [
+    {
+      "machine": "fan",
+      "machine_id": "00",
+      "n_train_normal": 100,
+      "n_test_normal": 50,
+      "n_test_anomaly": 50,
+      "auroc": 0.498,
+      "pauc_0_1_standardized": 0.4863157894736842
+    },
+    {
+      "machine": "pump",
+      "machine_id": "00",
+      "n_train_normal": 100,
+      "n_test_normal": 50,
+      "n_test_anomaly": 50,
+      "auroc": 0.7023999999999999,
+      "pauc_0_1_standardized": 0.5031578947368421
+    }
+  ],
+  "pauc_convention": "sklearn standardized pAUC, max_fpr=0.1",
+  "test_labels_used_for": "metrics only; not embedding, bank, score or threshold"
+}

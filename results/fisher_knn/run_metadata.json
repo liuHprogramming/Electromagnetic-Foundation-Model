@@ -1,0 +1,55 @@
+{
+  "completed_utc": "2026-10-22T21:49:47.960194+00:00",
+  "host": "ubuntu01",
+  "python": "3.10.12",
+  "device": "cpu",
+  "dtype": "float32",
+  "threads": 8,
+  "elapsed_seconds": 31.2673617398832,
+  "peak_rss_kib": 658540,
+  "peak_gpu_allocated_bytes": 0,
+  "versions": {
+    "torch": "2.3.1+cpu",
+    "torchaudio": "2.3.1+cpu",
+    "transformers": "4.45.2",
+    "numpy": "1.23.5",
+    "scikit-learn": "1.7.2",
+    "timm": "0.9.16",
+    "omegaconf": "2.3.0",
+    "einops": "0.6.1",
+    "safetensors": "0.8.0"
+  },
+  "model_repo": "jiangab/FISHER-small-0723",
+  "model_revision": "1fb316962ebb863d570217b12b40fb0ec1e957c5",
+  "model_files_sha256": {
+    "README.md": "ebfca4c7bc08b033c3f422b0ce802ef43371568ba91af0813e7351894aba9d31",
+    "base.py": "6bc2724a5b05aee012e3fb60f0f0933c4b729ffc7dd4123021cd39d75fab005f",
+    "config.json": "1ae733df0ce4df38397ad01eeadb93a3325065ea6f763951c4180dc485133f19",
+    "configuration_fisher.py": "14a85228df5f604b20a5172caca3092f365e8d4bf8c8e9b68f54fa9009b8a433",
+    "images.py": "d62420b1f0dfb6ddfedafdac8a45d8ce79bcd52cd275ec7b3134836751f02fbb",
+    "model.safetensors": "9924cdeec51ea796557af0c1920f0a2148303b3c26d2b41a39dbb8c4ff94fb4a",
+    "modeling_fisher.py": "f99bfe223d5e5bc8da159a4f38544a5cd5b34d694a9711bcb1b555ed9c5a92ae",
+    "modules.py": "b2be8bca10809bfd7befbf69a0f10a2bb9d82a67e8dad4bb251ede41e20fc2bc"
+  },
+  "script_sha256": "4bfd7148cefe18f069514d5d689123e89694448af6d7d409f4bca1bb4c1db1a6",
+  "config_sha256": "2e8953cf4829d86a1fe193844548872b1fa04447c010a18c4548cbe5da0498af",
+  "fisher_config_sha256": "456cc4df6278f16251b74e35e4441763a944b6a60aaf7bd99fd0819ffd866525",
+  "manifest_sha256": "b32f187842a4f3b82629966aa1bba7a3e361f6de7a01ff25bbed4207d1f29989",
+  "embedding_dimension": 1536,
+  "input_shapes": [
+    [
+      1,
+      1,
+      998,
+      201
+    ]
+  ],
+  "band_width": 50,
+  "loading_info": {
+    "missing_keys": [],
+    "unexpected_keys": [],
+    "mismatched_keys": [],
+    "error_msgs": []
+  },
+  "command": "/data/Claude/electromagnetic-foundation-model/code/../.venv-fisher/bin/python run_fisher_knn.py --root ../dcase2020 --model ../models/fisher-small --out ../results/fisher_knn --config config.json --fisher-config fisher_config.json --device cpu --threads 8"
+}

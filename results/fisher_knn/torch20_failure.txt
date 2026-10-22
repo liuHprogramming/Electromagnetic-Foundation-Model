@@ -1,0 +1,44 @@
+Traceback (most recent call last):
+  File "/data/Claude/electromagnetic-foundation-model/code/run_fisher_knn.py", line 146, in <module>
+    main()
+  File "/data/Claude/electromagnetic-foundation-model/code/run_fisher_knn.py", line 89, in main
+    embedding = model.extract_features(spec.to(args.device)).float()[0]
+  File "/home/Claude/.cache/huggingface/modules/transformers_modules/fisher-small/modeling_fisher.py", line 254, in extract_features
+    return self.model.extract_features(x)
+  File "/home/Claude/.cache/huggingface/modules/transformers_modules/fisher-small/modeling_fisher.py", line 230, in extract_features
+    res = self.forward(
+  File "/home/Claude/.cache/huggingface/modules/transformers_modules/fisher-small/modeling_fisher.py", line 206, in forward
+    x, lr = blk(
+  File "/home/Claude/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/Claude/.cache/huggingface/modules/transformers_modules/fisher-small/modules.py", line 192, in forward
+    x = x + self.drop_path(self.attn(x, padding_mask, alibi_bias))
+  File "/home/Claude/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/Claude/.cache/huggingface/modules/transformers_modules/fisher-small/modules.py", line 241, in forward
+    x = F.scaled_dot_product_attention(
+TypeError: scaled_dot_product_attention() got an unexpected keyword argument 'scale'
+Command exited with non-zero status 1
+	Command being timed: "../.venv/bin/python run_fisher_knn.py --root ../dcase2020 --model ../models/fisher-small --out ../results/fisher_knn --config config.json --fisher-config fisher_config.json --device cpu --threads 8"
+	User time (seconds): 6.70
+	System time (seconds): 1.98
+	Percent of CPU this job got: 177%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.89
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 795112
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 105
+	Minor (reclaiming a frame) page faults: 225174
+	Voluntary context switches: 320
+	Involuntary context switches: 472
+	Swaps: 0
+	File system inputs: 13800
+	File system outputs: 216
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1

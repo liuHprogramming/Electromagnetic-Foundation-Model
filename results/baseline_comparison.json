@@ -1,0 +1,46 @@
+{
+  "verification": "passed",
+  "n_manifest": 400,
+  "n_test": 200,
+  "manifest_sha256": "b32f187842a4f3b82629966aa1bba7a3e361f6de7a01ff25bbed4207d1f29989",
+  "fisher_embedding_shape": [
+    400,
+    1536
+  ],
+  "max_fisher_score_reconstruction_error": 3.14023755221271e-07,
+  "comparison": [
+    {
+      "machine": "fan",
+      "machine_id": "00",
+      "beats": {
+        "auroc": 0.5932,
+        "pauc_0_1_standardized": 0.5242105263157895
+      },
+      "fisher": {
+        "auroc": 0.498,
+        "pauc_0_1_standardized": 0.4863157894736842
+      },
+      "fisher_minus_beats": {
+        "auroc": -0.09519999999999995,
+        "pauc_0_1_standardized": -0.03789473684210526
+      }
+    },
+    {
+      "machine": "pump",
+      "machine_id": "00",
+      "beats": {
+        "auroc": 0.7176,
+        "pauc_0_1_standardized": 0.5831578947368421
+      },
+      "fisher": {
+        "auroc": 0.7023999999999999,
+        "pauc_0_1_standardized": 0.5031578947368421
+      },
+      "fisher_minus_beats": {
+        "auroc": -0.015200000000000102,
+        "pauc_0_1_standardized": -0.07999999999999996
+      }
+    }
+  ],
+  "scope": "Descriptive differences on one fixed small subset; no significance or full-benchmark claim"
+}

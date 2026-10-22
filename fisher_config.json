@@ -1,0 +1,19 @@
+{
+  "model_repo": "jiangab/FISHER-small-0723",
+  "revision": "1fb316962ebb863d570217b12b40fb0ec1e957c5",
+  "weights_sha256": "9924cdeec51ea796557af0c1920f0a2148303b3c26d2b41a39dbb8c4ff94fb4a",
+  "preprocessing_reference": "Pinned Hugging Face model card inference example",
+  "waveform_mean_center": true,
+  "frame_length_ms": 25,
+  "frame_shift_ms": 10,
+  "spectrogram_power": 1,
+  "spectrogram_center": false,
+  "log_epsilon": 1e-10,
+  "normalization_mean": -3.017344307886898,
+  "normalization_std": 2.1531635155379805,
+  "normalization_std_multiplier": 2,
+  "max_time_frames": 1024,
+  "time_padding": false,
+  "embedding": "Concatenate the official extract_features sub-band CLS vectors, then L2 normalize",
+  "dtype": "float32"
+}
