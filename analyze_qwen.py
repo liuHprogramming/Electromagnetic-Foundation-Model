@@ -7,6 +7,8 @@ from pathlib import Path
 
 def error_type(row):
     expected, answer = row["expected_answer"], row["parsed_answer"]
+    if expected == "anomaly":
+        expected = "anomalous"
     if answer == "unparseable":
         return "unparseable_or_format_failure"
     if expected == "insufficient":

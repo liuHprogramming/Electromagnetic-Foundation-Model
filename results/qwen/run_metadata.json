@@ -1,0 +1,19 @@
+{
+  "completed_utc": "2026-10-22T20:42:49Z",
+  "host": "A800 ubuntu01",
+  "device": "CPU",
+  "dtype": "torch.float32",
+  "threads": 16,
+  "python": "3.10",
+  "torch": "2.0.1+cu118",
+  "transformers": "4.45.2",
+  "accelerate": "0.34.2",
+  "qwen_model_revision": "0a095220c30b7b31434169c3086508ef3ea5bf0a",
+  "script_sha256": "e840fcdbe18c779a513b42cbb3d997f3e23522aa0d30082089c4c5790448f213",
+  "analysis_script_sha256": "9d70c18472b0db15a9ffbc5290bacb2e44f0a410de5892575ffa7a68e8cb5d22",
+  "config_sha256": "2e8953cf4829d86a1fe193844548872b1fa04447c010a18c4548cbe5da0498af",
+  "manifest_sha256": "b32f187842a4f3b82629966aa1bba7a3e361f6de7a01ff25bbed4207d1f29989",
+  "raw_record_sha256": "f056e53df52b81b85400e3972b8dbc0dcbd8018631a14d063dae64624a435eec",
+  "generation": {"max_new_tokens": 96, "do_sample": false},
+  "command": "OMP_NUM_THREADS=16 MKL_NUM_THREADS=16 python run_qwen_audio.py --root /data/Claude/electromagnetic-foundation-model/dcase2020 --model /data/Claude/electromagnetic-foundation-model/models/qwen2-audio --out /data/Claude/electromagnetic-foundation-model/results/qwen --config config.json --device cpu"
+}

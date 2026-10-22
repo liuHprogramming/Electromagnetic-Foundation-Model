@@ -1,0 +1,70 @@
+{
+  "counts": {
+    "wrong_condition": 4,
+    "correct_condition": 4,
+    "false_certainty_on_short_clip": 2
+  },
+  "cases": [
+    {
+      "case_id": "case_01",
+      "expected": "normal",
+      "parsed": "anomalous",
+      "error_type": "wrong_condition"
+    },
+    {
+      "case_id": "case_02",
+      "expected": "normal",
+      "parsed": "anomalous",
+      "error_type": "wrong_condition"
+    },
+    {
+      "case_id": "case_03",
+      "expected": "normal",
+      "parsed": "anomalous",
+      "error_type": "wrong_condition"
+    },
+    {
+      "case_id": "case_04",
+      "expected": "normal",
+      "parsed": "anomalous",
+      "error_type": "wrong_condition"
+    },
+    {
+      "case_id": "case_05",
+      "expected": "anomaly",
+      "parsed": "anomalous",
+      "error_type": "correct_condition"
+    },
+    {
+      "case_id": "case_06",
+      "expected": "anomaly",
+      "parsed": "anomalous",
+      "error_type": "correct_condition"
+    },
+    {
+      "case_id": "case_07",
+      "expected": "anomaly",
+      "parsed": "anomalous",
+      "error_type": "correct_condition"
+    },
+    {
+      "case_id": "case_08",
+      "expected": "anomaly",
+      "parsed": "anomalous",
+      "error_type": "correct_condition"
+    },
+    {
+      "case_id": "case_09",
+      "expected": "insufficient",
+      "parsed": "anomalous",
+      "error_type": "false_certainty_on_short_clip"
+    },
+    {
+      "case_id": "case_10",
+      "expected": "insufficient",
+      "parsed": "anomalous",
+      "error_type": "false_certainty_on_short_clip"
+    }
+  ],
+  "scope": "String-based categories only; specific fault hallucinations require manual review of raw replies."
+}
