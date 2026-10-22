@@ -1,0 +1,3202 @@
+[
+  {
+    "path": "fan/train/normal_id_00_00000002.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "c24de89b00e6c3604393e6c72d6ea15dd5537a2d9d7a7697b743638dc76369f5"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000005.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "1134780e76efe313dcb2cb79a3cbbfbe33db4dea1036368cdda80178959608a1"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000042.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "70b1045ad8607e64486806c4128ae3e8f6ae51ed4f0cb796aab722c7d50c1834"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000046.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "efd7a12148e796327f7c03b6cb80825cfe2e599c0b93e6859939c2f3e6819b74"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000049.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "e176cfe04c450a30a1260dcb1f54491a896f82a93e2f72496cb5eaceefdb98dc"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000058.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "62c4059cf323b6084c6e7a7ae5d9103a033047fc09a55d79916a3d7711aad255"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000059.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "ba9a130cb42144370c5d6e13d423b003cd625d0df5917b63695dc07163bdef47"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000060.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "214c34be5a56c1b26205daac13807e5e2bbf6f9b6763b710f36657efb309caed"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000061.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "d7c68f2b1bf8bc19304d7499f94029b13cfea6bcb08986b27eaf6f1bdb07cf42"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000063.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "b622eee365b2dbcf113605aabf0db2bbb860f502faf5a766d616b87fccf06b7c"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000066.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "2793196f45e41e6c35ac3c26a3e253f7f5a3acc0260210a43f5c9997a2d22a88"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000073.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "86b6cebbdb94223115ea9d210636ca591b4e451d3d327d0511e0a377d07b485d"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000076.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "7de7b5210f317c9ec777d09da37f737ae9fb7dfe58fff4f7cda156d565f3dd06"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000091.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "707b56da48853d49670736e7b963a8fc1d147a391185160ded14c481bcc45fa0"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000097.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "dd5ebcbef84761b898246f6fa8d768e83ca856e4d6fd2930a4aa69183f6ccab6"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000098.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "50883369f7c86346088e491ced93632310bde814d1393afcf925fd1572633afc"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000103.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "d2669ceaa5ec80f9107d516f31cac41b047b0368305f29db34e648c72d767122"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000109.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "105683eabe517079a8bd1fce388d7336278ce74539dab6ec27113fbfd7a442e7"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000110.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "c6cb910fe5e23e889c4c9501bf8342ec73d36e46239c63b95ff12abce496f255"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000117.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "c53e1bcebbebbe45f058cb59677dd718fcf0199fa2bb49bd917514c1b9b9b021"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000118.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "798db38ba1e3c35d1ab5ea39e201653b0a7843c632854e88a3e115b4e3d8688f"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000129.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "b5bff3bc6fadced13f7d4f2a673e0d0f43715375bf3e021f2f966be00d8a9887"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000134.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "cc32f6d7febd75676632eaefffdfc00ef7a0e0b2acdeddb4df93bd5a587581be"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000144.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "d5bd2736e3f225d7dd6f2782960de698ecd97ad407ee1d55de00fc53ee610a1a"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000150.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "a1dfe720892656fe6310b78110fe670e1a5dff6fd786bf9404e962c824b89f83"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000151.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "f58227d93b18f1ac441937eeda8390e8ea6c6dcd19074cb8ab42350d4bff4cfc"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000153.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "74407a98ad601a022c619140374e5e05fd7f38d06c09a8019e03f7ff243bf7ff"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000176.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "be634445547ddc8587b7ea85793f5137ebb220daccf27d893733be78a93687ae"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000181.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "0451c54097f6a287c108cbf3ff613e7974d57d6b4f3b43137f6e5ca86608a597"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000196.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "6395a5ad1a00355dd5531a35f3d9ac30daf04fdc52209758d38e0e8c786582e1"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000198.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "4f1861a628514be440af19753090186ec93e3c18d76b2af5ffa875875f422600"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000203.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "2d4198cca125357d7e80c35f9c036816d634a2ffe7667d1b4897b36cc985f4be"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000212.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "149979370a11f9889889898f014bfa3058d8ef42052406f61a52b7d7412cd929"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000221.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "1aa542f6c28a24fa2a33cb08d4eefdf601d3c659a7d8ee81c5aec7aaffb2f04a"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000225.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "6a8fb84137a92fde6e0df000f5333816294e510473935dbc15aba62bbed7ca56"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000229.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "18fccee15d28d3a110d7fe0795420a0685ac8f250c1b9c21ccd989ab1e9830a6"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000235.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "8528b6660b435044ca115b797f47172589dd5023296fda5f82c8efe13f085e8a"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000240.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "be21b46482e64f1d81990a6a93662f5c6babc7d7e585f317cb54ff1ecfc8c5a5"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000247.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "56c68286fa40881b31275f600d18764e9746fed819c9129468f1222bd5dcaa01"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000289.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "98f088ae6eb7d992c8541f0abecd02bcb9c9dd892adad75ad7d6dd34aa4f2768"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000304.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "2229d3d09f4990eb76e014d8b0a2cafe156c3acfcb46e7c61547cb5cac1371e6"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000315.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "dc5e36968aab1569d108a553edb80d5aae28c3f45b4184ba1cbb04aa0da5edd8"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000341.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "0cf5284e4e4715dd98cb9acaf10e4335a513be7f31e94b15bd4b7cc07fc99a67"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000356.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "1f758d1d3aadeace2249b6312a7bf742b95d1bebfb57bc9d7fd1a66c162f5da5"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000361.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "4723e29c261a383ae0ff162daf5b404ddc54690abe65808468d39acb2be52206"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000374.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "3e9369a8b89c54d6e517df58e8a70f430fd512cf04682fd4d041c389bd3c65f4"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000376.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "552e915d7f1797700c09633c85156b2d5b4d343f8b4e9fc896d73c448d71e3a6"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000379.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "23eadc0bababf87fa042a993885d8fbfe675b2038c2691355db077b9f1f404f0"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000387.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "b087000ee39661b7b09f4b1ba8e13804c1f366777538e71bfa5891e40f990ea9"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000395.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "b50dc7bf7e488dac2935d81e1056bd9f275dd772ea36af656b89ff07f458b06c"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000399.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "3aaae94af4d869fea1c13e4554775f995f3be17b4f06522323be18cf34bad7cd"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000426.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "324c4821e9a8a9edc8be33b498c1f3a1653853d4f96aa2d41882ef643c02d314"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000436.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "1d9fb3e40b586e8eb78d0bb158924e28009a6503cffecf61284fc5c3360221c6"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000447.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "49a78ed29e820c8b42d695ef9098fd9cb570bc3803b353aa72dfd2faeebdd689"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000461.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "2b7556881344f3d05b1a758f3441b9202521b906ae1789c24b0bf3d7f0cd3406"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000467.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "3f5aa744c6b845212d41b644214af6af8bb6b5c05a44021b5bccb9c2c9daf7a5"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000468.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "9d44a9296ce3208ab760c87d24919f8197b0b89e66e601596e53ba18e870b2c6"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000486.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "cdd7b82cdf0584779125b043b59c69a73cade3e3cb5a7d9b4b42bfb0300d375f"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000491.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "9a1ee88c87729a277b7124036163101a0fca7472613ca63f91e4ce39b4a049c4"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000498.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "595a6cf491ec58ebdcdfdf94766c6634a660d877dd09bee9d7725c6b6cfc6dd7"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000516.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "a92919d1345d7d866ab34fa4c496486cb976d4070278d63a7d739727eb55547f"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000520.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "ec00e4df3c1c8e6c1689f1ab410c466e993a5dab3574b27888b664765d42bdb6"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000525.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "c76d7267b11f5151a8757bdbe4a1f194b7277a150bf8afe300d7a5b1ded0d8fa"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000540.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "27251466a1406dd35db381780c27bbe31638f13900b5aff73f7083663c188858"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000545.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "225f24792df31915d4d22f29c980bbd97c3b7ddd737fdabdda2933ce60429c6a"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000559.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "b0d541bb6d5898b621c52ed55764af4235c0c2ea6d0a22561a0aba957382d247"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000576.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "243898a055748b03e00f83cb60d2ef4fb60949aee72a7d36dcf19bb528141cdf"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000582.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "fbae35e9b2966c02c6e6023e3b6bbcd24a718e7952c0ff46a7541ba26437b1e4"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000593.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "647b4a5271c99cd53af2cb32baa6417dec0f4141401963b83029abcc4b3c5a83"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000598.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "43736c202e2f040a6d3fe10cf949587d0f18be55b8201fb3b5f8a6d6733b84bb"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000603.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "8991006a1c22364c9bbb68c3fccff9a882c4814e5960e624d0b6c43f981e7620"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000604.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "3c179f02f00327a63b3d76b155987786b008969a387565a1ca95ad24141cbba1"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000607.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "0f0cadf4a96efa663a86ed86281d3adb6d89122b320b78bd5d2ecf48071a4d72"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000630.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "79c46558c7876ee8a38704d51b7f4ba9a806eee38b6c27313420a37ac713d15e"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000637.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "d81394a482b567dbcddd1bfcdf435c514888c884a12c83fce34763a33243b687"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000640.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "d8476edc8b792f09e256032b9476b0ba039385a1215ed00322012ec1af2fae31"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000654.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "af9c7a60bd8b8c60c1a4994eaf6cc27be33d381bcc7012275d57c5d80003b142"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000673.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "6f061a1e6aac5018cc292b733f244a02a146787828bfa42f9305378c0b0bbf53"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000696.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "d947d8120dbab9ef6bb7585d7447602db9243703d9afb70fcf3e7f0a685fcae9"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000718.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "4545b8bce363155c634e87c8a5ec0382067f8f22220377e3b98f61bb6e07cbd2"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000727.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "c0010f32e025e54791f1d67a4def01e3b6660c286774a173ee20a7ff7891c593"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000730.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "f53f511e4e81b8e11d55d8c42a454bbd79939702b446e41977b20914b78d36ea"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000756.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "bc4e96b7ff532a7fbde1ce261f56b6ae3128e8b0ec614eff949b6c8d28c21b14"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000757.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "829df6a028eb7b813201275b15bb3912110594b861d27e4157b39e6e7be33f26"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000772.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "4550eb78b37ca4580471bf0bee76604576749fdac58d4dabdb44ca5d8c2abad7"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000774.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "b364c0cf7f6bf499f157b0e871dae548ab2e05942faba2a58468cca3d2c07866"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000777.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "f9655d65b8f877d0b9ddc79b047b9e66d59b021038f4938bd39cb5d2add654b6"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000778.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "eb1b085d85ddcfb3fcaa102d1b79acef6417420592895dff7b47587ef69af791"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000783.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "1e8087b9e070a4ac5239749fe1642e2f0fb2e0e0bc04b090a396961e356cff79"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000789.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "bb98c013b8159be7bd87ee9bf05face335835c9e97455995dce8efcb7eeeb036"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000799.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "0808d19b970441207c82ba878ae49568c531cdfd5776b9dd0ee952ed288aab3c"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000827.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "39e7a068b5d552602a312fc7172d49e3bb14978d7069f67af00126d7fb7e2fc4"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000843.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "f9ee60eb2899d682195c6a380a83d44ff1d213a61d5b10aabe7c74c21f61feac"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000845.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "53db454e785efe4ba398bf1bc622235873c7a0acbb871c005aeeb03ea4c14b3b"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000849.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "9d6af1efefd71dece6bee803d95f5ceb822b03cef7e423b218883719f89a4d7f"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000853.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "a98f906aa44fefa25bdf16b44e128097ad76d6d271c398570602aaed9b829c75"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000857.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "60eae045d27b3842aa0b4e0f7ebef4ffd60ea0ad3fc4629f5a3107471e03e50d"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000874.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "2f27fd74d6059403d8dc75af591eb3c177e3e0c50fe60bcbdb1c80e898419e99"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000875.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "233a6b087fc588a130fd401149826c43323742988e1676f70f7fcc8156f7e6ea"
+  },
+  {
+    "path": "fan/train/normal_id_00_00000892.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "97c1b51d2c95164828ad50dbf274c540395e045a2f4869d15b7c376923f3bd53"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000000.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "660d5816a6f5466d7722e54ed2e4f8d2e267548ff5bdee078516e82ace551046"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000001.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "85df50b2a0bc133b0274a6266bc23cc1baaca1f6d115c8b7651b4db3d0abf43c"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000002.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "396df7061ae77826cdce2b90960d0a51a2713ed6079ded0a9c358c711f87e941"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000003.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "f9a2e038e1b44474df2e2d23f9c786b1af1bd8e416509d0b5e3b1d5318d51c4d"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000004.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "8e42d6e94ff7a61ca01242758302e4379293e9f0da97f39ad87f4a35db125533"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000005.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "fed7e1388db7f39ee086b8a3c35cb8fd2b639e2eb49ed6e94141aafa731b92b4"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000006.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "62244756b2b32b91dd377edf5338c4db924ef8085a9ac7c0943c9af15828f2d7"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000015.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "cc88467ca4c720d3c49fa00e17b297e6d0dc7c5d1f59374b920e88516c1387a5"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000016.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "ba6e323fab1b96ec69bcc38dfcc93290caf942c94eac07ba43922f4f3a27366e"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000017.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "a988ab513764bf4734a44fcba707f73445e14715f5ac96aaa6e89dbaa35e9085"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000020.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "fcf15b9ea572bd127ebf579e6e1a5fd7e17afd3b6a2e19de15a2554fa127d8bd"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000022.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "55ba027abb3f031b7007b6727e1f2bffa906b8faf074908e66c032e0aa55d68b"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000025.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "1f547f03b076655470f2c524cdd0180723c6ebced8792b0fa50bdf432bad95e9"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000030.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "6ddeb5761a3511b1fcac449d7c87c8ee889a8bac08e046fd8dc5a8cf50611850"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000032.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "dbcac462746390e851de4b7b2935f6ecf7530b20a178b350db073192cd8c2783"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000035.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "9fdda1bd5e8cccb0d5c814f52f0f4411f619542c47d62d8f22af89367334d714"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000036.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "b25bc4dac55c302bc931328d773ba929fca720994a82f738f99695f62964cba0"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000037.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "69664264562cbaa2fd8568a543d51f9bce501e8a95ac35fe1a565c6f181cf06a"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000038.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "6e2d3f796b3e0522455022ed55c1a68db440b336c2b2838bbc772ccf043b5645"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000039.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "456421d0734dc35aa261bf663a7ce8016de4570c8c9552b44054ae069423033f"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000040.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "ae17b2521f8e4dde9e942225422cc4854f5aff52299abe3808159cd6811d3dc3"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000042.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "7d64a5d66794a4c16bdeddf906d3ae0286782c9c4e9567aa02a87de2dc9130f3"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000043.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "39a43cffcf5e0f07a9c0bf6421ce49a69221289591e87c2a34904fa913d0f8c4"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000047.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "6dcfe7b59c9c214a396fc3b704c79cf902cef11f2b8c864dcdb13e54717d519d"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000049.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "40666124895f66fde1f026d5982264f0e3c59eba824074fbf2b749719c1fe1c2"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000050.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "74baff560b81dde2c4714b8ee0815312f87507747ef2e38df216fbf289d60f19"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000053.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "12c732ec65396d1a9798c8735a5a5f6f229b6bb2e80cac561c1a956ac6a364fc"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000054.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "32daf589da5e2845e36c9c7baaabc4cb4a7a5c6bfac319b1f7bd52537c926ad6"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000055.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "eab9496732f3029d3068ea62c69fffc643627b27dbcbc46fbc684443bbbc6551"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000058.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "4460ebf9428d0f4e8dc37e868f49cd25ddedcc71c1fd4179d259878c7e7708d6"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000059.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "251cdaebfb88f8b17c5a5f0adb430d3a633beafa6308f2906e5e0695549b4e86"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000061.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "11251b9cf97a1f2894cf19b745bba48474f53308cd6b8e7078c5ddefd804a39e"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000062.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "efb074b8896d9051672d8f126041c9cc82304eb428553e735b4023f2297c637b"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000064.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "11790f8eb6bf909844b36c54827f7ec70dca66d607dbafffb894988afe6fd8d6"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000065.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "7c953a733c8034a17d671faf55f046ddfca43b26c63ac84305da6e9a8b99d88a"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000066.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "a339e8a64ce6c4ed8be90e0ee898804eb4394e95cd55aed14ee87ac2a7bb2628"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000070.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "7417af8368352e8172b49f52b7ff7bb8a0beba2d890012a32192ab2fb87ec3ca"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000071.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "a764b4cb24e235b95ea3b21c8264038498b94a190d5855651a838b5e241911da"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000074.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "d1caa5e18d4caf0b4f01fb09edb1167451c745f91255fac4af53e140be287b91"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000075.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "cf1ffa6f9856c74dfb02c18ab69b6de0237fe8b422590c5e6535f90c863dcfbb"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000082.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "1c9be3d9d2005997f3f5b07ff702edb93ea390481ff4b90afce5cf98be7f4050"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000085.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "e323509985beb753378466271485e346bac1c088f81772cbb4f3a2e93b026b3c"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000086.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "7ce2c91d1fa4cfdbde35ad4c1fbb72c33a4c70c5458c9d052de563366d8b801c"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000087.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "bd95a2a7718efbff147fdde4bd742f5f1ddc6d62d1416dc1111643e42982ffa9"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000089.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "2846259e0b581f647a840b1829d54ba0826b7a4e12b80499c7a948a468be9bcb"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000090.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "ed3088e7211534fb7c382ebb38ffeccc5f69347a7790582657fac88deeb17c96"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000092.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "a2aaca4dc707eac1d7dcdd8e3ca738cb45c06774f4e0fcf30228cf9b9c9ce574"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000093.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "55302dfa867cb8e4742469c29b7fb32795964ade34f86dc09a2599c1114801b0"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000094.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "a70aa9cfa815e5554328082413c6417b0be7ca1e3b504c9a0057cba2e9e1e94a"
+  },
+  {
+    "path": "fan/test/normal_id_00_00000098.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "ba10ac8670411d3d1f75c84abf82cd4c34af3f395b73ab743b7909a2a28a74d1"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000004.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "260b8e6e9b3f4e530e7827e68c5b62a934b6dfb26c219ce5372a3d90c804edcf"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000009.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "2b6bc1d4f5f931376dbe90ff1fa447ddbe541ccb80265ca857eb71af44f8dd92"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000019.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "b19058759efecda30d672ae2423a940b5140ec45eac53a8548aa8bee51922bde"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000028.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "2694e3c14164cb42d0466b7473c4e4ab3c920974b7497d17b35d633e7c0e257a"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000045.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "f3cc943813f73c69c35d108280faa63cfb260c5d5286ef3c60ab94deedb018e4"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000055.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "b68e6270ed090145b3272e97f1a6278f9646abedc9b494e903b48ccbe3a987e5"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000063.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "30bee0f600006502579fdd38b9c736482e39024845155a78cae44e7d6313804c"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000075.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "aeea1dee236290a79ccaaf783653a07080283dc14dd4fcdcd6350f3e4f495cf8"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000077.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "3f920b5a501ba6ef8f0b56e1ca7614c878eefb443c66cc7158a8cf3dcd4225aa"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000091.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "0edacdd59dd5ee2ed29e1b17fe4b2100be903a09faa075a8e54ce8bddb88b304"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000094.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "8c37bfa5e45097c5d99dc62290a97381e58e90d3d98cd72b3ffd977f680fa47d"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000117.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "bc1665a449e690cff49d1f1e26f89ce89a2590247140b26c63893a6ba49b0196"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000125.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "9e498cb43cd12d8b28858babb3dd4c3ea02c9a2b118753b4be9d6fc82abfc3f5"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000136.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "756db64e0ef3d1460cc65148b7911c25ce3112c8136e74500f61ad3761864f04"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000149.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "149bf1c200b8b3fec98f4c852ab2c50fad2fbdcd132d945923305fbc9da63291"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000160.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "14bb8a6f8749d0949da0398e33221aba8d15c239b0c3812786b718fd9d0fe089"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000172.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "55fe177ca9c6c40d5ef6c8844ad8cf42861a33b6dff927c955c140fec1d2a8bb"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000183.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "4bbd647f538adaa4d5bb86a803a8421f12146e37bf5f53135d278b0e7bc285a2"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000190.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "c13ef34821f9d70fe31ac92a74f95a1d312715a5ee88f1db2b70214cb388046b"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000207.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "70e237ce800ea5a2321dc0573b2628bb09d8bc4550d37f10005c8636d695fb05"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000220.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "fb12bff2e15056d3e7a5fd5f9339ac8f345ee2f8892f2218239968577107e18b"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000221.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "36d61c4b31faf0edbce751673a2fdf5cf5187e756a6dfc6196749cb4cea4fb94"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000231.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "a305cc0dbfc300d0e1ece83d11639110c278e9076e3e6d527e23233039158b0e"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000235.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "b0df069c3a61efd8e89907e60e0b953a165273c978e27a18d74225c00b16644c"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000238.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "093a21017e5c2412873aaedbdaa457196b44a030a4b35c976689c29964ec0c21"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000246.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "d1ba3123a7e4b0fd28ef984a3154644d8e8be387501a9d5dd0a8837fedecd039"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000249.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "95cd858ab500b6f7815cb179e4622ccfb81c14aa8facf5f20eb67fe6a6707151"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000256.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "73bc9e6dc08157c37e6abb92d5e8b32b5e0a00ff1c45da38ffd4029fdd13c6b2"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000257.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "e49dabf26bd090b28801e66a7b995afe6d30357c1940275b5292516709cd3cb1"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000261.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "548140f19c5a5c6f80aec6aa0a937694a7f50f101ae9e59b4a9f4bce3e1cb4e0"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000263.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "7e3dc724287d7398116e03ffc5eabce9e7ac385ed6a3b048f056446bba144b79"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000275.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "df1e701f344cd6863274aaaf0402d6c2da3a5cfd3665a24507bc48dac4ab67f0"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000287.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "7251a6c4eb4dd267afeb1de8dd15802776fa585f14008258578f08c020cf56b4"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000290.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "ddbb154d98934688039f888b6c006d8fc6d7bff2aafb1729c8d1f75bc906b1db"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000295.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "a4dc6007f15c5d1e324dd129c57161bdd3e3985c9453b124b9fe8b01d2ecfeb6"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000298.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "cb92b8bfb2a7820f75139102ce4c43b9c074b35736d5611d1b19107f4a41bb98"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000310.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "6f361f323749c9e42ecb7f487b5552ff6fde1c6bf5089603da1c86e26309da7e"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000311.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "9235a8508c1451e3eb02bd9ac93b17ed2757718b7f11e031c8848c761fd5ba9c"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000327.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "a1d59379458258b285f9f04451d3e90624ef60f91b93892a06ae275b36ae812c"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000331.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "ee9c0d7e2db89b2f6f3cc7621694272024552e0c4a43dbff59003e1696b0d348"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000344.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "e993f69440986171ea6cc4efa67ae47a9d1c5b8f0adab36d6e134a681e3e1c2a"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000351.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "0f99df575883e734d4f603c0db4b0967be39be6b40326459801d08fec6038a57"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000354.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "08e7ba6026a5bfa19026f8c02799f6e9465df67f510fa1fd2c33f54714bfb654"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000360.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "4589656ed560a0eff79eff0446070f028835b545ba7e715bf8076e1734ce67bf"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000366.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "cf9a5bb6fff263ba633301ffb779b42e53516e9940ce56c9e663892638fc0a4c"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000374.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "befd0a9136f09bb8df4767839f267af1387233f90faf30b1a04aff624012badf"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000376.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "6bfec65175a3c54291bc96fbc0553e14b9103bf4a688780d95dd2b8a4d4bfe4c"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000383.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "b7379c605c6b6a9742f7927e6394a680ab80985d432c493e4b68caf425d05c00"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000388.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "c37830f093faa602103d3c884b2c2f07dad1ebd4ba8cbb85bf2b2d45e8ae0fbd"
+  },
+  {
+    "path": "fan/test/anomaly_id_00_00000404.wav",
+    "machine": "fan",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "76b77414f9b30c7efdb21a4fe4599e76eade63a64da8a9e088a66f1af444c47b"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000011.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "14fd252ca545762245220b9b99d5b858ce4d67e97df801518d10e5ca1d097936"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000022.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "eb4817a215ab220cd3f0373e948d6343726083ba044e9c9146ff569a4e6ea579"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000040.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "793a552445c8c494236c53262e5908e1a4e3ecea895c5083a5f032be69232cb4"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000051.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "28eeb63a5104a4d2e898e4ab2c44c8b7e5118ec1e8a9e476ba351cf999790a48"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000052.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "700238d83c585b50f38f032bb46cf2a415c7e2168f088b84a1f9631ba8b89145"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000059.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "65ad3b903311dc0b158c6ad9b6c810eebccf6da87b6e08a721d18e6330537e25"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000063.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "d0dd31f69f157d28ad619916ba1bca47909f87020b170c6b64671dee2f81e5cc"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000064.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "a067210af7ee5a2e0c9323aba7027f9d653136299440959985b0002302c62cb2"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000065.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "5ce737eaf7a87cec1add2eed44d2d1f8a32b917c7eb11c9fb9967bee4082e406"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000071.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "375c8ec74365fb63b9084e97a7a030f94f5bbc24163bbbbe656574babbdc4bd6"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000077.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "e6cf5caa1d42a1ba8edfc99786b8abfaca1bbf5923381287cc9bb400614a2ee6"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000089.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "c4f2afb757e8d8323ba43d76fcb86316793ac159934e124e6ff8622393e06ae3"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000093.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "0fbdcb51f81a9676bbfca60311d718ddf7b7ab1764bf97dc90dc10ab75c9adba"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000098.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "91d93d183bfe7a463b15473af5778092a5c48deea36d988a00fba1672d3d265c"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000100.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "5023028c2205596d6d44d65bf2f26ba66a653ada8871632732c5eda919613a56"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000129.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "97d9fb8489ca0c766b76074f9c9db5275b27e1aacd02cdea39ff02f4875eaedd"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000142.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "e637bf57cd032472091405cfba1328b09322e0808a948caed6473e229f1286ed"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000151.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "13523efa58381e33a14bff8cacb45fead3e1d0b31c0053801efc9eb8c4b4714e"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000156.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "0102881a4a3e86f50ccfccdc05d99d9d80d85fc6e8f7155586dac672a1015c79"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000166.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "281a940a50f7294bfdcb9d86aab72b531d8beb5897a6c0432b00b0c7bd65e649"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000182.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "a439c71604bc123fed6ad7984cba0b84c9d221fa6340624949acd90760132593"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000183.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "1c4b68b996b062bbed0a2727eca7e67264a753e479a0c96f0bd6f805c6621794"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000189.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "bd22cc92677214c001148148c27da475c94f4bda96bd5f67792330eb82de5046"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000191.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "408e63bbab68f0336bcbb824fddbd0cc41d06bb9394d5bd148df75ba70da78ad"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000200.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "eb9a6feaa45d95f123d5038e55afd9ac6873b457b98eaf4d9a34790de70ac79c"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000206.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "f1ca1dbe75fb2ea9b5c5f0e9e4ee52276c0db272bb1eb4d992f4de64c3ce11c3"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000208.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "0e0b6f9a13e2783cd1a87aa5c6de2d1e00b67436325ef62e756199ed68aa3fd8"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000224.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "ede095c6b9130fd76d69dc31b0dca5d66662ec3516c3e2738264e47cd473c36a"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000227.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "64b2219f5005d2443f4698e01f14322e1fb87ea0f6562e814de43d6a4414f3eb"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000228.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "b224e6b5f62dfa9319fbcadd3a2c9ac2d4eff231f6c84a8dc52e98231206f24d"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000229.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "d861e914821782bffe30c8db23297dfda36e215a805ac59956920e127e85e81f"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000236.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "843e23ec355e3b73b1f98335dca72e1ac0e0f7cb69a3e683bae58c4a4be2eb9e"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000243.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "71e4ada225902c98293041b7eb1ff1be1ee5924dfcbbe6194448e00cf686ecc1"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000257.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "abda9fbdab36dd50c7b21d200a4625787fae1029f43fada10dc3c256fefba416"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000276.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "d082ae396692b7708c3f869b047f6dbebd785368f15aa0954c53bce8f327080a"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000292.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "f0ba0f358ca7f837b3e63d08d976dd525c914212fbab64f77ef76fb6fe60f50d"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000312.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "1c664487400ed161d73625a6d0f1e5b05016e23c0896769d4199646383c7bb74"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000319.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "6473c82a4671112ea1cfdf5ecf2ae119f1361a9f13e2c36e72ac4af008f2f025"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000332.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "e3ab110e457aae407f914698a313e2c52a81ff3fbeedfacfe5a1386235c460de"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000340.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "e02e776f96e17e1cb407020fae3267dac8f7b30202bc16a35c5a19347c8e4575"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000345.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "2c5d8a9774291babb21a9e916c80afca1a00c2ad49664a8c7db9ad10460cbd3f"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000367.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "d05feeaa5f61834d59c39fa888518a0289b60345ac3c09edf34a30f4d5bc6c77"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000374.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "5b72f72bc50a1963fcf05efdc89ffb66ad501e030b7518ed9200ca575858b17e"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000378.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "ded8484da79480ceaf8c968f2326102cf7637b3c9632fccc81c1ae6ec57ca9d2"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000388.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "e81c30ca481540b4fd72839b36ec51faf11866edd41568381c0bb2edf5c6c7bf"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000398.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "263a69a8196da34a0048dd06f10a4d2a9c2ababc3c061531856a7f0533d26759"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000399.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "d2b32ac36e41d64e00eab13eac8f94c161855b780d104da9185c1d1f9f777c32"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000404.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "51cdaed38acbbc7c0da1c4fa0b713d4370e69160911b15f94fc008e0e8eae947"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000410.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "d8a5fa86f033fd15bc48f033e5ca2aa64083f912c00e9d25449bfd311f73d6a8"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000412.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "2e1e153909b3baa18820d06684025a30abfdfef4521b00f5de8af088dfe8b391"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000413.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "99b29881d56029cd8652a609f57a9aef8b178e8cd8c6bd1ce1d2d3e874abae1b"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000434.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "ea9e4c669ca856c768822a65a8a184d8ae856f5a735a4feaf8062de545a4eb0d"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000438.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "8b3d2036cc94cac89704b3f2ea19395fcaf7bd7ed0f7d354324f14f247544f0d"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000464.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "77d9b7d14b3d9495c195fb31c87093e8345eb3e5f9e63f5e93baa01b6f6c5f67"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000470.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "9f5d98beb8d4d4dbfa2d3667a55d3c56ecb2c06a57ee5e6b27b478738b2085a7"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000471.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "32a2be1efeb76a0eb3c1cad7a110a8b0c19eacc61679c4c17ebf4a084851878f"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000472.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "1eabb95fb91bbd1b504bddcbd2ab745179917fc44d73dc826958df828d57c3db"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000484.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "66ac191fcff79bbd99e420874a0e7775a1134afac1530f191a8f4a1cc7531d08"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000485.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "34e7bfbb18bd1f62d01d496614e9a686546a9e9d65e71b461103745022c0ebac"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000489.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "aba666530d45f9435b5a8a9847f176d46d46f22068e48d38cfd84a9871deb86a"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000502.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "c25b704dbbed62b49b4b1a64b123aba34ea16ac5312c6c2c89bff8dcf67a67d7"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000519.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "eafb2080bb9b8f35ddb77062978a36f34f546c6197eaad0edb5a2a81811c918d"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000523.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "828265796e1e48b88628f7f8085d0d7ec942f6664d3047237f5a4c8e41ebbd96"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000528.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "3afd1ff21236b122fe937c644566e3720a160544a794cfe374335fc36d6284ee"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000529.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "71fa4f408588fd0a4ff417232cacb30704525bc25bc7910e8cee7192b638d3f7"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000531.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "022f21d8939955646640423465cc7c4fc7e9516af67d036e1324dd362027fa79"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000544.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "8fe655bf3b09dc48c97e59f19ac2d9d9d89156e90e3f321764b878933b070506"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000558.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "f44c632ffe999d0a09ade88089d49c55d745420a5cfb724877c56f1765b9ca5f"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000561.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "fc4e0222f19dc3239c30a25742d36dbbe97e249b270c9332f66d2f4ee5dd5efd"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000566.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "cd0ef08b839488f4fa96230b75c4ac826a78dede046792e5c4eea550b546b0b0"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000569.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "93b07f3810fba314747682908d7cefdef94caf7533a8db7220fd8a335462ffd1"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000576.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "9e60a1d52cc135a7e92ecd8a869c4f2ae048ff35fd3679d5437dbc32afea1b26"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000585.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "c5d9bab9f592c291b334f9fb4780e216aaefac650a4d6831b433273a759f82c6"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000588.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "cd9a7e82e047b39a85943f5173abc7105c67e559e74d217a0ebc21087e2cc4ef"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000610.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "e7abdd85ee2fb1e4d008d6400fcf26a09edca157afe9af423d0a8cc844cbf309"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000618.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "5a9f39d63573a36815c04ee2d7f2e5b25e6d8bf8119b28118cd96fa077551f3d"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000621.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "75223af9c913cdd38278bc96f0e300dcf2efa18529c30b5e8554eda87628334b"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000639.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "61d3b81400a306c7cbacb17ea93af82c21ff5b72e606379f421cbcd2e7f3adc0"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000650.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "6f345fda6cfc1a8144ff02f604a3aad696f1f698c58b6284124147e58207c50f"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000669.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "673ccc5f6ff3b723f7ce2b1cda8a3e3093b0225f0db5ab68cfe69a98a454e521"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000676.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "e876ded724684d0ea7773c5ce2b9c3da2e11a1e03944f2dd200e5070e8a0962a"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000687.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "75660422eb384c2715bc0d14c4bd1466b9fa12b209d60ec31b5f3e0a8331a216"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000701.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "f0a87964d3340ca121a439de310b9f899454e553395a8d40bd1bd26fafc0ac7b"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000702.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "c49386b31d0c10ba662636c90ece6c3e299f676424b17a5098f76f6c232f6a7e"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000736.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "56bad5f4c865735c827c5ae770d1c10114a9b25ebfc26075d922fc196e6a492e"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000737.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "5cf7b6a47cfb602a11550d9f68bc653a465ebf44cc2e7a98c59a96aa18b88e7e"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000750.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "a2bb9af8ef7af861d489877a6adf9d79913e254715d446eeca2d4cd51f1eb241"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000751.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "9c5ae1f0d21ea9aa0d2ab6444ad3d78a6d8c62856c3c284c865cb51e834048f3"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000753.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "1c035133721c71f1a758532c206e742299b7ec2cab3c4fa7b714182a02bf6d60"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000758.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "4192ac4e0c7a5c6f5a4f181ae1fb4076e856d06086c19bc0535d3f48fba6cddd"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000760.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "b6a23e3d83692f9776980c8f9bbf764308578f1ad91b299734379a5fa14bd790"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000773.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "5c99e76c9f2eeab4195213c7390ea3a666c1a68aa39c503ae50f101b15447bda"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000784.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "0ce3a7093b5b3be66d3c055e15b1e1db9bc50529ed44221e7e3c5e74c73fd58c"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000785.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "4caa2adc293f7ee201adc843e99807541734a0171cc436c8b3a379cd02ed3b6e"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000807.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "2cbcb3ddc181b6c49dfee7f32c8a7162e22efdbb1ac24dfc021aba7e9c1a9a75"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000814.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "6e152c7867bd7f4fe0b741c6a19708286121999a3180e5c5fbf289bb178e50ab"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000831.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "017f60cc2110eda25b94fa33680a8770197d96599ff5a93d7e7911f2b04b2c01"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000836.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "17d0a2780adce82fa400b9a828a21ebea3e662161b4cc46b7cd6723e4c624877"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000852.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "27a69cb568edf43d5183e8b44286e55612a83b4767d38f7e4591db4d68622b7c"
+  },
+  {
+    "path": "pump/train/normal_id_00_00000892.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "train",
+    "condition": "normal",
+    "sha256": "a9eeb015147869f8228a218bec7df00954e59e759cc8eb372ef1a8294f479d93"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000004.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "c19441a47c9b62f40fb6e75eb2dbb949282643197f82d3c0e7ed43886089a881"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000005.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "a18f1560938e8ef02e5654d1ad1e045f583fb54deb0f33a3c4f6a2a5f5effce6"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000007.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "f5d42596cc760f9ce8dcfae4c3caa8e5b42612d2716c6fda5b4bca03690f720a"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000008.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "be434ae6d4d200274887940eee4c3eea330a2ecfc65eb5f6d8421d19caf1ad30"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000012.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "6c995d30b3447d891a9e6b26fef56423c4e98e502c6de8d385d9ee828db10c50"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000015.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "d23f4210a82079e8e7e7fa16a127c2cea64fce31ae475fd8cc53580b9662bee2"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000016.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "dd7b4bacdf64d9772b7fcc7806bcfe3d938ad7eadfe86a6e5b099972c926bcbc"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000019.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "2caa4a9ef6d899506279d3d1d82bb1c648ed408293d7412d52c3dc696d06870c"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000021.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "448def9b3a2d10a42a8bbd6d7e261d978eeee5ba96d4a52ce430f1e64e868974"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000022.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "6aa3a8e751318594c97da6bee256c004b5a60535daa61da4e257daec73a411a6"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000023.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "4c5a774c960b0646cceb84df311258e72aecd8b527ab5ea70822661658fdf2e2"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000025.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "ab1d3156729e028933d269f548d6f715511face2e16f5d7666273ed79fd550d9"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000030.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "8559f9edad96e359840f1da56ae0829f48bb05aa858662e8a13caf8342f03127"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000034.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "e1df33fac6d4a2ae21f5773a57afa8a221f152c0c87c38abcfea1d0f9ef09853"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000035.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "27e12ec24a710e9e45a8827bb8ace35d6007b6b76a0488e91328925af64562ba"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000036.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "37f79432f0931c49f53c63adb7f526d1a4da8f52c3d32395ea63722d44783e43"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000038.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "b035c29ddb3de94870f467c33ab4840a51c7a2f5d624dd4cee278f7f9c559fd9"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000039.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "015a6b132e8961df68b1b3e871a8dc6cabc5d128c7884a5ecb50d2d802061cf4"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000040.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "2d80cb23dab8e229816bd2582fb4d9ac988eac91096eeabc2681c82ea7ff6d08"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000044.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "ccfd5f41837739b4c743cb0485f17c9e97604eb07d5a00259a73bf05b9fff2f6"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000045.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "6cc828f098a9eed74a6972c8166afc4148288dd66db0cdf8d2199e969fbf7789"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000048.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "1bb6a500a2a9b9fd9011659f53c7aca51b616e303b07cb8c2db446bc271fb2e7"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000049.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "81b4122b9e5cacc3d7bc95df77eb647886ffbd9fc57cb56a5a79ed70b670bb44"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000052.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "01d65f85fda20b05b87ba1f38e4d3bfb271f52f89064bad02e111d3458ffb3e0"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000054.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "a8aa21fb10451296fef98e1a0fe0788c646a364bb2d5bc9bd57bb8410a75d574"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000057.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "220e3587f8857334d60196c12d651756fe0393d4882d6bd836bb1611bb364aa0"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000061.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "0a1cc3787d5c66e5b13d88790319d2d25833b17bf7506eeb55831ed6187e125e"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000066.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "113671729fef82bc45d1363bce79becd0b9966eabe3a38009769fb692aa5de63"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000067.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "306188cec0d8a80e37ba1b8e4813cd61158cc55381cdfd1c80e4db38599f3c31"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000069.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "8eebbdad134bd2f08310befa305c33f696aa005abc8d5c20752d8bba7bd2f4a5"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000070.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "4b73ef7b6ec62aafe6752d5887564ef7ccdb4738186b4e5ded2397cbeb456c30"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000072.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "9820cb0808d22414c5a7548ebf16e28965c50de85ac9a71b5bbc233f3bb226e3"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000073.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "3539f7795a365605120de9105ab52ab7a28d051523e30033513dccf2a312838c"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000074.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "d4f5f84c78cc1020c9f89931507d9b374e0fb99faeafd00daf5598ed4c5282a3"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000076.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "e6da6b8b0d530e096c7cbaecb035ae90d5be17c288b887838b63053b535329f5"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000078.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "a777e8aeef8ed35e175093f29b5f952fdc233263531193fd98683ef106fd6b8a"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000081.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "db8971e95af26dca58747c136de8ae4b6c6c15dd8e6bdfa9049c8029d4807f30"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000082.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "1a0e62af02593997942a9e307dc42d1f2af5cd5ef73bc4666660146685c1173f"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000083.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "e539729e81d8522dcf0b1002203f5bdca9b11b1e1926c3b63922759da2a1d4a8"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000084.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "2564cc040b1a72c803dc8ea1b60fdf7832aa778150a33832408ccc29f37f2e3f"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000085.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "591632b3e33eacf9e6b67f862c265e87801527512966905749fa7e60d5053f6a"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000086.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "51764cf75d815ca730ee5962532048dcba7730e886c49e503e14388d74217d4c"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000087.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "3daef1f0b8fe3e91781feb2dbc742e6fbd50626b34f6279cdf458f791289e888"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000088.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "3f293dea29562ee1f2df1a4275c515e801e8140b9bd50cfc45050c618502bed2"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000089.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "bcd3cf93f483e52e095765fefc9fd5dc14e86ae97344639dbaf48adfaf8e9c8f"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000090.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "f45eaa7fb862763b8fa543e22532d0cefb48d80dcfe3b6e263f8a9a0d35483f4"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000093.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "afa46c59518e12b21904fa8266d567321e94e5a413865c5459d856ca9f871a29"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000095.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "858fd953dd77472aaecf8b1a6eff3b37c40e8c2d9be8f81fbcdf68508042b56b"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000096.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "60c6631549218402a05ed1a1c3979e67ff00a1dc73aee432147cd7d08b518457"
+  },
+  {
+    "path": "pump/test/normal_id_00_00000098.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "normal",
+    "sha256": "1249c95aaf5fa6a4ab160d508db79276d5b836213de6e8bcc0088a041b61897b"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000001.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "451b7169f9c04d1f2a69e15f7e2c2fbe7f4febe62088522c668cb274ea1da897"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000002.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "92dcd297f832a200f9495743cff7dedb200b79b05ac542e51b947468bdf85b62"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000004.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "b09f4e29150742f009aaaa52c1db5a817a18e9193715035357920a23b5a65c58"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000005.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "1fa20411bc4349c54b05f4bef5a5b381d3d877918e4d712e38b85fe6052b6cbd"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000007.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "26401ef29b4b967af274bbd4aad0c9d36c4b126f2edf4bc7c82f25ce3a9dad27"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000009.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "8ccd1aef85213dea8d8964d11dc72f1a42de6f643f9ff4655ffe95e606231c6d"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000012.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "682df35ceab65ee7867ff0eedfac765bea74530a1526d661fda82cb50df4ddc3"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000013.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "2de731ab8392015975c1a5a093f34eab4e6b401a08dbaa36d3fe57120587a475"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000014.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "d8072495c5c0fb9dff001f12e2b49f994f9ad7337ddd570c484ffcb3d3456058"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000017.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "4b5abdddd7365281656923b75c3c9b988cd5012c67a80c28e67834f20dddd406"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000018.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "63bd3490b36ae7dd14cae9ee9c34f48e528a2ae0a3e517c2441b620c89460f4a"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000022.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "10b3e227a3395eeb0d150cd3dc14cf213db6b3923d67be41a4d9195f1c3d3333"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000026.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "e944adfd06a9d2283c55c6b3ac49b240232d4a11c04a7f043c253c04f584ad2b"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000030.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "76a5aa2801a2f43fbc3c9e33acd24ae682d8117dab7f6bc1d92d02a54b1e68fb"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000033.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "26372deee5c56afb041adc50b6b08609e915363093fb0d41ce3fd12e2776f948"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000035.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "62ec5fe335e79ab9971c496af747234ab906bfca2a3a05ea06593d22401500cc"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000037.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "2d7d68f0117e0a614393e6b3857ac3e316f6dec8e25255de83a6a6c3792d0c22"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000044.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "44655cd6a80c01522483bec6bdb746fa84bd3d5028110ae439df7e0984b0f2bf"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000045.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "3d9cd45ec82748fecec97dd058e0036be60d4f404cf32627c707f1af379f0cc8"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000046.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "3edd79204bf717cafd27830c1c9f608a22fbdbf090d90a142890b51d5d1590d2"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000049.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "3816c4aed6919a9225e6e53070b6749368fb41f94d7f3ee0a5dd764e954d5429"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000067.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "6b9571dbafa31b6511dca3be0d16b80b5826041e68bb69d1fad60c67d6a6ddc1"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000068.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "22d76a9a6acf2760670008932d7e8d5aa08b44ce405ca812fbf47b1847fb1ea5"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000069.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "125a5199ff47a410758f656a778a9f26292e1feb2bf5a62d027355a66f41fe7c"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000071.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "9c1fd3f65622949c2e73a41f6d6ec8b5a6c37b63e3fba9496420452cdfd05cc1"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000073.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "5f2ef5a6d16f794a9c6b4e92891ebed48761cfa121812421c2a80c92f5308d1e"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000074.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "c8682a064117dfde4a3c4708693fccb8f0b285efeb0dd2c6acb96c63885fcaf8"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000075.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "36b8da297f70f23b52cbfed22dc6d88848fc45b1e13f9b6817b3a72ea937a742"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000076.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "07f6733d272e69a6e1ecfa43cd8e2a990456bf2d82ee8354757e4842ea2d6776"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000085.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "e9beb59eadd59ad90ad8e206b6a634f1726941b9bbd2836929da743f389f95fb"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000093.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "b1083c31fa64da522e5f8b9cfab987f2c393c53bb1638cb09d0648eab8a6f094"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000094.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "2471c3167e61a88e100e182a87f8667acc5950b1d045edbe75f2e12101a894a2"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000095.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "1c8797d71834a7620f73a59d289f86b663ef7f6738290a6d9fce5ca722536465"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000097.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "e8e34a4af734e430d57a89ab295401f38b797e72df4967e8b2ade51e1bf9c16c"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000100.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "280d754dd6717b7e57792af01482f6ada45c01b989958d3c9df124ab51182c36"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000102.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "ff66e7fa96392453aa7b3b03a776cf783063a282f900db29a69a393bc8f9e56e"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000104.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "d7687e9e8a8e67b784988d0aa0678a8748f2bdbfdab5e2ed64c533742463eacf"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000107.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "26e8b29e9a72eef1664d0c1cb292eba0696c3d9fa8cf0416bd5e2c04004b28d6"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000109.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "26322a91af42fd0ef1d3f3e746660cb4bdeb7a5e2362c583069bfff00720e27e"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000111.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "67068eb26497d5395e89c08be5aba819f82d8f89b30059ff06bf4069a10ed8b7"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000112.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "e73837cc2675d9e04af8e8b92bedf6083ef72da00bad34c8356ffc72eaf7aca4"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000125.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "0a388e17e283a7ee2718695160fc15ee4b9d588bb53a2ef16c714c6e6d2aebaa"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000126.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "dc062005bf3674ed2f7a53073a7eb6630909f9889b554e1562e330fa33466cac"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000127.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "81185c15a0775be81590a3906d73f3c7f857ec32c036450230d8d77a3e3b40e9"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000130.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "da236596216c2f5b1e76cff06b559522833115bf6c6298486ce38e445a114720"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000133.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "f9352bb677e2c82a4937c46d0f6de3cf3f032f627e8a21d2d8df37d378d5d40a"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000134.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "5da3b60c6057a8f0cd05c9b1af2df77ab331572ba88a5aa0e7da9ec851ce279f"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000136.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "22540527ed72427462f19ecc13b84abe8824772e8afae39b4224c3ddce16b0ac"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000140.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "ed7e5c615c3a09a4c9b766f18b113c28a76558557947e1c3803795af9ca48528"
+  },
+  {
+    "path": "pump/test/anomaly_id_00_00000141.wav",
+    "machine": "pump",
+    "machine_id": "00",
+    "split": "test",
+    "condition": "anomaly",
+    "sha256": "801b1e210107b3e35690f8726e3716a5a55ec63d06c84d8b3a3379e34bac95b5"
+  }
+]

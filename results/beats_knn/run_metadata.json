@@ -1,0 +1,17 @@
+{
+  "completed_utc": "2026-10-22T20:28:41Z",
+  "host": "A800 ubuntu01",
+  "device": "CPU",
+  "threads": 8,
+  "python": "3.10",
+  "torch": "2.0.1+cu118",
+  "torchaudio": "2.0.2+cu118",
+  "scikit_learn": "1.7.2",
+  "beats_source_commit": "31c5b904ca1bf2afb4c234a6675c683a4e5fc7cd",
+  "beats_checkpoint_revision": "5b53b0404df452a3a607d7e67687227730e5bad1",
+  "beats_checkpoint_sha256": "8d1b234032a9ccff353612dc6c20982346dc2968b205b79d97303eb5e77bfb34",
+  "script_sha256": "476a77525093ebe3426c47d35216f8491ac156e18a8ae67e3c216cd539960571",
+  "config_sha256": "2e8953cf4829d86a1fe193844548872b1fa04447c010a18c4548cbe5da0498af",
+  "manifest_sha256": "b32f187842a4f3b82629966aa1bba7a3e361f6de7a01ff25bbed4207d1f29989",
+  "command": "OMP_NUM_THREADS=8 MKL_NUM_THREADS=8 python run_beats_knn.py --root /data/Claude/electromagnetic-foundation-model/dcase2020 --checkpoint /data/Claude/electromagnetic-foundation-model/models/beats/BEATs_iter3.pt --beats-source /data/Claude/electromagnetic-foundation-model/unilm/beats --out /data/Claude/electromagnetic-foundation-model/results/beats_knn --config config.json --device cpu"
+}

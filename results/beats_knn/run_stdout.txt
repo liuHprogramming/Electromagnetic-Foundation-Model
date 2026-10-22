@@ -1,0 +1,28 @@
+Embedded 50/400
+Embedded 100/400
+Embedded 150/400
+Embedded 200/400
+Embedded 250/400
+Embedded 300/400
+Embedded 350/400
+Embedded 400/400
+[
+  {
+    "machine": "fan",
+    "machine_id": "00",
+    "n_train_normal": 100,
+    "n_test_normal": 50,
+    "n_test_anomaly": 50,
+    "auroc": 0.5932,
+    "pauc_0_1_standardized": 0.5242105263157895
+  },
+  {
+    "machine": "pump",
+    "machine_id": "00",
+    "n_train_normal": 100,
+    "n_test_normal": 50,
+    "n_test_anomaly": 50,
+    "auroc": 0.7176,
+    "pauc_0_1_standardized": 0.5831578947368421
+  }
+]

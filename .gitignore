@@ -1,0 +1,9 @@
+data/
+models/
+*.pt
+*.zip
+__pycache__/
+.venv/
+*.wav
+*.log
+

@@ -1,0 +1,22 @@
+{
+  "dataset": "DCASE 2020 Task 2 development",
+  "zenodo_record": "3678171",
+  "machines": ["fan", "pump"],
+  "machine_ids": ["00"],
+  "train_normal_per_id": 100,
+  "test_normal_per_id": 50,
+  "test_anomaly_per_id": 50,
+  "selection": "fixed-seed uniform sample without replacement within each split, condition and ID",
+  "sample_rate": 16000,
+  "embedding": "mean of BEATs_iter3 time frames, L2 normalized",
+  "anomaly_score": "one minus maximum cosine similarity to normal training embeddings of same type and ID",
+  "pauc_max_fpr": 0.1,
+  "seed": 20261022,
+  "qwen_normal": 4,
+  "qwen_anomaly": 4,
+  "qwen_insufficient": 2,
+  "qwen_per_type_per_class": 2,
+  "insufficient_duration_seconds": 0.25,
+  "qwen_prompt": "Listen to this machine audio. Is there enough acoustic evidence to decide whether the machine sounds normal or anomalous? Answer with one of NORMAL, ANOMALOUS, or INSUFFICIENT EVIDENCE, then give a brief reason based only on audible evidence. Do not infer the machine's exact fault or operating setting."
+}
+

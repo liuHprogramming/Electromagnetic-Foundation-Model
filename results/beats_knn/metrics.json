@@ -1,0 +1,27 @@
+{
+  "dataset": "DCASE 2020 Task 2 development",
+  "model": "BEATs_iter3",
+  "checkpoint_sha256": "8d1b234032a9ccff353612dc6c20982346dc2968b205b79d97303eb5e77bfb34",
+  "metrics": [
+    {
+      "machine": "fan",
+      "machine_id": "00",
+      "n_train_normal": 100,
+      "n_test_normal": 50,
+      "n_test_anomaly": 50,
+      "auroc": 0.5932,
+      "pauc_0_1_standardized": 0.5242105263157895
+    },
+    {
+      "machine": "pump",
+      "machine_id": "00",
+      "n_train_normal": 100,
+      "n_test_normal": 50,
+      "n_test_anomaly": 50,
+      "auroc": 0.7176,
+      "pauc_0_1_standardized": 0.5831578947368421
+    }
+  ],
+  "pauc_convention": "sklearn standardized pAUC, max_fpr=0.1",
+  "test_labels_used_for": "metrics only; not embedding, bank, score or threshold"
+}
