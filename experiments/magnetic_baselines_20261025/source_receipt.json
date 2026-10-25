@@ -1,0 +1,114 @@
+[
+  {
+    "name": "mantis_git",
+    "url": "https://api.github.com/repos/vfeofanov/mantis/commits/main",
+    "sha256": "59b757e4374964002d5820eeefe4eb96a4d71cd85722958faa8f9f90b7a92454",
+    "revision": "23ecfe493830db177546ef159947de7d79a573bd"
+  },
+  {
+    "name": "granite_git",
+    "url": "https://api.github.com/repos/ibm-granite/granite-tsfm/commits/main",
+    "sha256": "a9429bb62e8bb956eb5a0a723a4ddd28ce7e47b0afd368ff32a18a41e4f6c8ce",
+    "revision": "9d0b839f997eb4918822a43036012ce8c277687c"
+  },
+  {
+    "name": "mantis_model",
+    "url": "https://huggingface.co/api/models/paris-noah/MantisV2?blobs=true",
+    "sha256": "e164a6369d93001fe5e612cb58562e0fb28927b33da712d5c90707e996771012",
+    "revision": "8f6ca35cb54ab14b120618943c6fca5ddf5a76a6",
+    "files": [
+      {
+        "rfilename": "config.json",
+        "size": 375
+      },
+      {
+        "rfilename": "model.safetensors",
+        "size": 16771648,
+        "lfs": {
+          "sha256": "49d46d9a49cccdc87c46f4e0088fa52c0a6ef7eb4c13de5cc9815426b7b17ab1",
+          "size": 16771648,
+          "pointerSize": 133
+        }
+      }
+    ]
+  },
+  {
+    "name": "tspulse_model",
+    "url": "https://huggingface.co/api/models/ibm-granite/granite-timeseries-tspulse-r1/revision/tspulse-block-dualhead-512-p16-r1?blobs=true",
+    "sha256": "2922ea7507fcae078cd18f24fafbadc4a27a8368e938b57d856daf4cfab1317d",
+    "revision": "66cfb5464ed5e5a5cd7f5df1339af4e51461d955",
+    "files": [
+      {
+        "rfilename": "config.json",
+        "size": 3508
+      },
+      {
+        "rfilename": "model.safetensors",
+        "size": 1899468,
+        "lfs": {
+          "sha256": "71fddf719ebe8e8c64eaec5769620935af48263dc35e4ce6f3f88f7708e973e1",
+          "size": 1899468,
+          "pointerSize": 132
+        }
+      }
+    ]
+  },
+  {
+    "name": "mantis_pypi",
+    "url": "https://pypi.org/pypi/mantis-tsfm/json",
+    "sha256": "0bdbffb34d15ab63865157b84e9a139eb110314340ab0a2fe0492afcfa5cce23",
+    "version": "1.1.0",
+    "requires_dist": [
+      "datasets>=4.0",
+      "einops<0.9,>=0.8",
+      "huggingface-hub>=0.23",
+      "numpy<3.0,>=1.23",
+      "pandas<3.0,>=1.5",
+      "safetensors>=0.4",
+      "scikit-learn<2.0,>=1.2",
+      "torch<3.0,>=1.12",
+      "tqdm<5.0,>=4.64"
+    ]
+  },
+  {
+    "name": "granite_pypi",
+    "url": "https://pypi.org/pypi/granite-tsfm/json",
+    "sha256": "d4b9665efe0b47ba361409b0bbf69962c7787bcf6ba14f6e84c6cc60e1eaf2d6",
+    "version": "0.3.11",
+    "requires_dist": [
+      "transformers[torch]<6,>=4.57.6",
+      "datasets",
+      "deprecated",
+      "urllib3>=1.26.19",
+      "numpy<3",
+      "torch<2.12,>=2.10",
+      "scikit-learn<1.8",
+      "pandas<4,>=2.3.3",
+      "filelock>=3.20.3",
+      "einops>=0.7",
+      "granite-tsfm[dev,notebooks,testing]; extra == \"all\"",
+      "jupyter; extra == \"notebooks\"",
+      "matplotlib; extra == \"notebooks\"",
+      "ipywidgets; extra == \"notebooks\"",
+      "plotly; extra == \"notebooks\"",
+      "kaleido; extra == \"notebooks\"",
+      "tensorboard; extra == \"notebooks\"",
+      "pytest; extra == \"testing\"",
+      "pytest-cov; extra == \"testing\"",
+      "granite-tsfm[notebooks]; extra == \"testing\"",
+      "parameterized; extra == \"testing\"",
+      "pydantic<3,>1; extra == \"testing\"",
+      "granite-tsfm[testing]; extra == \"dev\"",
+      "ruff==0.5.7; extra == \"dev\"",
+      "datasets; extra == \"ogv\"",
+      "plotly; extra == \"ogv\"",
+      "kaleido; extra == \"ogv\"",
+      "granite-tsfm[notebooks]; extra == \"demos\"",
+      "streamlit; extra == \"demos\"",
+      "altair<5; extra == \"demos\"",
+      "plotly; extra == \"demos\"",
+      "streamlit-aggrid; extra == \"demos\"",
+      "kaleido; extra == \"demos\""
+    ]
+  }
+]

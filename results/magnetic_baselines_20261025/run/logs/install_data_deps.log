@@ -1,0 +1,16 @@
+Using CPython 3.12.15 interpreter at: /data/Claude/electromagnetic-foundation-model/sota_20261025/.venv/bin/python
+Resolved 7 packages in 806ms
+Downloading pyarrow (40.3MiB)
+ Downloaded pyarrow
+Prepared 7 packages in 2.45s
+warning: Failed to hardlink files; falling back to full copy. This may lead to degraded performance.
+         If the cache and target directories are on different filesystems, hardlinking may not be supported.
+         If this is intentional, set `export UV_LINK_MODE=copy` or use `--link-mode=copy` to suppress this warning.
+Installed 7 packages in 849ms
+ + datasets==4.0.0
+ + dill==0.3.8
+ + fsspec==2025.3.0
+ + multiprocess==0.70.16
+ + pyarrow==20.0.0
+ + wrapt==1.17.3
+ + xxhash==3.5.0

@@ -1,0 +1,34 @@
+{
+  "mantis_minus_mantis_random": {
+    "mean_macro_f1_difference": 0.0030832993972740863,
+    "descriptive_paired_device_day_bootstrap_95ci": [
+      -0.045612895693954734,
+      0.056180744807164174
+    ],
+    "n_device_days": 14
+  },
+  "tspulse_minus_tspulse_random": {
+    "mean_macro_f1_difference": -0.00131816235728509,
+    "descriptive_paired_device_day_bootstrap_95ci": [
+      -0.0413911455241907,
+      0.03716900199132652
+    ],
+    "n_device_days": 14
+  },
+  "mantis_minus_physical_psd": {
+    "mean_macro_f1_difference": 0.0857562007403122,
+    "descriptive_paired_device_day_bootstrap_95ci": [
+      0.022645019191587085,
+      0.15268955011918006
+    ],
+    "n_device_days": 14
+  },
+  "fisher_adapter_minus_physical_psd": {
+    "mean_macro_f1_difference": -0.02955528185538956,
+    "descriptive_paired_device_day_bootstrap_95ci": [
+      -0.08589226017069423,
+      0.02822297931593758
+    ],
+    "n_device_days": 14
+  }
+}

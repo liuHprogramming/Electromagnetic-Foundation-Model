@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "verified_utc": "2026-10-25T23:00:37.230903+00:00",
+  "n_windows": 343,
+  "n_predictions": 4116,
+  "feature_keys": [
+    "physical_psd",
+    "mantis",
+    "mantis_random",
+    "tspulse",
+    "tspulse_random",
+    "fisher_adapter"
+  ],
+  "checks": [
+    "all processed window SHA values unique",
+    "window array SHA verified",
+    "all feature matrices finite and aligned",
+    "every model/protocol predicts every input once",
+    "all fold macro-F1 and accuracy independently recomputed",
+    "paired day identities match"
+  ]
+}

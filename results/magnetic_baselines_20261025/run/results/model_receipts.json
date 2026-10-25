@@ -1,0 +1,65 @@
+{
+  "models": {
+    "mantis": {
+      "repo": "paris-noah/MantisV2",
+      "revision": "8f6ca35cb54ab14b120618943c6fca5ddf5a76a6",
+      "files": {
+        "model.safetensors": "49d46d9a49cccdc87c46f4e0088fa52c0a6ef7eb4c13de5cc9815426b7b17ab1",
+        "config.json": "f28885b7aa662cedcaf5627659fc0fba9cf8ee49d5b991280522e04fa5b1ae80"
+      },
+      "parameters": 4188672,
+      "embedding_dim": 512,
+      "dtype": "float32",
+      "peak_allocated_bytes": 97156608,
+      "peak_reserved_bytes": 127926272
+    },
+    "tspulse": {
+      "repo": "ibm-granite/granite-timeseries-tspulse-r1",
+      "revision": "66cfb5464ed5e5a5cd7f5df1339af4e51461d955",
+      "files": {
+        "model.safetensors": "71fddf719ebe8e8c64eaec5769620935af48263dc35e4ce6f3f88f7708e973e1",
+        "config.json": "6d09b96139dd407695ca11f68d43793a05e0a9eb6452a245d99340cab946b395"
+      },
+      "loading_info": {
+        "missing_keys": [],
+        "unexpected_keys": [],
+        "mismatched_keys": [],
+        "error_msgs": []
+      },
+      "parameters": 467471,
+      "embedding_dim": 3312,
+      "dtype": "float32",
+      "peak_allocated_bytes": 15662592,
+      "peak_reserved_bytes": 31457280
+    },
+    "mantis_random": {
+      "parameters": 4188672,
+      "embedding_dim": 512,
+      "dtype": "float32",
+      "peak_allocated_bytes": 97156608,
+      "peak_reserved_bytes": 119537664
+    },
+    "tspulse_random": {
+      "parameters": 467471,
+      "embedding_dim": 3312,
+      "dtype": "float32",
+      "peak_allocated_bytes": 15662592,
+      "peak_reserved_bytes": 31457280
+    },
+    "fisher_adapter": {
+      "checkpoint_sha256": "9924cdeec51ea796557af0c1920f0a2148303b3c26d2b41a39dbb8c4ff94fb4a",
+      "loading_info": {
+        "missing_keys": [],
+        "unexpected_keys": [],
+        "mismatched_keys": [],
+        "error_msgs": []
+      },
+      "embedding_dim": 1152,
+      "stft_n_fft": 256,
+      "hop": 16,
+      "sampling_hz": 256,
+      "adapted": true
+    }
+  },
+  "failures": {}
+}

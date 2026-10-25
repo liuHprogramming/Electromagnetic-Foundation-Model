@@ -1,0 +1,12 @@
+Using CPython 3.12.15 interpreter at: /data/Claude/electromagnetic-foundation-model/sota_20261025/.venv/bin/python
+Resolved 3 packages in 765ms
+Downloading granite-tsfm (3.6MiB)
+ Downloaded granite-tsfm
+Prepared 3 packages in 2.18s
+warning: Failed to hardlink files; falling back to full copy. This may lead to degraded performance.
+         If the cache and target directories are on different filesystems, hardlinking may not be supported.
+         If this is intentional, set `export UV_LINK_MODE=copy` or use `--link-mode=copy` to suppress this warning.
+Installed 3 packages in 126ms
+ + deprecated==1.2.18
+ + granite-tsfm==0.3.4
+ + mantis-tsfm==1.1.0

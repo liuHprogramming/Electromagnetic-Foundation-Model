@@ -1,0 +1,21 @@
+{
+  "task": "four-state centrifuge near-field magnetic classification",
+  "classes": ["off", "speed_up", "speed_max", "speed_down"],
+  "raw_channel": "Magnetic_Field_uT",
+  "raw_sampling": "infer nearest 4000 or 5000Hz from segment sample-count/time-span; hardware clock still needs verification",
+  "window_seconds": 2,
+  "filter": "4th order 100Hz low-pass, zero-phase, 0.5s context on both sides",
+  "model_input_hz": 256,
+  "model_input_samples": 512,
+  "max_dates_per_device": 12,
+  "max_candidates_per_class_per_day": 12,
+  "selection_seed": 42,
+  "replace_rejected_candidates": false,
+  "normalization": "model native operations; readout scaler fitted only on training fold",
+  "readout": {"type": "RidgeClassifier", "alpha": 10.0, "class_weight": "balanced"},
+  "protocols": ["leave_day_out_within_device", "leave_device_out"],
+  "test_hyperparameter_tuning": false,
+  "gpu_memory_limit_gib": 24,
+  "numerical_threads": 4,
+  "benchmark_scope": "curated magnetic pilot; no claim of a public or full-dataset leaderboard reproduction"
+}

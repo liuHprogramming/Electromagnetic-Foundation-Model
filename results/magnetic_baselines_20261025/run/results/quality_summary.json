@@ -1,0 +1,83 @@
+{
+  "preselected_windows": 1462,
+  "accepted_windows": 343,
+  "accepted_devices": [
+    "3302",
+    "3304"
+  ],
+  "accepted_device_days": [
+    [
+      "3302",
+      "20260518"
+    ],
+    [
+      "3302",
+      "20260526"
+    ],
+    [
+      "3302",
+      "20260528"
+    ],
+    [
+      "3302",
+      "20260607"
+    ],
+    [
+      "3302",
+      "20260611"
+    ],
+    [
+      "3304",
+      "20260515"
+    ],
+    [
+      "3304",
+      "20260520"
+    ],
+    [
+      "3304",
+      "20260525"
+    ],
+    [
+      "3304",
+      "20260527"
+    ],
+    [
+      "3304",
+      "20260529"
+    ],
+    [
+      "3304",
+      "20260601"
+    ],
+    [
+      "3304",
+      "20260604"
+    ],
+    [
+      "3304",
+      "20260608"
+    ],
+    [
+      "3304",
+      "20260611"
+    ]
+  ],
+  "rejection_counts": {
+    "inventory: nonpositive span": 3,
+    "packet-timestamp gap >100ms or truncated margin": 259,
+    "sample-clock and reception-clock span disagree >100ms": 8,
+    "insufficient or nonfinite samples": 75,
+    "nonmonotonic timestamps": 777
+  },
+  "sample_clock_counts": {
+    "3302:5000": 110,
+    "3304:5000": 233
+  },
+  "source_file_count": 62,
+  "sample_unit": "log-anchored 2-second window; independent unit is device/day/run",
+  "estimated_raw_hz_range": [
+    4843.25588961244,
+    5159.614607980649
+  ]
+}

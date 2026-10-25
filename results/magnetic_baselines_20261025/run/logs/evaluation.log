@@ -1,0 +1,19 @@
+Loading weights from local directory
+embedded mantis: (343, 512); elapsed=61.9s
+embedded mantis_random: (343, 512); elapsed=62.3s
+embedded tspulse: (343, 3312); elapsed=63.4s
+embedded tspulse_random: (343, 3312); elapsed=63.9s
+/data/Claude/electromagnetic-foundation-model/sota_20261025/.venv/lib/python3.12/site-packages/timm/models/layers/__init__.py:49: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+physical_psd leave_day_out 0.522181971614877
+physical_psd leave_device_out 0.3181611071252115
+mantis leave_day_out 0.6079381723551892
+mantis leave_device_out 0.4425178103020315
+mantis_random leave_day_out 0.6048548729579151
+mantis_random leave_device_out 0.42539694487258806
+tspulse leave_day_out 0.2733138538851911
+tspulse leave_device_out 0.3098379106174817
+tspulse_random leave_day_out 0.27463201624247624
+tspulse_random leave_device_out 0.2769236977314167
+fisher_adapter leave_day_out 0.49262668975948737
+fisher_adapter leave_device_out 0.4021138658879644

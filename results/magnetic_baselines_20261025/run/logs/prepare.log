@@ -1,0 +1,21 @@
+1/1462 accepted=0 elapsed=10.2s
+101/1462 accepted=0 elapsed=21.6s
+201/1462 accepted=0 elapsed=28.2s
+301/1462 accepted=0 elapsed=40.1s
+401/1462 accepted=0 elapsed=51.1s
+501/1462 accepted=0 elapsed=61.6s
+601/1462 accepted=0 elapsed=73.3s
+701/1462 accepted=0 elapsed=84.6s
+801/1462 accepted=0 elapsed=95.7s
+901/1462 accepted=0 elapsed=105.6s
+1001/1462 accepted=0 elapsed=117.7s
+1101/1462 accepted=0 elapsed=128.7s
+1201/1462 accepted=0 elapsed=139.3s
+1301/1462 accepted=0 elapsed=148.7s
+1401/1462 accepted=0 elapsed=159.9s
+Traceback (most recent call last):
+  File "/data/Claude/electromagnetic-foundation-model/magnetic_20261025/code/prepare_windows.py", line 230, in <module>
+    main()
+  File "/data/Claude/electromagnetic-foundation-model/magnetic_20261025/code/prepare_windows.py", line 214, in main
+    raise ValueError('No usable magnetic windows')
+ValueError: No usable magnetic windows

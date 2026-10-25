@@ -1,0 +1,12 @@
+{
+  "features.npz": {
+    "bytes": 11387539,
+    "sha256": "a3e54e6c8aaed82c721e18e48140e815af91c0c2cf5f13f97329a71a2945c4e6",
+    "remote_path": "/data/Claude/electromagnetic-foundation-model/magnetic_20261025/results/features.npz"
+  },
+  "windows.npy": {
+    "bytes": 702592,
+    "sha256": "2a0a13ce7c297d559725ee53367051a5a10fd8113b1b846deb3cb3112a0a949b",
+    "remote_path": "/data/Claude/electromagnetic-foundation-model/magnetic_20261025/results/data_v2/windows.npy"
+  }
+}

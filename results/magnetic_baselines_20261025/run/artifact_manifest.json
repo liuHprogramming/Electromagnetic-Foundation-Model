@@ -1,0 +1,77 @@
+[
+  {
+    "path": "results/comparisons.json",
+    "bytes": 938,
+    "sha256": "5bf01dfa6c593d85784bfe74b16e43678f8679402e2593b7d5a8463cf84c400f"
+  },
+  {
+    "path": "results/complete.json",
+    "bytes": 71,
+    "sha256": "b266054f15486b1b847cfb3424e843d68b04659e16d1813b94ec62bee03d1604"
+  },
+  {
+    "path": "results/data_v2/inventory.json",
+    "bytes": 668642,
+    "sha256": "4fc1f37bdcfd404724246d5f2850ae59df926e17e6f0fa46ef266f0830d28a3c"
+  },
+  {
+    "path": "results/data_v2/manifest.json",
+    "bytes": 841907,
+    "sha256": "499135574fbcb01711a0569b0636047ea7ad8dc7d2210208b0e742597657585b"
+  },
+  {
+    "path": "results/model_receipts.json",
+    "bytes": 1979,
+    "sha256": "99ae3ee415ab53c5fb40419a2a1731e1307f1498c4978992bc18f381b69caf80"
+  },
+  {
+    "path": "results/predictions.jsonl",
+    "bytes": 362946,
+    "sha256": "d9323520a77b80cd959f1fb447a7ded70c2a151c1a14705b5af5ea2b3d23dc9c"
+  },
+  {
+    "path": "results/quality_summary.json",
+    "bytes": 1297,
+    "sha256": "eb9df05f10df2bd75bd0d54ef79de164b8a8877bc67d2653f7a8bff4a35738a9"
+  },
+  {
+    "path": "results/retained_artifacts.json",
+    "bytes": 478,
+    "sha256": "f7488a35ccd57f4b41e30ac45c802d43b2f0ae571c4c781db5e3fc5bb415de8e"
+  },
+  {
+    "path": "results/summary.json",
+    "bytes": 63530,
+    "sha256": "2e715bfdab622eaf33b2f94d41e48dc828c89768bc32ba8224bcb6f68f27f563"
+  },
+  {
+    "path": "results/verification.json",
+    "bytes": 553,
+    "sha256": "5af3483d49fa0f7de42ecbb0a4956d746804de5216b91752c7bb5f8468b3e88b"
+  },
+  {
+    "path": "logs/evaluation.log",
+    "bytes": 1117,
+    "sha256": "5ee45815083b92079f769c72a19716f5d876e75dadcb8f1e837430588ecd2514"
+  },
+  {
+    "path": "logs/install.log",
+    "bytes": 655,
+    "sha256": "72a9dc97e2ec995facb1595f52b2c624eab58d067b7fb2276159e3303b7dd491"
+  },
+  {
+    "path": "logs/install_data_deps.log",
+    "bytes": 711,
+    "sha256": "b5a79a7efa60fce1518842e8456a6be5d490e7e57fcf207b23f732a814a37b08"
+  },
+  {
+    "path": "logs/prepare.log",
+    "bytes": 891,
+    "sha256": "b582c0354a166f321517ae15fb62ef3297947717f15780b935318663062d40bc"
+  },
+  {
+    "path": "logs/prepare_v2.log",
+    "bytes": 1350,
+    "sha256": "c96fd1132178c0d4bb95541105615a3b8f303c75ee9764dc68d89592ed5539ac"
+  }
+]

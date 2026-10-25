@@ -1,9 +1,45 @@
-# Audio foundation models: task-specific reproduction and evaluation
+# Audio and near-field magnetic foundation-model baselines
 
 This repository contains the original BEATs/FISHER pilot and the 25 October 2026
 evaluation of recent leading audio methods on task-matched benchmarks.
 The new work evaluates released checkpoints; it does not repeat large-scale
 pretraining or claim a new leaderboard SOTA.
+
+## Near-field magnetic transfer pilot — 25 October 2026
+
+The instrument-side input is a single-channel magnetic time series in declared
+microtesla. We evaluated released MantisV2 and TSPulse checkpoints and an
+explicit FISHER-small magnetic STFT adapter, with physical features and frozen
+random-encoder controls. This is a magnetic transfer pilot, not a reproduction
+of an established magnetometer SOTA system.
+
+The data audit preselected 1,462 log-anchored windows from three centrifuges.
+Strict timing checks retained **343 two-second windows from 3302/3304 over
+14 device-days**; all 3303 candidates failed. Every model uses the same
+0–100Hz input at 256Hz and the same training-fold scaler and fixed balanced
+linear readout. No adjacent windows from a device-day cross a train/test split.
+
+| Frozen representation / fixed readout | Leave-day-out macro-F1, 14 folds | Leave-device-out macro-F1, 2 folds |
+| --- | ---: | ---: |
+| Physical PSD + amplitude | 0.5222 | 0.3182 |
+| MantisV2, pretrained | **0.6079** | **0.4425** |
+| MantisV2, random initialized | 0.6049 | 0.4254 |
+| TSPulse classification, pretrained | 0.2733 | 0.3098 |
+| TSPulse, random initialized | 0.2746 | 0.2769 |
+| FISHER-small + magnetic STFT adapter | 0.4926 | 0.4021 |
+
+MantisV2 is the main candidate to retain, but its leave-day-out gain over the
+random encoder is only 0.0031; the descriptive paired day interval is
+[-0.0456, +0.0562]. A pretraining benefit is not established. The low data
+retention, two-device coverage and 100Hz bandwidth prevent broad conclusions.
+The operating-state labels do not provide physical fault ground truth.
+
+- [Magnetic evaluation report, limitations and formal sample budget](results/magnetic_baselines_20261025/REPORT.md)
+- [Model selection and reproduction commands](experiments/magnetic_baselines_20261025/README.md)
+- [Fold metrics](results/magnetic_baselines_20261025/run/results/summary.json)
+- [All 4,116 predictions](results/magnetic_baselines_20261025/run/results/predictions.jsonl)
+- [Quality accounting](results/magnetic_baselines_20261025/run/results/quality_summary.json)
+- [Verified outputs](results/magnetic_baselines_20261025/run/results/verification.json)
 
 ## Task-specific evaluations — 25 October 2026
 
