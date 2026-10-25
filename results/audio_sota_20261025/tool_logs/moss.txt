@@ -1,0 +1,48 @@
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:07<00:23,  7.78s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:20<00:21, 10.95s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:46<00:17, 17.81s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:48<00:00, 11.28s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:48<00:00, 12.05s/it]
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 1 733 mmau_0000 A tokens 159 sec 7.17
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 2 733 mmau_0001 B tokens 180 sec 6.71
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 3 733 mmau_0002 A tokens 186 sec 6.8
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 4 733 mmau_0003 C tokens 244 sec 8.84
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 5 733 mmau_0004 A tokens 163 sec 5.91
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 6 733 mmau_0005 A tokens 180 sec 6.52
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 7 733 mmau_0006 A tokens 219 sec 7.96
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 8 733 mmau_0007 A tokens 166 sec 6.03
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 9 733 mmau_0008 A tokens 242 sec 8.76
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 10 733 mmau_0009 C tokens 252 sec 8.82
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 11 733 mmau_0010 A tokens 134 sec 4.85
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 12 733 mmau_0011 A tokens 174 sec 6.28
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 13 733 mmau_0012 B tokens 257 sec 9.33
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 14 733 mmau_0013 A tokens 169 sec 6.1
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 15 733 mmau_0014 A tokens 247 sec 8.92
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 16 733 mmau_0015 A tokens 219 sec 7.89
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 17 733 mmau_0016 A tokens 182 sec 6.56
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 18 733 mmau_0017 A tokens 139 sec 5.07
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 19 733 mmau_0018 B tokens 176 sec 6.38
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 20 733 mmau_0019 A tokens 176 sec 6.93
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 21 733 mmau_0020 A tokens 204 sec 7.38
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 22 733 mmau_0021 B tokens 238 sec 8.61
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+moss 23 733 mmau_0022 A tokens 221 sec 7.98
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "n": 8,
+  "checks": [
+    "parsed answer",
+    "PCM hash",
+    "un-padded input IDs hash"
+  ],
+  "batch_size": 8
+}

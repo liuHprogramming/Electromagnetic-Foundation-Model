@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "esc_predictions": 2000,
+  "qa_cases_per_model": 733,
+  "mmau_unique_audio_clusters": 311,
+  "asd_score_rows": 11200,
+  "checks": [
+    "ESC fold isolation and accuracy",
+    "QA expected IDs and denominator",
+    "paired prompt and waveform hashes for all733 cases",
+    "Qwen acoustic-feature presence",
+    "real/silent frontend audit",
+    "audio-group bootstrap for repeated MMAU recordings",
+    "all ASD per-machine ROC/pAUC recomputed"
+  ]
+}

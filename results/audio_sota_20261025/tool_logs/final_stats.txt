@@ -1,0 +1,74 @@
+{
+  "ESC50": 0.9745,
+  "MMAU paired": {
+    "n": 333,
+    "moss_only_correct": 83,
+    "qwen_only_correct": 23,
+    "accuracy_difference_moss_minus_qwen": 0.18018018018018017,
+    "paired_question_bootstrap95": [
+      0.12312312312312312,
+      0.23723723723723725
+    ],
+    "mcnemar_exact_p_two_sided": 3.787227599932374e-09,
+    "scope": "Descriptive paired comparison of the fixed sound test-mini partition; no universal SOTA claim.",
+    "audio_clusters": 311,
+    "paired_audio_cluster_bootstrap95": [
+      0.1223241590214067,
+      0.23894619686193586
+    ],
+    "question_mcnemar_caveat": "Exploratory question-level statistic; repeated audio violates question independence. Use audio-cluster uncertainty for primary inference.",
+    "audio_cluster_sign_flip_permutations": 100000,
+    "audio_cluster_sign_flip_p_two_sided": 9.99990000099999e-06
+  },
+  "ASD": [
+    {
+      "model": "BEATs_iter3",
+      "variant": "global_ap",
+      "harmonic_auc_source_target_pauc": 0.5866148625040749,
+      "machines": 7
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "frequency_ap",
+      "harmonic_auc_source_target_pauc": 0.6020666445979841,
+      "machines": 7
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_ap",
+      "harmonic_auc_source_target_pauc": 0.6028152402858677,
+      "machines": 7
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_rdp4",
+      "harmonic_auc_source_target_pauc": 0.6080001626323932,
+      "machines": 7
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "global_ap",
+      "harmonic_auc_source_target_pauc": 0.6083189152253327,
+      "machines": 7
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "frequency_ap",
+      "harmonic_auc_source_target_pauc": 0.6212591058841519,
+      "machines": 7
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_ap",
+      "harmonic_auc_source_target_pauc": 0.6200732898138012,
+      "machines": 7
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_rdp4",
+      "harmonic_auc_source_target_pauc": 0.6260324257384737,
+      "machines": 7
+    }
+  ]
+}
+Wrote /data/Claude/electromagnetic-foundation-model/sota_20261025/results/REPORT.md

@@ -1,0 +1,20 @@
+{
+  "model": "qwen",
+  "checkpoint_revision": "0a095220c30b7b31434169c3086508ef3ea5bf0a",
+  "official_moss_code_commit": null,
+  "runtime": {
+    "python": "3.12.15",
+    "torch": "2.9.1+cu128",
+    "device": "cuda",
+    "threads": 8,
+    "peak_cuda_allocated_gib": 16.343844890594482,
+    "peak_cuda_reserved_gib": 18.189453125,
+    "gpu_cap_gib": 24
+  },
+  "generation": {
+    "max_new_tokens": 512,
+    "do_sample": false
+  },
+  "seconds_this_invocation": 265.70369278499857,
+  "n_expected": 733
+}

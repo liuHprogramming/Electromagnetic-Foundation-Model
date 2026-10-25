@@ -1,0 +1,631 @@
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:05,  1.72s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:03<00:03,  1.72s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:04<00:01,  1.64s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:06<00:00,  1.41s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:06<00:00,  1.51s/it]
+moss 1 / 630 mmau_0103 A tokens 234
+moss 2 / 630 mmau_0104 A tokens 271
+moss 3 / 630 mmau_0105 A tokens 225
+moss 4 / 630 mmau_0106 A tokens 280
+moss 5 / 630 mmau_0107 A tokens 222
+moss 6 / 630 mmau_0108 A tokens 269
+moss 7 / 630 mmau_0109 A tokens 305
+moss 8 / 630 mmau_0110 A tokens 326
+moss 9 / 630 mmau_0111 C tokens 175
+moss 10 / 630 mmau_0112 A tokens 165
+moss 11 / 630 mmau_0113 A tokens 323
+moss 12 / 630 mmau_0114 A tokens 299
+moss 13 / 630 mmau_0115 A tokens 262
+moss 14 / 630 mmau_0116 B tokens 346
+moss 15 / 630 mmau_0117 A tokens 293
+moss 16 / 630 mmau_0118 A tokens 254
+moss 17 / 630 mmau_0119 A tokens 226
+moss 18 / 630 mmau_0120 A tokens 347
+moss 19 / 630 mmau_0121 A tokens 301
+moss 20 / 630 mmau_0122 A tokens 355
+moss 21 / 630 mmau_0123 A tokens 248
+moss 22 / 630 mmau_0124 A tokens 216
+moss 23 / 630 mmau_0125 A tokens 296
+moss 24 / 630 mmau_0126 A tokens 279
+moss 25 / 630 mmau_0127 A tokens 263
+moss 26 / 630 mmau_0128 A tokens 285
+moss 27 / 630 mmau_0129 A tokens 338
+moss 28 / 630 mmau_0130 A tokens 290
+moss 29 / 630 mmau_0131 A tokens 226
+moss 30 / 630 mmau_0132 A tokens 236
+moss 31 / 630 mmau_0133 A tokens 246
+moss 32 / 630 mmau_0134 B tokens 242
+moss 33 / 630 mmau_0135 C tokens 180
+moss 34 / 630 mmau_0136 A tokens 296
+moss 35 / 630 mmau_0137 B tokens 218
+moss 36 / 630 mmau_0138 C tokens 244
+moss 37 / 630 mmau_0139 A tokens 238
+moss 38 / 630 mmau_0140 B tokens 265
+moss 39 / 630 mmau_0141 A tokens 136
+moss 40 / 630 mmau_0142 C tokens 164
+moss 41 / 630 mmau_0143 A tokens 272
+moss 42 / 630 mmau_0144 C tokens 228
+moss 43 / 630 mmau_0145 B tokens 235
+moss 44 / 630 mmau_0146 A tokens 186
+moss 45 / 630 mmau_0147 A tokens 352
+moss 46 / 630 mmau_0148 A tokens 205
+moss 47 / 630 mmau_0149 A tokens 187
+moss 48 / 630 mmau_0150 A tokens 201
+moss 49 / 630 mmau_0151 A tokens 289
+moss 50 / 630 mmau_0152 A tokens 177
+moss 51 / 630 mmau_0153 B tokens 301
+moss 52 / 630 mmau_0154 C tokens 205
+moss 53 / 630 mmau_0155 A tokens 227
+moss 54 / 630 mmau_0156 B tokens 318
+moss 55 / 630 mmau_0157 A tokens 191
+moss 56 / 630 mmau_0158 A tokens 258
+moss 57 / 630 mmau_0159 A tokens 282
+moss 58 / 630 mmau_0160 A tokens 177
+moss 59 / 630 mmau_0161 A tokens 246
+moss 60 / 630 mmau_0162 A tokens 215
+moss 61 / 630 mmau_0163 B tokens 172
+moss 62 / 630 mmau_0164 A tokens 192
+moss 63 / 630 mmau_0165 A tokens 151
+moss 64 / 630 mmau_0166 B tokens 232
+moss 65 / 630 mmau_0167 A tokens 240
+moss 66 / 630 mmau_0168 A tokens 224
+moss 67 / 630 mmau_0169 A tokens 140
+moss 68 / 630 mmau_0170 D tokens 251
+moss 69 / 630 mmau_0171 A tokens 250
+moss 70 / 630 mmau_0172 A tokens 172
+moss 71 / 630 mmau_0173 A tokens 237
+moss 72 / 630 mmau_0174 A tokens 274
+moss 73 / 630 mmau_0175 B tokens 249
+moss 74 / 630 mmau_0176 A tokens 177
+moss 75 / 630 mmau_0177 A tokens 325
+moss 76 / 630 mmau_0178 A tokens 210
+moss 77 / 630 mmau_0179 B tokens 276
+moss 78 / 630 mmau_0180 A tokens 227
+moss 79 / 630 mmau_0181 B tokens 285
+moss 80 / 630 mmau_0182 A tokens 216
+moss 81 / 630 mmau_0183 A tokens 248
+moss 82 / 630 mmau_0184 A tokens 153
+moss 83 / 630 mmau_0185 A tokens 171
+moss 84 / 630 mmau_0186 C tokens 257
+moss 85 / 630 mmau_0187 A tokens 222
+moss 86 / 630 mmau_0188 A tokens 189
+moss 87 / 630 mmau_0189 A tokens 247
+moss 88 / 630 mmau_0190 B tokens 299
+moss 89 / 630 mmau_0191 C tokens 192
+moss 90 / 630 mmau_0192 B tokens 259
+moss 91 / 630 mmau_0193 B tokens 267
+moss 92 / 630 mmau_0194 B tokens 216
+moss 93 / 630 mmau_0195 B tokens 206
+moss 94 / 630 mmau_0196 A tokens 346
+moss 95 / 630 mmau_0197 C tokens 273
+moss 96 / 630 mmau_0198 B tokens 277
+moss 97 / 630 mmau_0199 A tokens 285
+moss 98 / 630 mmau_0200 A tokens 294
+moss 99 / 630 mmau_0201 A tokens 201
+moss 100 / 630 mmau_0202 B tokens 241
+moss 101 / 630 mmau_0203 A tokens 316
+moss 102 / 630 mmau_0204 B tokens 276
+moss 103 / 630 mmau_0205 B tokens 325
+moss 104 / 630 mmau_0206 B tokens 260
+moss 105 / 630 mmau_0207 C tokens 282
+moss 106 / 630 mmau_0208 C tokens 167
+moss 107 / 630 mmau_0209 B tokens 333
+moss 108 / 630 mmau_0210 A tokens 210
+moss 109 / 630 mmau_0211 A tokens 353
+moss 110 / 630 mmau_0212 A tokens 281
+moss 111 / 630 mmau_0213 B tokens 316
+moss 112 / 630 mmau_0214 B tokens 303
+moss 113 / 630 mmau_0215 B tokens 295
+moss 114 / 630 mmau_0216 A tokens 255
+moss 115 / 630 mmau_0217 A tokens 309
+moss 116 / 630 mmau_0218 B tokens 309
+moss 117 / 630 mmau_0219 A tokens 193
+moss 118 / 630 mmau_0220 B tokens 266
+moss 119 / 630 mmau_0221 B tokens 320
+moss 120 / 630 mmau_0222 B tokens 341
+moss 121 / 630 mmau_0223 B tokens 342
+moss 122 / 630 mmau_0224 A tokens 295
+moss 123 / 630 mmau_0225 A tokens 231
+moss 124 / 630 mmau_0226 C tokens 295
+moss 125 / 630 mmau_0227 A tokens 304
+moss 126 / 630 mmau_0228 B tokens 326
+moss 127 / 630 mmau_0229 B tokens 224
+moss 128 / 630 mmau_0230 C tokens 342
+moss 129 / 630 mmau_0231 A tokens 290
+moss 130 / 630 mmau_0232 A tokens 309
+moss 131 / 630 mmau_0233 C tokens 337
+moss 132 / 630 mmau_0234 C tokens 144
+moss 133 / 630 mmau_0235 C tokens 314
+moss 134 / 630 mmau_0236 A tokens 239
+moss 135 / 630 mmau_0237 B tokens 264
+moss 136 / 630 mmau_0238 A tokens 195
+moss 137 / 630 mmau_0239 C tokens 300
+moss 138 / 630 mmau_0240 A tokens 183
+moss 139 / 630 mmau_0241 C tokens 295
+moss 140 / 630 mmau_0242 D tokens 324
+moss 141 / 630 mmau_0243 C tokens 281
+moss 142 / 630 mmau_0244 C tokens 324
+moss 143 / 630 mmau_0245 D tokens 299
+moss 144 / 630 mmau_0246 A tokens 341
+moss 145 / 630 mmau_0247 D tokens 261
+moss 146 / 630 mmau_0248 D tokens 253
+moss 147 / 630 mmau_0249 A tokens 319
+moss 148 / 630 mmau_0250 A tokens 207
+moss 149 / 630 mmau_0251 A tokens 302
+moss 150 / 630 mmau_0252 D tokens 178
+moss 151 / 630 mmau_0253 B tokens 294
+moss 152 / 630 mmau_0254 C tokens 278
+moss 153 / 630 mmau_0255 C tokens 272
+moss 154 / 630 mmau_0256 A tokens 215
+moss 155 / 630 mmau_0257 C tokens 309
+moss 156 / 630 mmau_0258 C tokens 297
+moss 157 / 630 mmau_0259 D tokens 245
+moss 158 / 630 mmau_0260 B tokens 275
+moss 159 / 630 mmau_0261 D tokens 248
+moss 160 / 630 mmau_0262 D tokens 279
+moss 161 / 630 mmau_0263 D tokens 211
+moss 162 / 630 mmau_0264 C tokens 231
+moss 163 / 630 mmau_0265 C tokens 338
+moss 164 / 630 mmau_0266 D tokens 248
+moss 165 / 630 mmau_0267 B tokens 227
+moss 166 / 630 mmau_0268 A tokens 277
+moss 167 / 630 mmau_0269 C tokens 275
+moss 168 / 630 mmau_0270 C tokens 241
+moss 169 / 630 mmau_0271 A tokens 145
+moss 170 / 630 mmau_0272 B tokens 296
+moss 171 / 630 mmau_0273 D tokens 266
+moss 172 / 630 mmau_0274 C tokens 239
+moss 173 / 630 mmau_0275 A tokens 319
+moss 174 / 630 mmau_0276 B tokens 291
+moss 175 / 630 mmau_0277 A tokens 256
+moss 176 / 630 mmau_0278 D tokens 239
+moss 177 / 630 mmau_0279 A tokens 232
+moss 178 / 630 mmau_0280 C tokens 256
+moss 179 / 630 mmau_0281 D tokens 277
+moss 180 / 630 mmau_0282 D tokens 215
+moss 181 / 630 mmau_0283 B tokens 332
+moss 182 / 630 mmau_0284 A tokens 250
+moss 183 / 630 mmau_0285 B tokens 272
+moss 184 / 630 mmau_0286 A tokens 295
+moss 185 / 630 mmau_0287 C tokens 292
+moss 186 / 630 mmau_0288 C tokens 241
+moss 187 / 630 mmau_0289 C tokens 281
+moss 188 / 630 mmau_0290 D tokens 171
+moss 189 / 630 mmau_0291 C tokens 310
+moss 190 / 630 mmau_0292 C tokens 272
+moss 191 / 630 mmau_0293 C tokens 241
+moss 192 / 630 mmau_0294 C tokens 228
+moss 193 / 630 mmau_0295 C tokens 214
+moss 194 / 630 mmau_0296 C tokens 228
+moss 195 / 630 mmau_0297 C tokens 241
+moss 196 / 630 mmau_0298 B tokens 255
+moss 197 / 630 mmau_0299 UNPARSEABLE tokens 512
+moss 198 / 630 mmau_0300 C tokens 264
+moss 199 / 630 mmau_0301 B tokens 195
+moss 200 / 630 mmau_0302 D tokens 206
+moss 201 / 630 mmau_0303 C tokens 255
+moss 202 / 630 mmau_0304 C tokens 221
+moss 203 / 630 mmau_0305 C tokens 243
+moss 204 / 630 mmau_0306 C tokens 217
+moss 205 / 630 mmau_0307 B tokens 301
+moss 206 / 630 mmau_0308 C tokens 218
+moss 207 / 630 mmau_0309 D tokens 246
+moss 208 / 630 mmau_0310 D tokens 198
+moss 209 / 630 mmau_0311 C tokens 275
+moss 210 / 630 mmau_0312 C tokens 244
+moss 211 / 630 mmau_0313 C tokens 244
+moss 212 / 630 mmau_0314 B tokens 238
+moss 213 / 630 mmau_0315 C tokens 261
+moss 214 / 630 mmau_0316 C tokens 239
+moss 215 / 630 mmau_0317 B tokens 216
+moss 216 / 630 mmau_0318 A tokens 341
+moss 217 / 630 mmau_0319 C tokens 254
+moss 218 / 630 mmau_0320 C tokens 153
+moss 219 / 630 mmau_0321 D tokens 202
+moss 220 / 630 mmau_0322 C tokens 228
+moss 221 / 630 mmau_0323 D tokens 121
+moss 222 / 630 mmau_0324 C tokens 243
+moss 223 / 630 mmau_0325 C tokens 208
+moss 224 / 630 mmau_0326 B tokens 297
+moss 225 / 630 mmau_0327 B tokens 240
+moss 226 / 630 mmau_0328 C tokens 237
+moss 227 / 630 mmau_0329 B tokens 298
+moss 228 / 630 mmau_0330 C tokens 111
+moss 229 / 630 mmau_0331 C tokens 226
+moss 230 / 630 mmau_0332 C tokens 209
+moss 231 / 630 mmau_silence_0010 B tokens 122
+moss 232 / 630 mmau_mismatch_0010 C tokens 182
+moss 233 / 630 mmau_silence_0015 A tokens 215
+moss 234 / 630 mmau_mismatch_0015 A tokens 217
+moss 235 / 630 mmau_silence_0018 B tokens 278
+moss 236 / 630 mmau_mismatch_0018 B tokens 305
+moss 237 / 630 mmau_silence_0020 A tokens 115
+moss 238 / 630 mmau_mismatch_0020 A tokens 210
+moss 239 / 630 mmau_silence_0023 D tokens 165
+moss 240 / 630 mmau_mismatch_0023 D tokens 114
+moss 241 / 630 mmau_silence_0028 A tokens 124
+moss 242 / 630 mmau_mismatch_0028 B tokens 292
+moss 243 / 630 mmau_silence_0034 B tokens 262
+moss 244 / 630 mmau_mismatch_0034 B tokens 114
+moss 245 / 630 mmau_silence_0038 A tokens 115
+moss 246 / 630 mmau_mismatch_0038 A tokens 207
+moss 247 / 630 mmau_silence_0039 A tokens 243
+moss 248 / 630 mmau_mismatch_0039 A tokens 266
+moss 249 / 630 mmau_silence_0044 A tokens 170
+moss 250 / 630 mmau_mismatch_0044 A tokens 260
+moss 251 / 630 mmau_silence_0048 A tokens 193
+moss 252 / 630 mmau_mismatch_0048 C tokens 241
+moss 253 / 630 mmau_silence_0050 C tokens 178
+moss 254 / 630 mmau_mismatch_0050 C tokens 152
+moss 255 / 630 mmau_silence_0057 D tokens 135
+moss 256 / 630 mmau_mismatch_0057 D tokens 207
+moss 257 / 630 mmau_silence_0064 B tokens 209
+moss 258 / 630 mmau_mismatch_0064 B tokens 229
+moss 259 / 630 mmau_silence_0069 A tokens 204
+moss 260 / 630 mmau_mismatch_0069 D tokens 199
+moss 261 / 630 mmau_silence_0078 A tokens 188
+moss 262 / 630 mmau_mismatch_0078 D tokens 155
+moss 263 / 630 mmau_silence_0086 C tokens 150
+moss 264 / 630 mmau_mismatch_0086 A tokens 147
+moss 265 / 630 mmau_silence_0087 B tokens 214
+moss 266 / 630 mmau_mismatch_0087 B tokens 235
+moss 267 / 630 mmau_silence_0092 B tokens 227
+moss 268 / 630 mmau_mismatch_0092 A tokens 240
+moss 269 / 630 mmau_silence_0099 A tokens 230
+moss 270 / 630 mmau_mismatch_0099 A tokens 245
+moss 271 / 630 mmau_silence_0100 A tokens 229
+moss 272 / 630 mmau_mismatch_0100 A tokens 282
+moss 273 / 630 mmau_silence_0110 A tokens 319
+moss 274 / 630 mmau_mismatch_0110 A tokens 328
+moss 275 / 630 mmau_silence_0128 B tokens 221
+moss 276 / 630 mmau_mismatch_0128 A tokens 270
+moss 277 / 630 mmau_silence_0152 A tokens 200
+moss 278 / 630 mmau_mismatch_0152 C tokens 132
+moss 279 / 630 mmau_silence_0156 B tokens 203
+moss 280 / 630 mmau_mismatch_0156 B tokens 178
+moss 281 / 630 mmau_silence_0157 A tokens 116
+moss 282 / 630 mmau_mismatch_0157 A tokens 171
+moss 283 / 630 mmau_silence_0158 A tokens 191
+moss 284 / 630 mmau_mismatch_0158 A tokens 251
+moss 285 / 630 mmau_silence_0163 B tokens 121
+moss 286 / 630 mmau_mismatch_0163 B tokens 275
+moss 287 / 630 mmau_silence_0169 A tokens 212
+moss 288 / 630 mmau_mismatch_0169 A tokens 291
+moss 289 / 630 mmau_silence_0170 B tokens 298
+moss 290 / 630 mmau_mismatch_0170 B tokens 309
+moss 291 / 630 mmau_silence_0173 A tokens 296
+moss 292 / 630 mmau_mismatch_0173 B tokens 236
+moss 293 / 630 mmau_silence_0175 B tokens 263
+moss 294 / 630 mmau_mismatch_0175 D tokens 283
+moss 295 / 630 mmau_silence_0178 A tokens 165
+moss 296 / 630 mmau_mismatch_0178 A tokens 138
+moss 297 / 630 mmau_silence_0181 B tokens 145
+moss 298 / 630 mmau_mismatch_0181 C tokens 336
+moss 299 / 630 mmau_silence_0187 A tokens 114
+moss 300 / 630 mmau_mismatch_0187 B tokens 201
+moss 301 / 630 mmau_silence_0188 A tokens 126
+moss 302 / 630 mmau_mismatch_0188 A tokens 194
+moss 303 / 630 mmau_silence_0194 C tokens 126
+moss 304 / 630 mmau_mismatch_0194 C tokens 237
+moss 305 / 630 mmau_silence_0198 B tokens 250
+moss 306 / 630 mmau_mismatch_0198 A tokens 264
+moss 307 / 630 mmau_silence_0207 A tokens 292
+moss 308 / 630 mmau_mismatch_0207 C tokens 179
+moss 309 / 630 mmau_silence_0210 A tokens 161
+moss 310 / 630 mmau_mismatch_0210 C tokens 200
+moss 311 / 630 mmau_silence_0211 A tokens 291
+moss 312 / 630 mmau_mismatch_0211 A tokens 325
+moss 313 / 630 mmau_silence_0214 B tokens 303
+moss 314 / 630 mmau_mismatch_0214 B tokens 349
+moss 315 / 630 mmau_silence_0218 B tokens 302
+moss 316 / 630 mmau_mismatch_0218 B tokens 463
+moss 317 / 630 mmau_silence_0229 B tokens 323
+moss 318 / 630 mmau_mismatch_0229 B tokens 261
+moss 319 / 630 mmau_silence_0230 C tokens 240
+moss 320 / 630 mmau_mismatch_0230 A tokens 236
+moss 321 / 630 mmau_silence_0241 A tokens 263
+moss 322 / 630 mmau_mismatch_0241 A tokens 253
+moss 323 / 630 mmau_silence_0257 C tokens 236
+moss 324 / 630 mmau_mismatch_0257 B tokens 337
+moss 325 / 630 mmau_silence_0263 A tokens 226
+moss 326 / 630 mmau_mismatch_0263 B tokens 272
+moss 327 / 630 mmau_silence_0265 C tokens 324
+moss 328 / 630 mmau_mismatch_0265 A tokens 294
+moss 329 / 630 mmau_silence_0272 D tokens 281
+moss 330 / 630 mmau_mismatch_0272 A tokens 330
+moss 331 / 630 mmau_silence_0276 D tokens 162
+moss 332 / 630 mmau_mismatch_0276 A tokens 442
+moss 333 / 630 mmau_silence_0279 B tokens 122
+moss 334 / 630 mmau_mismatch_0279 B tokens 241
+moss 335 / 630 mmau_silence_0287 C tokens 231
+moss 336 / 630 mmau_mismatch_0287 C tokens 290
+moss 337 / 630 mmau_silence_0297 C tokens 206
+moss 338 / 630 mmau_mismatch_0297 C tokens 266
+moss 339 / 630 mmau_silence_0304 A tokens 161
+moss 340 / 630 mmau_mismatch_0304 A tokens 146
+moss 341 / 630 mmau_silence_0305 B tokens 168
+moss 342 / 630 mmau_mismatch_0305 C tokens 333
+moss 343 / 630 mmau_silence_0307 B tokens 260
+moss 344 / 630 mmau_mismatch_0307 B tokens 277
+moss 345 / 630 mmau_silence_0308 C tokens 140
+moss 346 / 630 mmau_mismatch_0308 C tokens 217
+moss 347 / 630 mmau_silence_0309 D tokens 235
+moss 348 / 630 mmau_mismatch_0309 D tokens 251
+moss 349 / 630 mmau_silence_0310 D tokens 287
+moss 350 / 630 mmau_mismatch_0310 D tokens 253
+moss 351 / 630 machine_0000 INSUFFICIENT EVIDENCE tokens 234
+moss 352 / 630 machine_0001 INSUFFICIENT EVIDENCE tokens 177
+moss 353 / 630 machine_0002 INSUFFICIENT EVIDENCE tokens 193
+moss 354 / 630 machine_0003 INSUFFICIENT EVIDENCE tokens 272
+moss 355 / 630 machine_0004 INSUFFICIENT EVIDENCE tokens 264
+moss 356 / 630 machine_0005 INSUFFICIENT EVIDENCE tokens 289
+moss 357 / 630 machine_0006 NORMAL tokens 308
+moss 358 / 630 machine_0007 INSUFFICIENT EVIDENCE tokens 250
+moss 359 / 630 machine_0008 INSUFFICIENT EVIDENCE tokens 272
+moss 360 / 630 machine_0009 INSUFFICIENT EVIDENCE tokens 332
+moss 361 / 630 machine_0010 INSUFFICIENT EVIDENCE tokens 243
+moss 362 / 630 machine_0011 INSUFFICIENT EVIDENCE tokens 252
+moss 363 / 630 machine_0012 INSUFFICIENT EVIDENCE tokens 213
+moss 364 / 630 machine_0013 INSUFFICIENT EVIDENCE tokens 227
+moss 365 / 630 machine_0014 INSUFFICIENT EVIDENCE tokens 270
+moss 366 / 630 machine_0015 INSUFFICIENT EVIDENCE tokens 308
+moss 367 / 630 machine_0016 INSUFFICIENT EVIDENCE tokens 294
+moss 368 / 630 machine_0017 NORMAL tokens 256
+moss 369 / 630 machine_0018 INSUFFICIENT EVIDENCE tokens 198
+moss 370 / 630 machine_0019 INSUFFICIENT EVIDENCE tokens 273
+moss 371 / 630 machine_0020 INSUFFICIENT EVIDENCE tokens 268
+moss 372 / 630 machine_0021 UNPARSEABLE tokens 512
+moss 373 / 630 machine_0022 INSUFFICIENT EVIDENCE tokens 245
+moss 374 / 630 machine_0023 INSUFFICIENT EVIDENCE tokens 208
+moss 375 / 630 machine_0024 INSUFFICIENT EVIDENCE tokens 292
+moss 376 / 630 machine_0025 INSUFFICIENT EVIDENCE tokens 199
+moss 377 / 630 machine_0026 NORMAL tokens 249
+moss 378 / 630 machine_0027 NORMAL tokens 239
+moss 379 / 630 machine_0028 NORMAL tokens 218
+moss 380 / 630 machine_0029 NORMAL tokens 256
+moss 381 / 630 machine_0030 NORMAL tokens 247
+moss 382 / 630 machine_0031 INSUFFICIENT EVIDENCE tokens 259
+moss 383 / 630 machine_0032 INSUFFICIENT EVIDENCE tokens 307
+moss 384 / 630 machine_0033 NORMAL tokens 245
+moss 385 / 630 machine_0034 INSUFFICIENT EVIDENCE tokens 273
+moss 386 / 630 machine_0035 NORMAL tokens 241
+moss 387 / 630 machine_0036 NORMAL tokens 178
+moss 388 / 630 machine_0037 INSUFFICIENT EVIDENCE tokens 197
+moss 389 / 630 machine_0038 NORMAL tokens 305
+moss 390 / 630 machine_0039 NORMAL tokens 258
+moss 391 / 630 machine_0040 INSUFFICIENT EVIDENCE tokens 328
+moss 392 / 630 machine_0041 INSUFFICIENT EVIDENCE tokens 283
+moss 393 / 630 machine_0042 INSUFFICIENT EVIDENCE tokens 336
+moss 394 / 630 machine_0043 INSUFFICIENT EVIDENCE tokens 323
+moss 395 / 630 machine_0044 INSUFFICIENT EVIDENCE tokens 237
+moss 396 / 630 machine_0045 INSUFFICIENT EVIDENCE tokens 322
+moss 397 / 630 machine_0046 ANOMALOUS tokens 288
+moss 398 / 630 machine_0047 INSUFFICIENT EVIDENCE tokens 238
+moss 399 / 630 machine_0048 INSUFFICIENT EVIDENCE tokens 208
+moss 400 / 630 machine_0049 INSUFFICIENT EVIDENCE tokens 287
+moss 401 / 630 machine_0050 NORMAL tokens 299
+moss 402 / 630 machine_0051 INSUFFICIENT EVIDENCE tokens 298
+moss 403 / 630 machine_0052 INSUFFICIENT EVIDENCE tokens 143
+moss 404 / 630 machine_0053 INSUFFICIENT EVIDENCE tokens 301
+moss 405 / 630 machine_0054 INSUFFICIENT EVIDENCE tokens 193
+moss 406 / 630 machine_0055 INSUFFICIENT EVIDENCE tokens 236
+moss 407 / 630 machine_0056 INSUFFICIENT EVIDENCE tokens 268
+moss 408 / 630 machine_0057 INSUFFICIENT EVIDENCE tokens 291
+moss 409 / 630 machine_0058 INSUFFICIENT EVIDENCE tokens 280
+moss 410 / 630 machine_0059 NORMAL tokens 284
+moss 411 / 630 machine_0060 INSUFFICIENT EVIDENCE tokens 310
+moss 412 / 630 machine_0061 INSUFFICIENT EVIDENCE tokens 284
+moss 413 / 630 machine_0062 INSUFFICIENT EVIDENCE tokens 189
+moss 414 / 630 machine_0063 INSUFFICIENT EVIDENCE tokens 262
+moss 415 / 630 machine_0064 INSUFFICIENT EVIDENCE tokens 303
+moss 416 / 630 machine_0065 INSUFFICIENT EVIDENCE tokens 296
+moss 417 / 630 machine_0066 INSUFFICIENT EVIDENCE tokens 252
+moss 418 / 630 machine_0067 NORMAL tokens 247
+moss 419 / 630 machine_0068 INSUFFICIENT EVIDENCE tokens 278
+moss 420 / 630 machine_0069 INSUFFICIENT EVIDENCE tokens 363
+moss 421 / 630 machine_0070 INSUFFICIENT EVIDENCE tokens 268
+moss 422 / 630 machine_0071 INSUFFICIENT EVIDENCE tokens 212
+moss 423 / 630 machine_0072 INSUFFICIENT EVIDENCE tokens 274
+moss 424 / 630 machine_0073 INSUFFICIENT EVIDENCE tokens 266
+moss 425 / 630 machine_0074 INSUFFICIENT EVIDENCE tokens 219
+moss 426 / 630 machine_0075 NORMAL tokens 343
+moss 427 / 630 machine_0076 INSUFFICIENT EVIDENCE tokens 270
+moss 428 / 630 machine_0077 INSUFFICIENT EVIDENCE tokens 214
+moss 429 / 630 machine_0078 INSUFFICIENT EVIDENCE tokens 268
+moss 430 / 630 machine_0079 INSUFFICIENT EVIDENCE tokens 315
+moss 431 / 630 machine_0080 NORMAL tokens 269
+moss 432 / 630 machine_0081 INSUFFICIENT EVIDENCE tokens 242
+moss 433 / 630 machine_0082 INSUFFICIENT EVIDENCE tokens 268
+moss 434 / 630 machine_0083 NORMAL tokens 318
+moss 435 / 630 machine_0084 INSUFFICIENT EVIDENCE tokens 278
+moss 436 / 630 machine_0085 INSUFFICIENT EVIDENCE tokens 217
+moss 437 / 630 machine_0086 NORMAL tokens 314
+moss 438 / 630 machine_0087 INSUFFICIENT EVIDENCE tokens 285
+moss 439 / 630 machine_0088 INSUFFICIENT EVIDENCE tokens 271
+moss 440 / 630 machine_0089 INSUFFICIENT EVIDENCE tokens 272
+moss 441 / 630 machine_0090 INSUFFICIENT EVIDENCE tokens 267
+moss 442 / 630 machine_0091 INSUFFICIENT EVIDENCE tokens 269
+moss 443 / 630 machine_0092 INSUFFICIENT EVIDENCE tokens 280
+moss 444 / 630 machine_0093 NORMAL tokens 265
+moss 445 / 630 machine_0094 INSUFFICIENT EVIDENCE tokens 268
+moss 446 / 630 machine_0095 INSUFFICIENT EVIDENCE tokens 233
+moss 447 / 630 machine_0096 INSUFFICIENT EVIDENCE tokens 244
+moss 448 / 630 machine_0097 INSUFFICIENT EVIDENCE tokens 211
+moss 449 / 630 machine_0098 INSUFFICIENT EVIDENCE tokens 138
+moss 450 / 630 machine_0099 NORMAL tokens 283
+moss 451 / 630 machine_0100 UNPARSEABLE tokens 512
+moss 452 / 630 machine_0101 UNPARSEABLE tokens 512
+moss 453 / 630 machine_0102 INSUFFICIENT EVIDENCE tokens 267
+moss 454 / 630 machine_0103 INSUFFICIENT EVIDENCE tokens 219
+moss 455 / 630 machine_0104 NORMAL tokens 252
+moss 456 / 630 machine_0105 INSUFFICIENT EVIDENCE tokens 194
+moss 457 / 630 machine_0106 INSUFFICIENT EVIDENCE tokens 174
+moss 458 / 630 machine_0107 INSUFFICIENT EVIDENCE tokens 237
+moss 459 / 630 machine_0108 INSUFFICIENT EVIDENCE tokens 162
+moss 460 / 630 machine_0109 INSUFFICIENT EVIDENCE tokens 278
+moss 461 / 630 machine_0110 NORMAL tokens 239
+moss 462 / 630 machine_0111 NORMAL tokens 258
+moss 463 / 630 machine_0112 INSUFFICIENT EVIDENCE tokens 291
+moss 464 / 630 machine_0113 NORMAL tokens 204
+moss 465 / 630 machine_0114 NORMAL tokens 267
+moss 466 / 630 machine_0115 INSUFFICIENT EVIDENCE tokens 208
+moss 467 / 630 machine_0116 NORMAL tokens 243
+moss 468 / 630 machine_0117 INSUFFICIENT EVIDENCE tokens 218
+moss 469 / 630 machine_0118 INSUFFICIENT EVIDENCE tokens 264
+moss 470 / 630 machine_0119 NORMAL tokens 193
+moss 471 / 630 machine_0120 INSUFFICIENT EVIDENCE tokens 280
+moss 472 / 630 machine_0121 INSUFFICIENT EVIDENCE tokens 239
+moss 473 / 630 machine_0122 INSUFFICIENT EVIDENCE tokens 229
+moss 474 / 630 machine_0123 INSUFFICIENT EVIDENCE tokens 254
+moss 475 / 630 machine_0124 INSUFFICIENT EVIDENCE tokens 250
+moss 476 / 630 machine_0125 INSUFFICIENT EVIDENCE tokens 243
+moss 477 / 630 machine_0126 NORMAL tokens 332
+moss 478 / 630 machine_0127 INSUFFICIENT EVIDENCE tokens 285
+moss 479 / 630 machine_0128 INSUFFICIENT EVIDENCE tokens 213
+moss 480 / 630 machine_0129 INSUFFICIENT EVIDENCE tokens 248
+moss 481 / 630 machine_0130 INSUFFICIENT EVIDENCE tokens 199
+moss 482 / 630 machine_0131 INSUFFICIENT EVIDENCE tokens 306
+moss 483 / 630 machine_0132 INSUFFICIENT EVIDENCE tokens 236
+moss 484 / 630 machine_0133 INSUFFICIENT EVIDENCE tokens 322
+moss 485 / 630 machine_0134 NORMAL tokens 226
+moss 486 / 630 machine_0135 INSUFFICIENT EVIDENCE tokens 203
+moss 487 / 630 machine_0136 INSUFFICIENT EVIDENCE tokens 266
+moss 488 / 630 machine_0137 INSUFFICIENT EVIDENCE tokens 207
+moss 489 / 630 machine_0138 INSUFFICIENT EVIDENCE tokens 243
+moss 490 / 630 machine_0139 INSUFFICIENT EVIDENCE tokens 278
+moss 491 / 630 machine_0140 NORMAL tokens 217
+moss 492 / 630 machine_0141 INSUFFICIENT EVIDENCE tokens 357
+moss 493 / 630 machine_0142 INSUFFICIENT EVIDENCE tokens 199
+moss 494 / 630 machine_0143 INSUFFICIENT EVIDENCE tokens 241
+moss 495 / 630 machine_0144 INSUFFICIENT EVIDENCE tokens 238
+moss 496 / 630 machine_0145 INSUFFICIENT EVIDENCE tokens 212
+moss 497 / 630 machine_0146 INSUFFICIENT EVIDENCE tokens 278
+moss 498 / 630 machine_0147 NORMAL tokens 203
+moss 499 / 630 machine_0148 INSUFFICIENT EVIDENCE tokens 200
+moss 500 / 630 machine_0149 NORMAL tokens 266
+moss 501 / 630 machine_0150 INSUFFICIENT EVIDENCE tokens 189
+moss 502 / 630 machine_0151 INSUFFICIENT EVIDENCE tokens 200
+moss 503 / 630 machine_0152 INSUFFICIENT EVIDENCE tokens 293
+moss 504 / 630 machine_0153 NORMAL tokens 260
+moss 505 / 630 machine_0154 NORMAL tokens 169
+moss 506 / 630 machine_0155 INSUFFICIENT EVIDENCE tokens 269
+moss 507 / 630 machine_0156 INSUFFICIENT EVIDENCE tokens 301
+moss 508 / 630 machine_0157 INSUFFICIENT EVIDENCE tokens 209
+moss 509 / 630 machine_0158 INSUFFICIENT EVIDENCE tokens 269
+moss 510 / 630 machine_0159 INSUFFICIENT EVIDENCE tokens 248
+moss 511 / 630 machine_0160 INSUFFICIENT EVIDENCE tokens 274
+moss 512 / 630 machine_0161 INSUFFICIENT EVIDENCE tokens 293
+moss 513 / 630 machine_0162 INSUFFICIENT EVIDENCE tokens 263
+moss 514 / 630 machine_0163 INSUFFICIENT EVIDENCE tokens 266
+moss 515 / 630 machine_0164 INSUFFICIENT EVIDENCE tokens 244
+moss 516 / 630 machine_0165 INSUFFICIENT EVIDENCE tokens 276
+moss 517 / 630 machine_0166 INSUFFICIENT EVIDENCE tokens 234
+moss 518 / 630 machine_0167 NORMAL tokens 279
+moss 519 / 630 machine_0168 INSUFFICIENT EVIDENCE tokens 273
+moss 520 / 630 machine_0169 INSUFFICIENT EVIDENCE tokens 292
+moss 521 / 630 machine_0170 NORMAL tokens 214
+moss 522 / 630 machine_0171 NORMAL tokens 256
+moss 523 / 630 machine_0172 INSUFFICIENT EVIDENCE tokens 277
+moss 524 / 630 machine_0173 INSUFFICIENT EVIDENCE tokens 270
+moss 525 / 630 machine_0174 NORMAL tokens 263
+moss 526 / 630 machine_0175 INSUFFICIENT EVIDENCE tokens 240
+moss 527 / 630 machine_0176 NORMAL tokens 215
+moss 528 / 630 machine_0177 INSUFFICIENT EVIDENCE tokens 284
+moss 529 / 630 machine_0178 NORMAL tokens 225
+moss 530 / 630 machine_0179 NORMAL tokens 264
+moss 531 / 630 machine_0180 INSUFFICIENT EVIDENCE tokens 238
+moss 532 / 630 machine_0181 INSUFFICIENT EVIDENCE tokens 240
+moss 533 / 630 machine_0182 NORMAL tokens 266
+moss 534 / 630 machine_0183 NORMAL tokens 238
+moss 535 / 630 machine_0184 INSUFFICIENT EVIDENCE tokens 290
+moss 536 / 630 machine_0185 INSUFFICIENT EVIDENCE tokens 296
+moss 537 / 630 machine_0186 NORMAL tokens 254
+moss 538 / 630 machine_0187 INSUFFICIENT EVIDENCE tokens 235
+moss 539 / 630 machine_0188 INSUFFICIENT EVIDENCE tokens 239
+moss 540 / 630 machine_0189 ANOMALOUS tokens 331
+moss 541 / 630 machine_0190 INSUFFICIENT EVIDENCE tokens 270
+moss 542 / 630 machine_0191 NORMAL tokens 254
+moss 543 / 630 machine_0192 INSUFFICIENT EVIDENCE tokens 233
+moss 544 / 630 machine_0193 NORMAL tokens 241
+moss 545 / 630 machine_0194 INSUFFICIENT EVIDENCE tokens 294
+moss 546 / 630 machine_0195 INSUFFICIENT EVIDENCE tokens 279
+moss 547 / 630 machine_0196 NORMAL tokens 244
+moss 548 / 630 machine_0197 INSUFFICIENT EVIDENCE tokens 285
+moss 549 / 630 machine_0198 NORMAL tokens 331
+moss 550 / 630 machine_0199 INSUFFICIENT EVIDENCE tokens 259
+moss 551 / 630 machine_silence_0003 INSUFFICIENT EVIDENCE tokens 157
+moss 552 / 630 machine_short_0003 INSUFFICIENT EVIDENCE tokens 261
+moss 553 / 630 machine_silence_0008 INSUFFICIENT EVIDENCE tokens 157
+moss 554 / 630 machine_short_0008 INSUFFICIENT EVIDENCE tokens 167
+moss 555 / 630 machine_silence_0027 INSUFFICIENT EVIDENCE tokens 157
+moss 556 / 630 machine_short_0027 INSUFFICIENT EVIDENCE tokens 200
+moss 557 / 630 machine_silence_0031 INSUFFICIENT EVIDENCE tokens 157
+moss 558 / 630 machine_short_0031 INSUFFICIENT EVIDENCE tokens 167
+moss 559 / 630 machine_silence_0032 INSUFFICIENT EVIDENCE tokens 157
+moss 560 / 630 machine_short_0032 INSUFFICIENT EVIDENCE tokens 209
+moss 561 / 630 machine_silence_0037 INSUFFICIENT EVIDENCE tokens 157
+moss 562 / 630 machine_short_0037 INSUFFICIENT EVIDENCE tokens 167
+moss 563 / 630 machine_silence_0041 INSUFFICIENT EVIDENCE tokens 157
+moss 564 / 630 machine_short_0041 INSUFFICIENT EVIDENCE tokens 190
+moss 565 / 630 machine_silence_0042 INSUFFICIENT EVIDENCE tokens 157
+moss 566 / 630 machine_short_0042 INSUFFICIENT EVIDENCE tokens 167
+moss 567 / 630 machine_silence_0054 INSUFFICIENT EVIDENCE tokens 157
+moss 568 / 630 machine_short_0054 INSUFFICIENT EVIDENCE tokens 261
+moss 569 / 630 machine_silence_0056 INSUFFICIENT EVIDENCE tokens 157
+moss 570 / 630 machine_short_0056 INSUFFICIENT EVIDENCE tokens 233
+moss 571 / 630 machine_silence_0059 INSUFFICIENT EVIDENCE tokens 157
+moss 572 / 630 machine_short_0059 INSUFFICIENT EVIDENCE tokens 167
+moss 573 / 630 machine_silence_0061 INSUFFICIENT EVIDENCE tokens 157
+moss 574 / 630 machine_short_0061 INSUFFICIENT EVIDENCE tokens 167
+moss 575 / 630 machine_silence_0062 INSUFFICIENT EVIDENCE tokens 157
+moss 576 / 630 machine_short_0062 INSUFFICIENT EVIDENCE tokens 203
+moss 577 / 630 machine_silence_0063 INSUFFICIENT EVIDENCE tokens 157
+moss 578 / 630 machine_short_0063 INSUFFICIENT EVIDENCE tokens 237
+moss 579 / 630 machine_silence_0064 INSUFFICIENT EVIDENCE tokens 157
+moss 580 / 630 machine_short_0064 INSUFFICIENT EVIDENCE tokens 199
+moss 581 / 630 machine_silence_0068 INSUFFICIENT EVIDENCE tokens 157
+moss 582 / 630 machine_short_0068 INSUFFICIENT EVIDENCE tokens 203
+moss 583 / 630 machine_silence_0073 INSUFFICIENT EVIDENCE tokens 157
+moss 584 / 630 machine_short_0073 INSUFFICIENT EVIDENCE tokens 189
+moss 585 / 630 machine_silence_0074 INSUFFICIENT EVIDENCE tokens 157
+moss 586 / 630 machine_short_0074 INSUFFICIENT EVIDENCE tokens 167
+moss 587 / 630 machine_silence_0075 INSUFFICIENT EVIDENCE tokens 157
+moss 588 / 630 machine_short_0075 INSUFFICIENT EVIDENCE tokens 167
+moss 589 / 630 machine_silence_0078 INSUFFICIENT EVIDENCE tokens 157
+moss 590 / 630 machine_short_0078 INSUFFICIENT EVIDENCE tokens 225
+moss 591 / 630 machine_silence_0079 INSUFFICIENT EVIDENCE tokens 157
+moss 592 / 630 machine_short_0079 INSUFFICIENT EVIDENCE tokens 167
+moss 593 / 630 machine_silence_0084 INSUFFICIENT EVIDENCE tokens 157
+moss 594 / 630 machine_short_0084 INSUFFICIENT EVIDENCE tokens 209
+moss 595 / 630 machine_silence_0089 INSUFFICIENT EVIDENCE tokens 157
+moss 596 / 630 machine_short_0089 INSUFFICIENT EVIDENCE tokens 167
+moss 597 / 630 machine_silence_0090 INSUFFICIENT EVIDENCE tokens 157
+moss 598 / 630 machine_short_0090 INSUFFICIENT EVIDENCE tokens 167
+moss 599 / 630 machine_silence_0097 INSUFFICIENT EVIDENCE tokens 157
+moss 600 / 630 machine_short_0097 INSUFFICIENT EVIDENCE tokens 189
+moss 601 / 630 machine_silence_0104 INSUFFICIENT EVIDENCE tokens 157
+moss 602 / 630 machine_short_0104 INSUFFICIENT EVIDENCE tokens 184
+moss 603 / 630 machine_silence_0106 INSUFFICIENT EVIDENCE tokens 157
+moss 604 / 630 machine_short_0106 INSUFFICIENT EVIDENCE tokens 209
+moss 605 / 630 machine_silence_0114 INSUFFICIENT EVIDENCE tokens 157
+moss 606 / 630 machine_short_0114 INSUFFICIENT EVIDENCE tokens 212
+moss 607 / 630 machine_silence_0127 INSUFFICIENT EVIDENCE tokens 157
+moss 608 / 630 machine_short_0127 INSUFFICIENT EVIDENCE tokens 189
+moss 609 / 630 machine_silence_0132 INSUFFICIENT EVIDENCE tokens 157
+moss 610 / 630 machine_short_0132 INSUFFICIENT EVIDENCE tokens 167
+moss 611 / 630 machine_silence_0133 INSUFFICIENT EVIDENCE tokens 157
+moss 612 / 630 machine_short_0133 INSUFFICIENT EVIDENCE tokens 255
+moss 613 / 630 machine_silence_0138 INSUFFICIENT EVIDENCE tokens 157
+moss 614 / 630 machine_short_0138 INSUFFICIENT EVIDENCE tokens 272
+moss 615 / 630 machine_silence_0150 INSUFFICIENT EVIDENCE tokens 157
+moss 616 / 630 machine_short_0150 INSUFFICIENT EVIDENCE tokens 208
+moss 617 / 630 machine_silence_0156 INSUFFICIENT EVIDENCE tokens 157
+moss 618 / 630 machine_short_0156 INSUFFICIENT EVIDENCE tokens 209
+moss 619 / 630 machine_silence_0159 INSUFFICIENT EVIDENCE tokens 157
+moss 620 / 630 machine_short_0159 INSUFFICIENT EVIDENCE tokens 203
+moss 621 / 630 machine_silence_0165 INSUFFICIENT EVIDENCE tokens 157
+moss 622 / 630 machine_short_0165 INSUFFICIENT EVIDENCE tokens 189
+moss 623 / 630 machine_silence_0168 INSUFFICIENT EVIDENCE tokens 157
+moss 624 / 630 machine_short_0168 INSUFFICIENT EVIDENCE tokens 209
+moss 625 / 630 machine_silence_0172 INSUFFICIENT EVIDENCE tokens 199
+moss 626 / 630 machine_short_0172 INSUFFICIENT EVIDENCE tokens 197
+moss 627 / 630 machine_silence_0174 INSUFFICIENT EVIDENCE tokens 199
+moss 628 / 630 machine_short_0174 INSUFFICIENT EVIDENCE tokens 167
+moss 629 / 630 machine_silence_0175 INSUFFICIENT EVIDENCE tokens 199
+moss 630 / 630 machine_short_0175 INSUFFICIENT EVIDENCE tokens 167

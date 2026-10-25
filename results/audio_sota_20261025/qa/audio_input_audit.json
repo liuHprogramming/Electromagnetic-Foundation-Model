@@ -1,0 +1,32 @@
+{
+  "qwen": {
+    "passed": true,
+    "case_id": "machine_0000",
+    "feature_shape": [
+      1,
+      128,
+      3000
+    ],
+    "real_feature_sha256": "9395730ea0e0281ae60f1a9afb68cfde45a6c85b9d7927541e1079c112485d5d",
+    "silent_feature_sha256": "eb32c159b336b922d5ccadb2004d1c366b998728ccd536bd0ff197641890774b",
+    "max_absolute_feature_difference": 2.342434883117676,
+    "input_ids_identical": true,
+    "audio_token_count": 250,
+    "source_pcm_rms": 0.013656150772005788
+  },
+  "moss": {
+    "passed": true,
+    "case_id": "machine_0000",
+    "feature_shape": [
+      1,
+      128,
+      1000
+    ],
+    "real_feature_sha256": "a50d69cacd1ddf6feb50f37693bdbf9ab5e53e472e68dbf575020ce5d529d22a",
+    "silent_feature_sha256": "5c538bf32fa1fc35830214242fc4067c4fd6b70eda3c1b06f4a49d481833ea99",
+    "max_absolute_feature_difference": 2.34375,
+    "input_ids_identical": true,
+    "audio_token_count": 125,
+    "source_pcm_rms": 0.013656150772005788
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "path": "data/dev_bearingEmu.zip",
+    "source_url": "https://zenodo.org/records/19336329/files/dev_bearingEmu.zip?download=1",
+    "publisher_hash_type": "md5",
+    "publisher_hash": "82c2d04c5f48d09842152c34ef273667",
+    "sha256": "02605d74c1ca3818bf5da28ea1ba0c6cd226f80c2ad685c0ca47486f35b86204",
+    "bytes": 608240380
+  },
+  {
+    "path": "data/dev_gearboxEmu.zip",
+    "source_url": "https://zenodo.org/records/19336329/files/dev_gearboxEmu.zip?download=1",
+    "publisher_hash_type": "md5",
+    "publisher_hash": "21ef8b6dea66472bc4e7c91a175efdb7",
+    "sha256": "d986f7a5f82bb10051beee2dcdf170a0fc3a5c8727cd54f88bd074d8437d392d",
+    "bytes": 681113572
+  },
+  {
+    "path": "data/dev_sliderEmu.zip",
+    "source_url": "https://zenodo.org/records/19336329/files/dev_sliderEmu.zip?download=1",
+    "publisher_hash_type": "md5",
+    "publisher_hash": "1cbc87a09883a1aa05a6b2a4308efb83",
+    "sha256": "a36500e4710cc4e3f4846e253ad9400df7fd85444744fb4c2e13b5ba78f34c13",
+    "bytes": 694421981
+  },
+  {
+    "path": "data/dev_ToyCar_r2.zip",
+    "source_url": "https://zenodo.org/records/19336329/files/dev_ToyCar_r2.zip?download=1",
+    "publisher_hash_type": "md5",
+    "publisher_hash": "353201db217e25377a7e7eccf9c1c8a7",
+    "sha256": "7abd6ff143f6edecc555a89d8b4d4743c6195462f509641ec110f31bb86f2a64",
+    "bytes": 722655322
+  },
+  {
+    "path": "data/dev_ToyCarEmu.zip",
+    "source_url": "https://zenodo.org/records/19336329/files/dev_ToyCarEmu.zip?download=1",
+    "publisher_hash_type": "md5",
+    "publisher_hash": "187b0b3f84d2452d8944d5c831305f15",
+    "sha256": "27236af0b2a899e2c392a80f64aff7aa08f7d636eeb6393ab97ca6db28a1c15e",
+    "bytes": 815490762
+  },
+  {
+    "path": "data/dev_valveEmu.zip",
+    "source_url": "https://zenodo.org/records/19336329/files/dev_valveEmu.zip?download=1",
+    "publisher_hash_type": "md5",
+    "publisher_hash": "f7f74e59773eefa512f24625d88d58f0",
+    "sha256": "5b41ded9686ce2bf535d24c55722e9793a7db8fddc1794de001e96da9726db42",
+    "bytes": 574561173
+  },
+  {
+    "path": "models/nassl/dcase2026_nabeats_seed0.ckpt",
+    "source_url": "https://github.com/merlresearch/noise-aware-audio-ssl/releases/download/v1.0.0/dcase2026_nabeats_seed0.ckpt",
+    "publisher_hash_type": "sha256",
+    "publisher_hash": "e7f5fc1fc1b6505fff8a716a61a5bce4e5f91845d825dd7c633f26cdf837cf89",
+    "sha256": "e7f5fc1fc1b6505fff8a716a61a5bce4e5f91845d825dd7c633f26cdf837cf89",
+    "bytes": 368615194
+  }
+]

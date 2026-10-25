@@ -1,0 +1,14 @@
+[
+  {
+    "path": "results/asd2026/BEATs_iter3.npz",
+    "bytes": 407093826,
+    "sha256": "404a0ffac54a34ccbefe07d8fffb56c731389289b1c37115f1d1ac59f8425aad",
+    "retained_on_remote": true
+  },
+  {
+    "path": "results/asd2026/dcase2026_nabeats_seed0.npz",
+    "bytes": 407591807,
+    "sha256": "db63274ff919ba4e35a649241047becbd539c5c2ddfdcb3b32a309d17157f9eb",
+    "retained_on_remote": true
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "nvidia_smi": "name, driver_version, memory.total [MiB]\nNVIDIA A800 80GB PCIe, 595.91.07, 81920 MiB",
+  "gpu_process_cap_gib": 24,
+  "cpu_threads_per_evaluation": 8
+}

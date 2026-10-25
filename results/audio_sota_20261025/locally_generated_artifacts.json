@@ -1,0 +1,16 @@
+{
+  "generator": "experiments/audio_sota_20261025/plot_summary.py",
+  "generator_sha256": "1fe7dbb66d338971634cdb6e6654c175437a60d5176196455c18d0e423f672e9",
+  "artifacts": [
+    {
+      "path": "evaluation_summary.png",
+      "bytes": 95039,
+      "sha256": "c3cc21787a1f4fd5fee23fdc470455131e2ca2f5d520d347f91ccc4a9a6655dc"
+    },
+    {
+      "path": "evaluation_summary.pdf",
+      "bytes": 20407,
+      "sha256": "4596d92a45e10b3c396d8943e0082ec2a989501a7e1dcfd81cdf532def7d5bbc"
+    }
+  ]
+}

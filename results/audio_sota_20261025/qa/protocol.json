@@ -1,0 +1,20 @@
+{
+  "seed": 20261025,
+  "mmau_revision": "ccd9696c0111ea7060827598f310558df0b71b0a",
+  "mmau_version": "MMAU-v05.15.25 official HF snapshot",
+  "mmau_total_rows": 1000,
+  "counts": {
+    "machine_full": 200,
+    "machine_short": 40,
+    "machine_silence": 40,
+    "mmau_mismatch": 60,
+    "mmau_silence": 60,
+    "mmau_sound": 333
+  },
+  "generation": {
+    "do_sample": false,
+    "max_new_tokens": 512
+  },
+  "label_visibility": "Answers and source paths never rendered into model input.",
+  "controls": "MMAU silence/mismatch retain original answer only to measure paired audio dependence; not independently labeled QA accuracy. Machine short/silence expected abstention is a protocol rule."
+}

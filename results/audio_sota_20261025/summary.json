@@ -1,0 +1,406 @@
+{
+  "esc50": {
+    "n": 2000,
+    "accuracy": 0.9745,
+    "macro_f1": 0.9742707596475916,
+    "folds": [
+      {
+        "fold": 1,
+        "n": 400,
+        "correct": 389,
+        "accuracy": 0.9725,
+        "wilson95": [
+          0.9514345181143852,
+          0.9845763637397046
+        ]
+      },
+      {
+        "fold": 2,
+        "n": 400,
+        "correct": 395,
+        "accuracy": 0.9875,
+        "wilson95": [
+          0.9710762638040326,
+          0.9946492492200284
+        ]
+      },
+      {
+        "fold": 3,
+        "n": 400,
+        "correct": 388,
+        "accuracy": 0.97,
+        "wilson95": [
+          0.9483014642909042,
+          0.9827569790348569
+        ]
+      },
+      {
+        "fold": 4,
+        "n": 400,
+        "correct": 394,
+        "accuracy": 0.985,
+        "wilson95": [
+          0.9676653664151732,
+          0.9931077080805591
+        ]
+      },
+      {
+        "fold": 5,
+        "n": 400,
+        "correct": 383,
+        "accuracy": 0.9575,
+        "wilson95": [
+          0.9329979456752499,
+          0.9732983050088689
+        ]
+      }
+    ]
+  },
+  "qa": {
+    "moss": {
+      "machine_full": {
+        "n": 200,
+        "correct": 26,
+        "accuracy_or_original_answer_retention": 0.13,
+        "wilson95_question_descriptive": [
+          0.0902820227966932,
+          0.18366351872248407
+        ],
+        "unparseable": 3,
+        "token_cap_count": 3,
+        "mean_seconds": 1.9156170972935798,
+        "macro_f1": 0.1775891564679563,
+        "binary_answer_coverage": 0.255,
+        "answered_count": 51,
+        "accuracy_on_answered": 0.5098039215686274,
+        "abstention_count": 146,
+        "normal_specificity": 0.25,
+        "anomalous_sensitivity": 0.01
+      },
+      "machine_short": {
+        "n": 40,
+        "correct": 40,
+        "accuracy_or_original_answer_retention": 1.0,
+        "wilson95_question_descriptive": [
+          0.9123783988027135,
+          1.0000000000000002
+        ],
+        "unparseable": 0,
+        "token_cap_count": 0,
+        "mean_seconds": 1.5537394396664848
+      },
+      "machine_silence": {
+        "n": 40,
+        "correct": 40,
+        "accuracy_or_original_answer_retention": 1.0,
+        "wilson95_question_descriptive": [
+          0.9123783988027135,
+          1.0000000000000002
+        ],
+        "unparseable": 0,
+        "token_cap_count": 0,
+        "mean_seconds": 1.5532448561626855
+      },
+      "mmau_mismatch": {
+        "n": 60,
+        "correct": 34,
+        "accuracy_or_original_answer_retention": 0.5666666666666667,
+        "wilson95_question_descriptive": [
+          0.44103438776125564,
+          0.6842760319531324
+        ],
+        "unparseable": 0,
+        "token_cap_count": 0,
+        "mean_seconds": 2.3013565680899775,
+        "matched_audio_correct_on_same_questions": 50,
+        "matched_audio_accuracy": 0.8333333333333334,
+        "matched_to_control_accuracy_drop": 0.2666666666666667,
+        "answer_changed_count": 26
+      },
+      "mmau_silence": {
+        "n": 60,
+        "correct": 38,
+        "accuracy_or_original_answer_retention": 0.6333333333333333,
+        "wilson95_question_descriptive": [
+          0.5068300063010303,
+          0.7437908331277456
+        ],
+        "unparseable": 0,
+        "token_cap_count": 0,
+        "mean_seconds": 2.3006504486703006,
+        "matched_audio_correct_on_same_questions": 50,
+        "matched_audio_accuracy": 0.8333333333333334,
+        "matched_to_control_accuracy_drop": 0.20000000000000007,
+        "answer_changed_count": 19
+      },
+      "mmau_sound": {
+        "n": 333,
+        "correct": 274,
+        "accuracy_or_original_answer_retention": 0.8228228228228228,
+        "wilson95_question_descriptive": [
+          0.7782005183109549,
+          0.8600819566335792
+        ],
+        "unparseable": 1,
+        "token_cap_count": 1,
+        "mean_seconds": 2.9220046553090944,
+        "by_difficulty": {
+          "easy": {
+            "n": 21,
+            "correct": 20
+          },
+          "medium": {
+            "n": 237,
+            "correct": 196
+          },
+          "hard": {
+            "n": 75,
+            "correct": 58
+          }
+        },
+        "unique_audio_sha256": 311,
+        "expected_choice_counts": {
+          "A": 164,
+          "B": 55,
+          "C": 81,
+          "D": 33
+        },
+        "fixed_always_A_accuracy": 0.4924924924924925,
+        "recall_by_choice": {
+          "A": 0.8719512195121951,
+          "B": 0.8363636363636363,
+          "C": 0.7407407407407407,
+          "D": 0.7575757575757576
+        },
+        "balanced_choice_accuracy": 0.8016578385480824,
+        "processor_truncated_audio_count": 0,
+        "audio_cluster_bootstrap95": [
+          0.7804154302670623,
+          0.8621700879765396
+        ]
+      }
+    },
+    "qwen": {
+      "machine_full": {
+        "n": 200,
+        "correct": 100,
+        "accuracy_or_original_answer_retention": 0.5,
+        "wilson95_question_descriptive": [
+          0.43136085960389187,
+          0.5686391403961082
+        ],
+        "unparseable": 0,
+        "token_cap_count": 0,
+        "mean_seconds": 0.504639819401782,
+        "macro_f1": 0.3333333333333333,
+        "binary_answer_coverage": 1.0,
+        "answered_count": 200,
+        "accuracy_on_answered": 0.5,
+        "abstention_count": 0,
+        "normal_specificity": 1.0,
+        "anomalous_sensitivity": 0.0
+      },
+      "machine_short": {
+        "n": 40,
+        "correct": 0,
+        "accuracy_or_original_answer_retention": 0.0,
+        "wilson95_question_descriptive": [
+          0.0,
+          0.08762160119728664
+        ],
+        "unparseable": 0,
+        "token_cap_count": 0,
+        "mean_seconds": 0.9372733681928367
+      },
+      "machine_silence": {
+        "n": 40,
+        "correct": 0,
+        "accuracy_or_original_answer_retention": 0.0,
+        "wilson95_question_descriptive": [
+          0.0,
+          0.08762160119728664
+        ],
+        "unparseable": 0,
+        "token_cap_count": 0,
+        "mean_seconds": 0.679423385654809
+      },
+      "mmau_mismatch": {
+        "n": 60,
+        "correct": 26,
+        "accuracy_or_original_answer_retention": 0.43333333333333335,
+        "wilson95_question_descriptive": [
+          0.3157239680468677,
+          0.5589656122387444
+        ],
+        "unparseable": 0,
+        "token_cap_count": 0,
+        "mean_seconds": 0.1968905453220941,
+        "matched_audio_correct_on_same_questions": 45,
+        "matched_audio_accuracy": 0.75,
+        "matched_to_control_accuracy_drop": 0.31666666666666665,
+        "answer_changed_count": 26
+      },
+      "mmau_silence": {
+        "n": 60,
+        "correct": 26,
+        "accuracy_or_original_answer_retention": 0.43333333333333335,
+        "wilson95_question_descriptive": [
+          0.3157239680468677,
+          0.5589656122387444
+        ],
+        "unparseable": 0,
+        "token_cap_count": 0,
+        "mean_seconds": 0.2162325308076106,
+        "matched_audio_correct_on_same_questions": 45,
+        "matched_audio_accuracy": 0.75,
+        "matched_to_control_accuracy_drop": 0.31666666666666665,
+        "answer_changed_count": 25
+      },
+      "mmau_sound": {
+        "n": 333,
+        "correct": 214,
+        "accuracy_or_original_answer_retention": 0.6426426426426426,
+        "wilson95_question_descriptive": [
+          0.5898134444872102,
+          0.6922183467673514
+        ],
+        "unparseable": 0,
+        "token_cap_count": 0,
+        "mean_seconds": 0.20069197459809213,
+        "by_difficulty": {
+          "easy": {
+            "n": 21,
+            "correct": 8
+          },
+          "medium": {
+            "n": 237,
+            "correct": 164
+          },
+          "hard": {
+            "n": 75,
+            "correct": 42
+          }
+        },
+        "unique_audio_sha256": 311,
+        "expected_choice_counts": {
+          "A": 164,
+          "B": 55,
+          "C": 81,
+          "D": 33
+        },
+        "fixed_always_A_accuracy": 0.4924924924924925,
+        "recall_by_choice": {
+          "A": 0.5304878048780488,
+          "B": 0.5272727272727272,
+          "C": 0.8641975308641975,
+          "D": 0.8484848484848485
+        },
+        "balanced_choice_accuracy": 0.6926107278749555,
+        "processor_truncated_audio_count": 0,
+        "audio_cluster_bootstrap95": [
+          0.5903614457831325,
+          0.6946107784431138
+        ]
+      }
+    }
+  },
+  "paired_mmau_sound": {
+    "n": 333,
+    "moss_only_correct": 83,
+    "qwen_only_correct": 23,
+    "accuracy_difference_moss_minus_qwen": 0.18018018018018017,
+    "paired_question_bootstrap95": [
+      0.12312312312312312,
+      0.23723723723723725
+    ],
+    "mcnemar_exact_p_two_sided": 3.787227599932374e-09,
+    "scope": "Descriptive paired comparison of the fixed sound test-mini partition; no universal SOTA claim.",
+    "audio_clusters": 311,
+    "paired_audio_cluster_bootstrap95": [
+      0.1223241590214067,
+      0.23894619686193586
+    ],
+    "question_mcnemar_caveat": "Exploratory question-level statistic; repeated audio violates question independence. Use audio-cluster uncertainty for primary inference.",
+    "audio_cluster_sign_flip_permutations": 100000,
+    "audio_cluster_sign_flip_p_two_sided": 9.99990000099999e-06
+  },
+  "asd2026": {
+    "n": 8400,
+    "machines": [
+      "ToyCar",
+      "ToyCarEmu",
+      "bearingEmu",
+      "fan",
+      "gearboxEmu",
+      "sliderEmu",
+      "valveEmu"
+    ],
+    "aggregate": [
+      {
+        "model": "BEATs_iter3",
+        "variant": "global_ap",
+        "harmonic_auc_source_target_pauc": 0.5866148625040749,
+        "machines": 7
+      },
+      {
+        "model": "BEATs_iter3",
+        "variant": "frequency_ap",
+        "harmonic_auc_source_target_pauc": 0.6020666445979841,
+        "machines": 7
+      },
+      {
+        "model": "BEATs_iter3",
+        "variant": "beam_ap",
+        "harmonic_auc_source_target_pauc": 0.6028152402858677,
+        "machines": 7
+      },
+      {
+        "model": "BEATs_iter3",
+        "variant": "beam_rdp4",
+        "harmonic_auc_source_target_pauc": 0.6080001626323932,
+        "machines": 7
+      },
+      {
+        "model": "dcase2026_nabeats_seed0",
+        "variant": "global_ap",
+        "harmonic_auc_source_target_pauc": 0.6083189152253327,
+        "machines": 7
+      },
+      {
+        "model": "dcase2026_nabeats_seed0",
+        "variant": "frequency_ap",
+        "harmonic_auc_source_target_pauc": 0.6212591058841519,
+        "machines": 7
+      },
+      {
+        "model": "dcase2026_nabeats_seed0",
+        "variant": "beam_ap",
+        "harmonic_auc_source_target_pauc": 0.6200732898138012,
+        "machines": 7
+      },
+      {
+        "model": "dcase2026_nabeats_seed0",
+        "variant": "beam_rdp4",
+        "harmonic_auc_source_target_pauc": 0.6260324257384737,
+        "machines": 7
+      }
+    ],
+    "uncertainty": {
+      "variant": "beam_rdp4",
+      "resamples": 1000,
+      "method": "paired stratified clip bootstrap within machine/domain/label; conditional descriptive intervals",
+      "beats_ci95": [
+        0.5820239197404916,
+        0.6300768748154565
+      ],
+      "nabeats_ci95": [
+        0.5986810774089777,
+        0.6506633563519785
+      ],
+      "difference_nabeats_minus_beats_ci95": [
+        -0.001197128831616531,
+        0.03658902504314559
+      ]
+    }
+  }
+}

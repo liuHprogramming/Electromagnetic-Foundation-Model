@@ -1,0 +1,19 @@
+{
+  "runtime": {
+    "python": "3.12.15",
+    "torch": "2.9.1+cu128",
+    "device": "cuda",
+    "threads": 8,
+    "peak_cuda_allocated_gib": 17.27867078781128,
+    "peak_cuda_reserved_gib": 17.603515625,
+    "gpu_cap_gib": 24
+  },
+  "generation": {
+    "max_new_tokens": 512,
+    "do_sample": false
+  },
+  "official_moss_code_commit": "66326e6e0db34f036c86a76ba005efa4830c69dd",
+  "n_expected": 4,
+  "batch_size": 4,
+  "seconds_this_invocation": 23.696717395912856
+}

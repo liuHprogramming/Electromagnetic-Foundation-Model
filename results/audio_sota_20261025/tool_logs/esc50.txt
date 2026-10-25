@@ -1,0 +1,36 @@
+✅ All norm layers updated to eps=1e-06
+ESC 1 8 /400
+ESC 1 88 /400
+ESC 1 168 /400
+ESC 1 248 /400
+ESC 1 328 /400
+ESC fold result {'fold': 1, 'n': 400, 'correct': 389, 'accuracy': 0.9725, 'wilson95': [0.9514345181143852, 0.9845763637397046]}
+✅ All norm layers updated to eps=1e-06
+ESC 2 8 /400
+ESC 2 88 /400
+ESC 2 168 /400
+ESC 2 248 /400
+ESC 2 328 /400
+ESC fold result {'fold': 2, 'n': 400, 'correct': 395, 'accuracy': 0.9875, 'wilson95': [0.9710762638040326, 0.9946492492200284]}
+✅ All norm layers updated to eps=1e-06
+ESC 3 8 /400
+ESC 3 88 /400
+ESC 3 168 /400
+ESC 3 248 /400
+ESC 3 328 /400
+ESC fold result {'fold': 3, 'n': 400, 'correct': 388, 'accuracy': 0.97, 'wilson95': [0.9483014642909042, 0.9827569790348569]}
+✅ All norm layers updated to eps=1e-06
+ESC 4 8 /400
+ESC 4 88 /400
+ESC 4 168 /400
+ESC 4 248 /400
+ESC 4 328 /400
+ESC fold result {'fold': 4, 'n': 400, 'correct': 394, 'accuracy': 0.985, 'wilson95': [0.9676653664151732, 0.9931077080805591]}
+✅ All norm layers updated to eps=1e-06
+ESC 5 8 /400
+ESC 5 88 /400
+ESC 5 168 /400
+ESC 5 248 /400
+ESC 5 328 /400
+ESC fold result {'fold': 5, 'n': 400, 'correct': 383, 'accuracy': 0.9575, 'wilson95': [0.9329979456752499, 0.9732983050088689]}
+ESC COMPLETE 0.9745 43.881090640090406

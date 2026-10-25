@@ -1,0 +1,4 @@
+experiments/audio_sota_20261025/** text eol=lf
+results/audio_sota_20261025/** text eol=lf
+results/audio_sota_20261025/*.png binary
+results/audio_sota_20261025/*.pdf binary

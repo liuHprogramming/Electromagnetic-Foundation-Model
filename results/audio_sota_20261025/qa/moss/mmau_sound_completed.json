@@ -1,0 +1,13 @@
+{
+  "n": 333,
+  "correct": 274,
+  "unparseable": 1,
+  "token_cap_count": 1,
+  "expected_choice_counts": {
+    "A": 164,
+    "B": 55,
+    "C": 81,
+    "D": 33
+  },
+  "scope": "Completed MOSS sound partition only; paired Qwen and controls remain in progress."
+}

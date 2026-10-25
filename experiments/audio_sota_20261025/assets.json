@@ -1,0 +1,411 @@
+[
+  {
+    "kind": "model",
+    "id": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "files": [
+      {
+        "rfilename": "README.md",
+        "blobId": "bdbb12558d93311db8a4c2d8e0ab466e1284d2db",
+        "size": 23731
+      },
+      {
+        "rfilename": "added_tokens.json",
+        "blobId": "901becf1b925158ca398c16ca738469639d47cee",
+        "size": 801
+      },
+      {
+        "rfilename": "assets/OpenMOSS_Logo.png",
+        "blobId": "d1d75c8cc49b004b315dffe621a84c95bfec8b60",
+        "size": 31912
+      },
+      {
+        "rfilename": "assets/arc.png",
+        "blobId": "22b619cc5a1c835c205fdedd4c650d46f1c8204e",
+        "size": 978308,
+        "lfs": {
+          "sha256": "54ae0abb8514ccc886823d5564a7584e73a417ae5e208f9679895d5b1a198a0e",
+          "size": 978308,
+          "pointerSize": 131
+        }
+      },
+      {
+        "rfilename": "assets/general_audio_bar.png",
+        "blobId": "f80f96b88299b72887edfdc3cbb4fe8e4bc3899c",
+        "size": 167950,
+        "lfs": {
+          "sha256": "fd5d00ad3ee498962197febea521aa92a9d0e92e2bc0281ea4074043cb8e7e23",
+          "size": 167950,
+          "pointerSize": 131
+        }
+      },
+      {
+        "rfilename": "assets/general_audio_bar.svg",
+        "blobId": "47d111553426b9f007efdc40149dac56d6b0c9d5",
+        "size": 86733
+      },
+      {
+        "rfilename": "assets/mosi-logo.png",
+        "blobId": "2cce10b29d2a9f3f0cde989a51896e366b42b75c",
+        "size": 25248
+      },
+      {
+        "rfilename": "assets/moss-audio-2.png",
+        "blobId": "1c9517565957d02908a317b75eeab46233d3e95d",
+        "size": 1359677,
+        "lfs": {
+          "sha256": "786ed71d165cc2e5fdb034d6f0ca38c00d52a4b481d6f0ba570b9881bfc41977",
+          "size": 1359677,
+          "pointerSize": 132
+        }
+      },
+      {
+        "rfilename": "assets/moss-audio-architecture.svg",
+        "blobId": "6c634945db69ff4483f6fd6fba6a3d37ca4ba7ef",
+        "size": 1700355
+      },
+      {
+        "rfilename": "assets/moss-audio-image.png",
+        "blobId": "dd842dcbb62b3f7fb06c58c82ed0e5d297977dc7",
+        "size": 2488568,
+        "lfs": {
+          "sha256": "8277c7b1586c7adab911b493cd294d017f9f2e5ea7489556b0a5d16ca391f59a",
+          "size": 2488568,
+          "pointerSize": 132
+        }
+      },
+      {
+        "rfilename": "assets/moss-audio-logo.png",
+        "blobId": "624292fb7a7ff2dbbc79e28692d79351e2bfcd22",
+        "size": 574060,
+        "lfs": {
+          "sha256": "1866d9a783acadea47aba654f2d82096aac2cf743ee41d0f236853ba35ca2c13",
+          "size": 574060,
+          "pointerSize": 131
+        }
+      },
+      {
+        "rfilename": "assets/speech_caption_radar.png",
+        "blobId": "60568d0aa33f66e60f7313d6bea5ff81da2cf146",
+        "size": 406853,
+        "lfs": {
+          "sha256": "8ec2a3c2a955416d142312d2c0d2669f02cd1d1ac4000c54dd890687a6bd7808",
+          "size": 406853,
+          "pointerSize": 131
+        }
+      },
+      {
+        "rfilename": "assets/speech_caption_radar.svg",
+        "blobId": "739bd765c2ace51dcaecd269311f3da544efcb19",
+        "size": 65000
+      },
+      {
+        "rfilename": "assets/wechat.jpg",
+        "blobId": "32f0863c86b45964e22c94c9cd53ea683265d299",
+        "size": 11066
+      },
+      {
+        "rfilename": "chat_template.jinja",
+        "blobId": "699ff8df401fe4788525e9c1f9b86a99eadd6230",
+        "size": 4116
+      },
+      {
+        "rfilename": "config.json",
+        "blobId": "393f2b4d18adea5de3a55791b912f7ac198a01f9",
+        "size": 2715
+      },
+      {
+        "rfilename": "configuration_moss_audio.py",
+        "blobId": "7e24aff842ca3e806ac33a4d9eda7c03fe96536d",
+        "size": 1014
+      },
+      {
+        "rfilename": "generation_config.json",
+        "blobId": "4835636feaab94c609ee8e876bc0c7c701bc048e",
+        "size": 121
+      },
+      {
+        "rfilename": "merges.txt",
+        "blobId": "31349551d90c7606f325fe0f11bbb8bd5fa0d7c7",
+        "size": 1671853
+      },
+      {
+        "rfilename": "model-00001-of-00004.safetensors",
+        "blobId": "bb38ac791f224f484e70375373a002b47973f640",
+        "size": 4931218512,
+        "lfs": {
+          "sha256": "5444e22367fe81bc56f5fff3693e6e788984452325cf90f645724d7f85fe2ee6",
+          "size": 4931218512,
+          "pointerSize": 135
+        }
+      },
+      {
+        "rfilename": "model-00002-of-00004.safetensors",
+        "blobId": "5e1b71be6b7bdda476d2d7aa7b92d672354c9c79",
+        "size": 4983069720,
+        "lfs": {
+          "sha256": "c6dd174db4db22bc72a4e7aeb99bb6a3de5d8af6c53036a1ce215c621eb8252b",
+          "size": 4983069720,
+          "pointerSize": 135
+        }
+      },
+      {
+        "rfilename": "model-00003-of-00004.safetensors",
+        "blobId": "4329a7ce20fa8a3233897cd9183a822b89e10509",
+        "size": 4999847608,
+        "lfs": {
+          "sha256": "a49edfcecb911b9b65c5f57b0596a935e867a56358587c39b612705cf90ec5b7",
+          "size": 4999847608,
+          "pointerSize": 135
+        }
+      },
+      {
+        "rfilename": "model-00004-of-00004.safetensors",
+        "blobId": "465331c17afa43fa436906370547cde912635169",
+        "size": 3190899536,
+        "lfs": {
+          "sha256": "9078bd9267da1452ece38bc7ea4400a34b69a9a3fa6f467e79390acc096855ba",
+          "size": 3190899536,
+          "pointerSize": 135
+        }
+      },
+      {
+        "rfilename": "model.safetensors.index.json",
+        "blobId": "802e1c8d00498e8e145d19a1a3428b7dbd49f04b",
+        "size": 80030
+      },
+      {
+        "rfilename": "preprocessor_config.json",
+        "blobId": "381a60749bc471161e2928c23f640e58d456f725",
+        "size": 427
+      },
+      {
+        "rfilename": "processing_moss_audio.py",
+        "blobId": "5116fed0d59d107d2fa760ad48fdf9e73ac2ea58",
+        "size": 14970
+      },
+      {
+        "rfilename": "special_tokens_map.json",
+        "blobId": "ac23c0aaa2434523c494330aeb79c58395378103",
+        "size": 613
+      },
+      {
+        "rfilename": "tokenizer_config.json",
+        "blobId": "aaeca3e2ba281c9daeb1d10a4e14c585008ee092",
+        "size": 6114
+      },
+      {
+        "rfilename": "vocab.json",
+        "blobId": "6bce3a0a3866c4791a74d83d78f6824c3af64ec3",
+        "size": 3383407
+      }
+    ]
+  },
+  {
+    "kind": "model",
+    "id": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split1",
+    "revision": "729c33766ee901112a1888922ae0894d6fa7e9d6",
+    "files": [
+      {
+        "rfilename": "README.md",
+        "blobId": "30c92e6ce88c726850f72f83f4edf063c163e956",
+        "size": 3038
+      },
+      {
+        "rfilename": "config.json",
+        "blobId": "7a8ca3be19f83c945ec3924e6d7ebee7ed19cffd",
+        "size": 532
+      },
+      {
+        "rfilename": "load_model.py",
+        "blobId": "e8ec6bd1593c334f3d20910c8b3fc5e501868b09",
+        "size": 1793
+      },
+      {
+        "rfilename": "model.safetensors",
+        "blobId": "3969dffdd2e772c58f5ccc43edc672b8315c2861",
+        "size": 341986616,
+        "lfs": {
+          "sha256": "fd1cc9cc0e20284d69a2e65a43eeac7353ebc4f9cf7850486fe728805eab7347",
+          "size": 341986616,
+          "pointerSize": 134
+        }
+      },
+      {
+        "rfilename": "modeling.py",
+        "blobId": "b56b257ac85ef70557fc4c3ae293fb2717599c23",
+        "size": 46857
+      }
+    ]
+  },
+  {
+    "kind": "model",
+    "id": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split2",
+    "revision": "b2a7d6b3444fad6e0ec251f3d6f1bb2aa4a0bf04",
+    "files": [
+      {
+        "rfilename": "README.md",
+        "blobId": "fdfd2e416d31c4a6ba39118d6cfb36ecdae11b81",
+        "size": 3038
+      },
+      {
+        "rfilename": "config.json",
+        "blobId": "7a8ca3be19f83c945ec3924e6d7ebee7ed19cffd",
+        "size": 532
+      },
+      {
+        "rfilename": "load_model.py",
+        "blobId": "f6eaf2134cb15cef9bb812b31620ebd85b324aed",
+        "size": 1793
+      },
+      {
+        "rfilename": "model.safetensors",
+        "blobId": "61f009e5aa5e236142ec954a9d1ec0d333d4192f",
+        "size": 341986616,
+        "lfs": {
+          "sha256": "f496271eb7c0f695324e334d540fe1e0940069ef492d38ccde3764ab6c4412e0",
+          "size": 341986616,
+          "pointerSize": 134
+        }
+      },
+      {
+        "rfilename": "modeling.py",
+        "blobId": "b56b257ac85ef70557fc4c3ae293fb2717599c23",
+        "size": 46857
+      }
+    ]
+  },
+  {
+    "kind": "model",
+    "id": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split3",
+    "revision": "e21525aded4511f85aeb2c0f4c811e2ccc62efbc",
+    "files": [
+      {
+        "rfilename": "README.md",
+        "blobId": "96b117f6ecba25b2edd6dfeeddddf12cb6c5b39d",
+        "size": 3038
+      },
+      {
+        "rfilename": "config.json",
+        "blobId": "7a8ca3be19f83c945ec3924e6d7ebee7ed19cffd",
+        "size": 532
+      },
+      {
+        "rfilename": "load_model.py",
+        "blobId": "61f9cc3d984b79775bd2cf01a5ee56bc45de2291",
+        "size": 1793
+      },
+      {
+        "rfilename": "model.safetensors",
+        "blobId": "8ddf6b28504d56aa7b16acc52a8057c81e390e6d",
+        "size": 341986616,
+        "lfs": {
+          "sha256": "3a5f26bf4fd891f26ad951e419eee0dbe7c6b4f6f0a09f25ee9f7ce605208c07",
+          "size": 341986616,
+          "pointerSize": 134
+        }
+      },
+      {
+        "rfilename": "modeling.py",
+        "blobId": "b56b257ac85ef70557fc4c3ae293fb2717599c23",
+        "size": 46857
+      }
+    ]
+  },
+  {
+    "kind": "model",
+    "id": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split4",
+    "revision": "27c12884c6e53fbb56ba578c1ed39f2a360f7cc6",
+    "files": [
+      {
+        "rfilename": "README.md",
+        "blobId": "8ef5525173e585a1ec62f4f3d8eb00bcb4af18aa",
+        "size": 3038
+      },
+      {
+        "rfilename": "config.json",
+        "blobId": "7a8ca3be19f83c945ec3924e6d7ebee7ed19cffd",
+        "size": 532
+      },
+      {
+        "rfilename": "load_model.py",
+        "blobId": "00705990107c5dc9cf30ee972c7fc5ea76c357ee",
+        "size": 1793
+      },
+      {
+        "rfilename": "model.safetensors",
+        "blobId": "b17a0a507c40117225b407d7e82f01813626ea10",
+        "size": 341986616,
+        "lfs": {
+          "sha256": "0b4e7c36d81c038976884ac49daed3158e95e947c281e0b2a9cd5e4f550aa6a4",
+          "size": 341986616,
+          "pointerSize": 134
+        }
+      },
+      {
+        "rfilename": "modeling.py",
+        "blobId": "b56b257ac85ef70557fc4c3ae293fb2717599c23",
+        "size": 46857
+      }
+    ]
+  },
+  {
+    "kind": "model",
+    "id": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split5",
+    "revision": "ad25eed4c08f5280fc9e869ba91c51a91dda822a",
+    "files": [
+      {
+        "rfilename": "README.md",
+        "blobId": "2b68081f0b5e1a1d87887e1e6d5375f92f5ac4e0",
+        "size": 3038
+      },
+      {
+        "rfilename": "config.json",
+        "blobId": "7a8ca3be19f83c945ec3924e6d7ebee7ed19cffd",
+        "size": 532
+      },
+      {
+        "rfilename": "load_model.py",
+        "blobId": "bd241e1d3116c7dc39bed1d7a104ebea21c24ff8",
+        "size": 1793
+      },
+      {
+        "rfilename": "model.safetensors",
+        "blobId": "8fd79b9271def24e5a81e8fc528341707789f5e8",
+        "size": 341986616,
+        "lfs": {
+          "sha256": "ceacba0a0b4bc14c4ac30ac2df6ecf55c91b808a45aad9ef03e1a93a87275ff0",
+          "size": 341986616,
+          "pointerSize": 134
+        }
+      },
+      {
+        "rfilename": "modeling.py",
+        "blobId": "b56b257ac85ef70557fc4c3ae293fb2717599c23",
+        "size": 46857
+      }
+    ]
+  },
+  {
+    "kind": "dataset",
+    "id": "gamma-lab-umd/MMAU-test-mini",
+    "revision": "ccd9696c0111ea7060827598f310558df0b71b0a",
+    "files": [
+      {
+        "rfilename": "README.md",
+        "blobId": "bfa1597e796059b053edc0e4171dcc26d6cd1553",
+        "size": 57
+      },
+      {
+        "rfilename": "test_mini.parquet",
+        "blobId": "e76cf354760ee7a2465341d0d3348610528b38f1",
+        "size": 1213407227,
+        "lfs": {
+          "sha256": "54b76f440db843546f9ad49a1518cc22371f63a266f034ba6bd4343b7b6fde86",
+          "size": 1213407227,
+          "pointerSize": 135
+        }
+      }
+    ]
+  }
+]

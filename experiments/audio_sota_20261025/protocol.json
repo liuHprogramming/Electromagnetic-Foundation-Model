@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-25",
+  "seed": 20261025,
+  "gpu_allocation_limit_gib": 24,
+  "tasks": {
+    "environmental_sound_classification": {
+      "model": "AudioMosaic ViT-B16 official fold classifiers",
+      "benchmark": "ESC-50, all 2000 clips, official five folds",
+      "evaluation": "Each model sees only its advertised held-out fold; accuracy and macro-F1.",
+      "preprocessing": "Author training implementation: (fbank - mean) / (2 * std). HF convenience-preprocess result retained separately.",
+      "scope": "Published-checkpoint inference reproduction, no retraining. Not an independent audit of upstream model selection."
+    },
+    "audio_reasoning": {
+      "models": ["MOSS-Audio-8B-Thinking", "Qwen2-Audio-7B-Instruct"],
+      "benchmark": "All environmental-sound questions in the official MMAU-test-mini snapshot",
+      "generation": {"do_sample": false, "max_new_tokens": 512},
+      "evaluation": "Strict parsed choice accuracy with all questions in denominator; audio-hash cluster bootstrap and paired cluster sign-flip test account for repeated recordings. Question-level Wilson and McNemar statistics are exploratory.",
+      "controls": "60 silent and 60 mismatched inputs with fixed questions, reported separately as original-answer retention.",
+      "scope": "Sound partition, not full MMAU speech/music score. Prompt and decoding differ from some upstream reported results."
+    },
+    "machine_audio_qa": {
+      "benchmark": "All 200 held-out DCASE2020 pilot clips; 100 normal, 100 anomalous across fan/pump.",
+      "controls": "40 silent and 40 quarter-second excerpts; expected abstention is a protocol rule.",
+      "evaluation": "Accuracy, normal specificity, anomaly sensitivity, abstention, parse failures.",
+      "scope": "A diagnostic generalization test, not physical fault diagnosis or an official QA benchmark."
+    },
+    "noise_aware_machine_asd": {
+      "models": ["BEATs_iter3", "dcase2026_nabeats_seed0"],
+      "benchmark": "DCASE2026 development, seven machine types, all 1000 normal train + 200 test clips per type",
+      "input": "16 kHz synchronous near and far microphones; NA uses far as auxiliary reference, BEATs uses near only.",
+      "backend": "Normal-only cosine 1NN, global/frequency average pooling, frequency-wise BEAM-style banks, RDP gamma=4.",
+      "precision": "CUDA BF16 autocast, float32 pooling and cosine scores; at most 16 exact-length clips per batch.",
+      "evaluation": "Source AUC, target AUC, standardized pAUC FPR<=0.1; harmonic mean across all machine/metric components.",
+      "scope": "Frozen seed0 frontend and paper-described backend ideas. Excludes discriminative fine-tuning, score rescaling and three-seed ensemble; not a reproduction of the full 70.24 competition result."
+    }
+  },
+  "selection_policy": "Protocols are chosen from official code/docs; no prompt, threshold, pooling exponent or checkpoint is selected using resulting test metrics. All specified ASD variants are reported."
+}

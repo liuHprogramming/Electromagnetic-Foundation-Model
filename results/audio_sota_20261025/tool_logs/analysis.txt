@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/data/Claude/electromagnetic-foundation-model/sota_20261025/code/analyze_results.py", line 130, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/data/Claude/electromagnetic-foundation-model/sota_20261025/code/analyze_results.py", line 34, in main
+    assert all(r.get('encoder_feature_shape') is not None for r in rows),'Qwen run missing acoustic features; rerun after fixing processor API'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Qwen run missing acoustic features; rerun after fixing processor API

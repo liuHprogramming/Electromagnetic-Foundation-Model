@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/data/Claude/electromagnetic-foundation-model/sota_20261025/code/prepare_qa.py", line 76, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/data/Claude/electromagnetic-foundation-model/sota_20261025/code/prepare_qa.py", line 23, in main
+    assert 300<=len(sound)<=350,(len(table),len(sound),table.columns.tolist())
+           ^^^^^^^^^^^^^^^^^^^^
+AssertionError: (1000, 0, ['context', 'instruction', 'choices', 'answer', 'other_attributes'])

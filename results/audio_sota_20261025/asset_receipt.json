@@ -1,0 +1,353 @@
+[
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/added_tokens.json",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/added_tokens.json",
+    "bytes": 801,
+    "sha256": "1fabcc983ee0051b922009b1b5a7af1844385f38783e62679ac35d6dd2aa3355",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/chat_template.jinja",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/chat_template.jinja",
+    "bytes": 4116,
+    "sha256": "87a2728cb8dc9fe424d624542f6060ec05a1d285ebbec578bb078900e33396b5",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/config.json",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/config.json",
+    "bytes": 2715,
+    "sha256": "535154c2a5bcbd0e18e2f92bcf370ac74b530eec97ad4fd9317993ba0a316536",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/configuration_moss_audio.py",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/configuration_moss_audio.py",
+    "bytes": 1014,
+    "sha256": "83c70f46e9e5aa9a2e48074e69b92768b236aa2f183f8b29aeb7f8c13e0e8046",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/generation_config.json",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/generation_config.json",
+    "bytes": 121,
+    "sha256": "bb52bfdd308deaea4ec800bf0165e75770b0a4e5c105963bee1b0398f4043d3e",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/merges.txt",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/merges.txt",
+    "bytes": 1671853,
+    "sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/model-00001-of-00004.safetensors",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/model-00001-of-00004.safetensors",
+    "bytes": 4931218512,
+    "sha256": "5444e22367fe81bc56f5fff3693e6e788984452325cf90f645724d7f85fe2ee6",
+    "publisher_sha256": "5444e22367fe81bc56f5fff3693e6e788984452325cf90f645724d7f85fe2ee6"
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/model-00002-of-00004.safetensors",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/model-00002-of-00004.safetensors",
+    "bytes": 4983069720,
+    "sha256": "c6dd174db4db22bc72a4e7aeb99bb6a3de5d8af6c53036a1ce215c621eb8252b",
+    "publisher_sha256": "c6dd174db4db22bc72a4e7aeb99bb6a3de5d8af6c53036a1ce215c621eb8252b"
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/model-00003-of-00004.safetensors",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/model-00003-of-00004.safetensors",
+    "bytes": 4999847608,
+    "sha256": "a49edfcecb911b9b65c5f57b0596a935e867a56358587c39b612705cf90ec5b7",
+    "publisher_sha256": "a49edfcecb911b9b65c5f57b0596a935e867a56358587c39b612705cf90ec5b7"
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/model-00004-of-00004.safetensors",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/model-00004-of-00004.safetensors",
+    "bytes": 3190899536,
+    "sha256": "9078bd9267da1452ece38bc7ea4400a34b69a9a3fa6f467e79390acc096855ba",
+    "publisher_sha256": "9078bd9267da1452ece38bc7ea4400a34b69a9a3fa6f467e79390acc096855ba"
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/model.safetensors.index.json",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/model.safetensors.index.json",
+    "bytes": 80030,
+    "sha256": "d980986e77df7ff3b427ffdff58b0ca04e9a93d2e4a097ed2187cef6593a8e67",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/preprocessor_config.json",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/preprocessor_config.json",
+    "bytes": 427,
+    "sha256": "6a5c462858acb299db0d2d967b63d520b72d178f44d1619c33fc860f25fdccbf",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/processing_moss_audio.py",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/processing_moss_audio.py",
+    "bytes": 14970,
+    "sha256": "05fb788cbdc6482eded8d70f7d2f524bc0cdca47d001acab5661c11f02cc6fe6",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/special_tokens_map.json",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/special_tokens_map.json",
+    "bytes": 613,
+    "sha256": "76862e765266b85aa9459767e33cbaf13970f327a0e88d1c65846c2ddd3a1ecd",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/tokenizer_config.json",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/tokenizer_config.json",
+    "bytes": 6114,
+    "sha256": "0869e41f5d123ff144a811f0d83c5d18871dcd4b4064f46bf9def194bfbc6f41",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/MOSS-Audio-8B-Thinking/vocab.json",
+    "source_repo": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+    "revision": "aacbb8036eb06dd968c105f91d2663af8fbee720",
+    "source_url": "https://hf-mirror.com/OpenMOSS-Team/MOSS-Audio-8B-Thinking/resolve/aacbb8036eb06dd968c105f91d2663af8fbee720/vocab.json",
+    "bytes": 3383407,
+    "sha256": "87a257b04b17642a0688c98cd1df89c398bda4fee532d6f88b38a659ecb4ac8d",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split1/config.json",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split1",
+    "revision": "729c33766ee901112a1888922ae0894d6fa7e9d6",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split1/resolve/729c33766ee901112a1888922ae0894d6fa7e9d6/config.json",
+    "bytes": 532,
+    "sha256": "6efbb7b5eb3bdb550aff98028281cbb0d5df8ef6de1d4377134689b1e4e1cf71",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split1/load_model.py",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split1",
+    "revision": "729c33766ee901112a1888922ae0894d6fa7e9d6",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split1/resolve/729c33766ee901112a1888922ae0894d6fa7e9d6/load_model.py",
+    "bytes": 1793,
+    "sha256": "8b2da4b1b675f496aeff085df4928a39b3b6c41bf04cddf9fcadc00ec7cf5dd4",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split1/model.safetensors",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split1",
+    "revision": "729c33766ee901112a1888922ae0894d6fa7e9d6",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split1/resolve/729c33766ee901112a1888922ae0894d6fa7e9d6/model.safetensors",
+    "bytes": 341986616,
+    "sha256": "fd1cc9cc0e20284d69a2e65a43eeac7353ebc4f9cf7850486fe728805eab7347",
+    "publisher_sha256": "fd1cc9cc0e20284d69a2e65a43eeac7353ebc4f9cf7850486fe728805eab7347"
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split1/modeling.py",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split1",
+    "revision": "729c33766ee901112a1888922ae0894d6fa7e9d6",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split1/resolve/729c33766ee901112a1888922ae0894d6fa7e9d6/modeling.py",
+    "bytes": 46857,
+    "sha256": "63d3db1507eb76e9d373916544591e2e79871e52901c43b4715fc9ddda0e9e97",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split2/config.json",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split2",
+    "revision": "b2a7d6b3444fad6e0ec251f3d6f1bb2aa4a0bf04",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split2/resolve/b2a7d6b3444fad6e0ec251f3d6f1bb2aa4a0bf04/config.json",
+    "bytes": 532,
+    "sha256": "6efbb7b5eb3bdb550aff98028281cbb0d5df8ef6de1d4377134689b1e4e1cf71",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split2/load_model.py",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split2",
+    "revision": "b2a7d6b3444fad6e0ec251f3d6f1bb2aa4a0bf04",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split2/resolve/b2a7d6b3444fad6e0ec251f3d6f1bb2aa4a0bf04/load_model.py",
+    "bytes": 1793,
+    "sha256": "e04bd55f897bc1e270856df9eae423d226a93e24bc7e6640acc181a456e83a59",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split2/model.safetensors",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split2",
+    "revision": "b2a7d6b3444fad6e0ec251f3d6f1bb2aa4a0bf04",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split2/resolve/b2a7d6b3444fad6e0ec251f3d6f1bb2aa4a0bf04/model.safetensors",
+    "bytes": 341986616,
+    "sha256": "f496271eb7c0f695324e334d540fe1e0940069ef492d38ccde3764ab6c4412e0",
+    "publisher_sha256": "f496271eb7c0f695324e334d540fe1e0940069ef492d38ccde3764ab6c4412e0"
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split2/modeling.py",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split2",
+    "revision": "b2a7d6b3444fad6e0ec251f3d6f1bb2aa4a0bf04",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split2/resolve/b2a7d6b3444fad6e0ec251f3d6f1bb2aa4a0bf04/modeling.py",
+    "bytes": 46857,
+    "sha256": "63d3db1507eb76e9d373916544591e2e79871e52901c43b4715fc9ddda0e9e97",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split3/config.json",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split3",
+    "revision": "e21525aded4511f85aeb2c0f4c811e2ccc62efbc",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split3/resolve/e21525aded4511f85aeb2c0f4c811e2ccc62efbc/config.json",
+    "bytes": 532,
+    "sha256": "6efbb7b5eb3bdb550aff98028281cbb0d5df8ef6de1d4377134689b1e4e1cf71",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split3/load_model.py",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split3",
+    "revision": "e21525aded4511f85aeb2c0f4c811e2ccc62efbc",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split3/resolve/e21525aded4511f85aeb2c0f4c811e2ccc62efbc/load_model.py",
+    "bytes": 1793,
+    "sha256": "4bed74e5e3b92efd9bd38882fae9e0361cbf4c971451845d2c01ef5c67a6776f",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split3/model.safetensors",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split3",
+    "revision": "e21525aded4511f85aeb2c0f4c811e2ccc62efbc",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split3/resolve/e21525aded4511f85aeb2c0f4c811e2ccc62efbc/model.safetensors",
+    "bytes": 341986616,
+    "sha256": "3a5f26bf4fd891f26ad951e419eee0dbe7c6b4f6f0a09f25ee9f7ce605208c07",
+    "publisher_sha256": "3a5f26bf4fd891f26ad951e419eee0dbe7c6b4f6f0a09f25ee9f7ce605208c07"
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split3/modeling.py",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split3",
+    "revision": "e21525aded4511f85aeb2c0f4c811e2ccc62efbc",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split3/resolve/e21525aded4511f85aeb2c0f4c811e2ccc62efbc/modeling.py",
+    "bytes": 46857,
+    "sha256": "63d3db1507eb76e9d373916544591e2e79871e52901c43b4715fc9ddda0e9e97",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split4/config.json",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split4",
+    "revision": "27c12884c6e53fbb56ba578c1ed39f2a360f7cc6",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split4/resolve/27c12884c6e53fbb56ba578c1ed39f2a360f7cc6/config.json",
+    "bytes": 532,
+    "sha256": "6efbb7b5eb3bdb550aff98028281cbb0d5df8ef6de1d4377134689b1e4e1cf71",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split4/load_model.py",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split4",
+    "revision": "27c12884c6e53fbb56ba578c1ed39f2a360f7cc6",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split4/resolve/27c12884c6e53fbb56ba578c1ed39f2a360f7cc6/load_model.py",
+    "bytes": 1793,
+    "sha256": "2bfeb5a8fbef24bd569d6e62c5b6b58a6dac859f3f859f7d4898ef566eeaaa28",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split4/model.safetensors",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split4",
+    "revision": "27c12884c6e53fbb56ba578c1ed39f2a360f7cc6",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split4/resolve/27c12884c6e53fbb56ba578c1ed39f2a360f7cc6/model.safetensors",
+    "bytes": 341986616,
+    "sha256": "0b4e7c36d81c038976884ac49daed3158e95e947c281e0b2a9cd5e4f550aa6a4",
+    "publisher_sha256": "0b4e7c36d81c038976884ac49daed3158e95e947c281e0b2a9cd5e4f550aa6a4"
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split4/modeling.py",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split4",
+    "revision": "27c12884c6e53fbb56ba578c1ed39f2a360f7cc6",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split4/resolve/27c12884c6e53fbb56ba578c1ed39f2a360f7cc6/modeling.py",
+    "bytes": 46857,
+    "sha256": "63d3db1507eb76e9d373916544591e2e79871e52901c43b4715fc9ddda0e9e97",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split5/config.json",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split5",
+    "revision": "ad25eed4c08f5280fc9e869ba91c51a91dda822a",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split5/resolve/ad25eed4c08f5280fc9e869ba91c51a91dda822a/config.json",
+    "bytes": 532,
+    "sha256": "6efbb7b5eb3bdb550aff98028281cbb0d5df8ef6de1d4377134689b1e4e1cf71",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split5/load_model.py",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split5",
+    "revision": "ad25eed4c08f5280fc9e869ba91c51a91dda822a",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split5/resolve/ad25eed4c08f5280fc9e869ba91c51a91dda822a/load_model.py",
+    "bytes": 1793,
+    "sha256": "7e2aedc8cd4565fcbe183de0523abe83aae46749a849d8b17f601a8e7b01b7f5",
+    "publisher_sha256": null
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split5/model.safetensors",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split5",
+    "revision": "ad25eed4c08f5280fc9e869ba91c51a91dda822a",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split5/resolve/ad25eed4c08f5280fc9e869ba91c51a91dda822a/model.safetensors",
+    "bytes": 341986616,
+    "sha256": "ceacba0a0b4bc14c4ac30ac2df6ecf55c91b808a45aad9ef03e1a93a87275ff0",
+    "publisher_sha256": "ceacba0a0b4bc14c4ac30ac2df6ecf55c91b808a45aad9ef03e1a93a87275ff0"
+  },
+  {
+    "path": "models/AudioMosaic-vit-b16-finetune-esc-split5/modeling.py",
+    "source_repo": "hanxunh/AudioMosaic-vit-b16-finetune-esc-split5",
+    "revision": "ad25eed4c08f5280fc9e869ba91c51a91dda822a",
+    "source_url": "https://hf-mirror.com/hanxunh/AudioMosaic-vit-b16-finetune-esc-split5/resolve/ad25eed4c08f5280fc9e869ba91c51a91dda822a/modeling.py",
+    "bytes": 46857,
+    "sha256": "63d3db1507eb76e9d373916544591e2e79871e52901c43b4715fc9ddda0e9e97",
+    "publisher_sha256": null
+  },
+  {
+    "path": "data/MMAU-test-mini/test_mini.parquet",
+    "source_repo": "gamma-lab-umd/MMAU-test-mini",
+    "revision": "ccd9696c0111ea7060827598f310558df0b71b0a",
+    "source_url": "https://hf-mirror.com/datasets/gamma-lab-umd/MMAU-test-mini/resolve/ccd9696c0111ea7060827598f310558df0b71b0a/test_mini.parquet",
+    "bytes": 1213407227,
+    "sha256": "54b76f440db843546f9ad49a1518cc22371f63a266f034ba6bd4343b7b6fde86",
+    "publisher_sha256": "54b76f440db843546f9ad49a1518cc22371f63a266f034ba6bd4343b7b6fde86"
+  },
+  {
+    "path": "data/ESC-50.zip",
+    "source_repo": "karolpiczak/ESC-50",
+    "revision": "official master snapshot",
+    "source_url": "https://codeload.github.com/karolpiczak/ESC-50/zip/refs/heads/master",
+    "bytes": 645695005,
+    "sha256": "805afc618aff80eff0641d51311647871fead5807da68bb18e43a27db47a79ce",
+    "publisher_sha256": null
+  },
+  {
+    "path": "data/dev_fan.zip",
+    "source_repo": "zenodo/19336329",
+    "revision": "v1",
+    "source_url": "https://zenodo.org/records/19336329/files/dev_fan.zip?download=1",
+    "bytes": 704228804,
+    "sha256": "38a50d72bc53616280afa9479dc2dada28a7a0425a63bc1fdcfa6d9363270017",
+    "publisher_sha256": null
+  }
+]
