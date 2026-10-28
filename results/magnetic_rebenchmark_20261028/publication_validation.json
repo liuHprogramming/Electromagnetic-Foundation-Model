@@ -1,0 +1,10 @@
+{
+  "state": "passed",
+  "cpu_bundle_files_verified": 17,
+  "cpu_and_gpu_execution_sources_match": true,
+  "local_links_checked": 32,
+  "all_links_exist": true,
+  "model_outputs_independently_verified": true,
+  "privacy_scope": "No raw waveform/spectrogram arrays or model weights are in the publication bundle.",
+  "figure": "PNG inspected; standalone PDF provided."
+}

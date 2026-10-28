@@ -1,0 +1,50 @@
+[
+  {
+    "sample_id": "a800_features_v2_mt_20s_3302cf_mag_off_all:11134",
+    "device": "3302",
+    "day": "20260525",
+    "class_id": 1,
+    "state": "speed_up",
+    "source_index": 11134,
+    "dataset_tag": "a800_features_v2_mt_20s_3302cf_mag_off_all",
+    "relative_start_s": 0.0,
+    "inferred_cache_block": 10,
+    "input_sha256": "3c1879b5ceae2e849f64a4930bdc1342a9323ff579bca78b98317240f8fbe2e7"
+  },
+  {
+    "sample_id": "a800_features_v2_mt_20s_3302cf_mag_off_all:11158",
+    "device": "3302",
+    "day": "20260525",
+    "class_id": 1,
+    "state": "speed_up",
+    "source_index": 11158,
+    "dataset_tag": "a800_features_v2_mt_20s_3302cf_mag_off_all",
+    "relative_start_s": 120.0,
+    "inferred_cache_block": 10,
+    "input_sha256": "c13b69ae3cd33979ea3578f6737dcbecd3d38f3ca7ccde92bd42af424cec06d0"
+  },
+  {
+    "sample_id": "a800_features_v2_mt_20s_3302cf_mag_off_all:15032",
+    "device": "3302",
+    "day": "20260526",
+    "class_id": 1,
+    "state": "speed_up",
+    "source_index": 15032,
+    "dataset_tag": "a800_features_v2_mt_20s_3302cf_mag_off_all",
+    "relative_start_s": 160.0,
+    "inferred_cache_block": 17,
+    "input_sha256": "4be3242ae18a808455fefefc152a3f085d308d334cab64ce8b000e1248a652aa"
+  },
+  {
+    "sample_id": "a800_features_v2_mt_20s_3302cf_mag_off_all:15048",
+    "device": "3302",
+    "day": "20260526",
+    "class_id": 1,
+    "state": "speed_up",
+    "source_index": 15048,
+    "dataset_tag": "a800_features_v2_mt_20s_3302cf_mag_off_all",
+    "relative_start_s": 240.0,
+    "inferred_cache_block": 17,
+    "input_sha256": "06ea582a658e692a579287a1b7c52196188866b149193b7e5e5a26e039951160"
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "accounting": {
+    "3302": {
+      "archive_windows": 43775,
+      "numeric_valid": 43763,
+      "pure_valid": 43317,
+      "after_spacing": 11909,
+      "after_day_class_cap": 1494,
+      "active_days": 17,
+      "selected": 1490,
+      "selected_days": 17,
+      "classes": {
+        "speed_up": 296,
+        "speed_max": 403,
+        "speed_down": 383,
+        "off": 408
+      }
+    },
+    "3303": {
+      "archive_windows": 5525,
+      "numeric_valid": 5525,
+      "pure_valid": 5307,
+      "after_spacing": 1742,
+      "after_day_class_cap": 603,
+      "active_days": 9,
+      "selected": 603,
+      "selected_days": 9,
+      "classes": {
+        "speed_up": 84,
+        "speed_max": 216,
+        "speed_down": 87,
+        "off": 216
+      }
+    },
+    "3304": {
+      "archive_windows": 10477,
+      "numeric_valid": 10468,
+      "pure_valid": 10061,
+      "after_spacing": 3200,
+      "after_day_class_cap": 1084,
+      "active_days": 18,
+      "selected": 1084,
+      "selected_days": 18,
+      "classes": {
+        "speed_up": 119,
+        "speed_max": 412,
+        "speed_down": 121,
+        "off": 432
+      }
+    }
+  },
+  "selected_windows": 3177,
+  "device_days": 44,
+  "removed_duplicates": 4,
+  "input_shape": [
+    3177,
+    48,
+    79
+  ],
+  "elapsed_seconds": 10.92251181602478,
+  "artifacts": {
+    "spectrograms.npy": {
+      "sha256": "19a25147459e642794c141f3ecf61b5f5f02198d854cd6d8c95474e4aba6d21b",
+      "bytes": 48188864
+    },
+    "band_trajectories.npy": {
+      "sha256": "c34bd76f3c1ec8e7b2f8c8e0fae26195f220389193e69196fec6a250da963f12",
+      "bytes": 8031584
+    },
+    "manifest.json": {
+      "sha256": "bc2c4995bcb5d2966bf404f0768a9fea0cdba990f26532267541192ac48dc6e4",
+      "bytes": 1371222
+    },
+    "samples.csv": {
+      "sha256": "e10f45f511e966a2883603f18d43e1f0067b5c7c4b74e2884636663495223262",
+      "bytes": 621365
+    }
+  },
+  "scope": "Archived LP100 feature benchmark; numeric integrity does not certify acquisition clocks or log synchronization."
+}

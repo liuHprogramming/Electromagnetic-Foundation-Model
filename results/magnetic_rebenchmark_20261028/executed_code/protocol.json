@@ -1,0 +1,23 @@
+{
+  "task": "four-state classification from archived near-field magnetic spectrograms",
+  "classes": ["off", "speed_up", "speed_max", "speed_down"],
+  "devices": ["3302", "3303", "3304"],
+  "input_kind": "cached 20-second LP100 absolute-power-dB mel spectrogram, 48 frequency bins by 79 temporal frames",
+  "bandwidth_hz": [0, 100],
+  "window_seconds": 20,
+  "selection_seed": 20261028,
+  "require_all_status_frames_same_class": true,
+  "minimum_spacing_seconds_within_inferred_cache_block": 20,
+  "max_windows_per_device_day_class": 24,
+  "coarse_temporal_channels": 8,
+  "temporal_encoder_length": 512,
+  "readout": {"type": "StandardScaler + RidgeClassifier", "alpha": 10, "class_weight": "balanced", "solver": "lsqr", "tol": 0.001},
+  "primary_protocol": "leave_one_device_out, train two devices and test third, no target calibration",
+  "secondary_protocols": ["within-device leave-one-day-out", "one target calibration day, paired zero-calibration comparator on the same remaining target dates"],
+  "random_mantis_seeds": [42, 43, 44],
+  "random_tspulse_seed": 42,
+  "head_hyperparameter_search": false,
+  "gpu_limit_gib": 24,
+  "numerical_threads": 4,
+  "limitations": ["Inherited waveform clocks and event-label synchronization are not independently certified.", "Cache-block identifiers inferred from relative start resets are not verified acquisition-run identifiers.", "The pure-state task excludes transition boundaries and does not measure frame-level transition localization.", "There is no physical-fault ground truth; this is state classification, not abnormal-versus-normal detection.", "This protocol differs from the earlier two-second raw-waveform pilot; scores are not directly comparable."]
+}

@@ -1,9 +1,63 @@
 # Audio and near-field magnetic foundation-model baselines
 
-This repository contains the original BEATs/FISHER pilot and the 25 October 2026
-evaluation of recent leading audio methods on task-matched benchmarks.
+This repository contains task-matched audio evaluations and near-field
+magnetic transfer benchmarks for laboratory instruments, including the
+28 October 2026 three-centrifuge rebenchmark.
 The new work evaluates released checkpoints; it does not repeat large-scale
 pretraining or claim a new leaderboard SOTA.
+
+## Three-device magnetic rebenchmark — 28 October 2026
+
+We fixed **3,177 pure-state 20-second magnetic-feature windows from 44
+device-days**: 3302 has 1,490 windows/17 dates, 3303 has 603/9, and 3304 has
+1,084/18. The common input is an archived LP100 magnetic mel representation
+(48×79), with deterministic spacing, a 24-window device/day/class cap, and exact
+duplicate exclusion. These are **cached spectral features**; including 3303 does
+not certify that its raw timestamp/sampling-clock issue has been repaired.
+
+Primary evaluation trains on two centrifuges and holds out the third (three
+folds). Secondary evaluation holds out each date within its own device (44
+folds). Both columns below average three device-level four-class macro-F1 values
+with equal device weight. Held-date scores aggregate out-of-fold predictions
+before scoring, rather than averaging all single-date scores.
+
+| Fixed representation + training-only balanced Ridge | Within-device held-date OOF macro-F1 | Held-device macro-F1 |
+| --- | ---: | ---: |
+| Spectral statistics + signed trends | 0.6952 | 0.2838 |
+| MantisV2, pretrained | 0.5377 | 0.3396 |
+| TSPulse, frozen classification backbone | 0.4170 | 0.2713 |
+| FISHER-small, magnetic-mel adapter | 0.7332 | 0.3133 |
+| MantisV2 + spectral trends | 0.5893 | 0.3025 |
+| MantisV2 random encoders, three-seed score mean | 0.5123 | 0.3374 |
+
+The Mantis pretraining-minus-random-mean difference on held devices is
++0.0022, with conditional paired day-bootstrap 95% interval
+[-0.0149, +0.0188]. All model/readout settings were fixed before evaluation;
+the report retains all random seeds and per-device results.
+
+An additional **one labeled target date** calibration protocol evaluates the
+same remaining test dates with and without the calibration data. For the FISHER
+adapter, macro-F1 changes from 0.3080
+to 0.4637; paired difference
++0.1557, conditional 95% interval
+[+0.1322, +0.1771].
+One date contains multiple labeled windows; this is not one-shot or unsupervised
+adaptation. It is reported separately from the full held-device column.
+
+Clock/log synchronization and absolute acquisition-run IDs remain inherited,
+unverified properties. Pure-state filtering excludes transition boundaries;
+this task has no physical-fault labels or verified measured RPM. Scores are not
+directly comparable to the earlier two-second waveform pilot. Bootstrap intervals
+condition on these three devices and fitted models, not a hardware population.
+
+- [Complete English report, sample justification and all controls](results/magnetic_rebenchmark_20261028/REPORT.md)
+- [Reproduction commands and pinned adapters](experiments/magnetic_rebenchmark_20261028/README.md)
+- [Exact sample index](results/magnetic_rebenchmark_20261028/samples.csv)
+- [Metrics, recalls and confusion matrices](results/magnetic_rebenchmark_20261028/summary.json)
+- [Every prediction](results/magnetic_rebenchmark_20261028/predictions.csv.gz)
+- [Independent verification](results/magnetic_rebenchmark_20261028/verification.json)
+
+![Three-device magnetic results](results/magnetic_rebenchmark_20261028/benchmark_summary.png)
 
 ## Near-field magnetic transfer pilot — 25 October 2026
 

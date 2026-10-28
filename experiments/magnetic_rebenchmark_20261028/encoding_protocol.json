@@ -1,0 +1,20 @@
+{
+  "old_models_root": "/data/Claude/electromagnetic-foundation-model/magnetic_20261025/models",
+  "fisher_root": "/data/Claude/electromagnetic-foundation-model/models/fisher-small",
+  "checkpoint_sha256": {
+    "mantis": "49d46d9a49cccdc87c46f4e0088fa52c0a6ef7eb4c13de5cc9815426b7b17ab1",
+    "tspulse": "71fddf719ebe8e8c64eaec5769620935af48263dc35e4ce6f3f88f7708e973e1",
+    "fisher": "9924cdeec51ea796557af0c1920f0a2148303b3c26d2b41a39dbb8c4ff94fb4a"
+  },
+  "revisions": {
+    "mantis": "8f6ca35cb54ab14b120618943c6fca5ddf5a76a6",
+    "tspulse": "66cfb5464ed5e5a5cd7f5df1339af4e51461d955",
+    "fisher": "1fb316962ebb863d570217b12b40fb0ec1e957c5"
+  },
+  "mantis": "Eight contiguous magnetic mel-band envelope trajectories, 79->512 linear temporal interpolation; independently encode each channel, concatenate; transformer layer 2, combined tokens; pretrained and three random seeds.",
+  "tspulse": "Same eight trajectories, independently encode as channels; masks off; eight ordered adaptive-average blocks of backbone tokens, concatenate; pretrained/random42. This is frozen extraction, not TSLens fine-tuning.",
+  "fisher": "Explicit LP100 magnetic mel adapter: dB power to log magnitude, published fixed normalization, native frequency-band CLS extraction. Not original audio STFT preprocessing.",
+  "nonpretrained_controls": ["48-band mean/std/q10/q90/signed-slope/late-minus-early/mean-absolute-difference", "flattened ordered mel"],
+  "fusion_ablation": "Concatenate pretrained Mantis embedding and spectral-trend features before training-fold scaling; fixed same readout.",
+  "use_test_labels_for_model_selection": false
+}

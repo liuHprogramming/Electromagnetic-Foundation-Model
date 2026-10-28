@@ -1,0 +1,70 @@
+{
+  "/data/Claude/electromagnetic-foundation-model/magnetic_20261025/models/mantis/model.safetensors": {
+    "bytes": 16771648,
+    "sha256": "49d46d9a49cccdc87c46f4e0088fa52c0a6ef7eb4c13de5cc9815426b7b17ab1"
+  },
+  "/data/Claude/electromagnetic-foundation-model/magnetic_20261025/models/mantis/config.json": {
+    "bytes": 375,
+    "sha256": "f28885b7aa662cedcaf5627659fc0fba9cf8ee49d5b991280522e04fa5b1ae80"
+  },
+  "/data/Claude/electromagnetic-foundation-model/magnetic_20261025/models/tspulse/model.safetensors": {
+    "bytes": 1899468,
+    "sha256": "71fddf719ebe8e8c64eaec5769620935af48263dc35e4ce6f3f88f7708e973e1"
+  },
+  "/data/Claude/electromagnetic-foundation-model/magnetic_20261025/models/tspulse/config.json": {
+    "bytes": 3508,
+    "sha256": "6d09b96139dd407695ca11f68d43793a05e0a9eb6452a245d99340cab946b395"
+  },
+  "/data/Claude/electromagnetic-foundation-model/models/fisher-small/images.py": {
+    "bytes": 6835,
+    "sha256": "d62420b1f0dfb6ddfedafdac8a45d8ce79bcd52cd275ec7b3134836751f02fbb"
+  },
+  "/data/Claude/electromagnetic-foundation-model/models/fisher-small/modeling_fisher.py": {
+    "bytes": 8241,
+    "sha256": "f99bfe223d5e5bc8da159a4f38544a5cd5b34d694a9711bcb1b555ed9c5a92ae"
+  },
+  "/data/Claude/electromagnetic-foundation-model/models/fisher-small/modules.py": {
+    "bytes": 8015,
+    "sha256": "b2be8bca10809bfd7befbf69a0f10a2bb9d82a67e8dad4bb251ede41e20fc2bc"
+  },
+  "/data/Claude/electromagnetic-foundation-model/models/fisher-small/configuration_fisher.py": {
+    "bytes": 531,
+    "sha256": "14a85228df5f604b20a5172caca3092f365e8d4bf8c8e9b68f54fa9009b8a433"
+  },
+  "/data/Claude/electromagnetic-foundation-model/models/fisher-small/model.safetensors": {
+    "bytes": 85588312,
+    "sha256": "9924cdeec51ea796557af0c1920f0a2148303b3c26d2b41a39dbb8c4ff94fb4a"
+  },
+  "/data/Claude/electromagnetic-foundation-model/models/fisher-small/base.py": {
+    "bytes": 13558,
+    "sha256": "6bc2724a5b05aee012e3fb60f0f0933c4b729ffc7dd4123021cd39d75fab005f"
+  },
+  "/data/Claude/electromagnetic-foundation-model/models/fisher-small/config.json": {
+    "bytes": 380,
+    "sha256": "1ae733df0ce4df38397ad01eeadb93a3325065ea6f763951c4180dc485133f19"
+  },
+  "/data/Claude/electromagnetic-foundation-model/magnetic_20261025/vendor/mantis/architecture/version2.py": {
+    "bytes": 12063,
+    "sha256": "31b420064d18b962b4c7cfc2e4fb0d4bfa96ada1fd2fe14015d2764a600a65bd"
+  },
+  "/data/weiyi/DeviceManage/Train_cnn_lstm/src/mag_lp100.py": {
+    "bytes": 4716,
+    "sha256": "6e79fdef4ba6ad44f404cb9232e764324a489442b1ae032fd211c2ffbe6a2288"
+  },
+  "/data/weiyi/DeviceManage/Train_cnn_lstm/src/prepare_dataset_mt_mag.py": {
+    "bytes": 6286,
+    "sha256": "4466cba2232910a2546c18eaf3bc4ff7d216b229a040444dc4378ee52b9783ff"
+  },
+  "/data/weiyi/DeviceManage/Train_cnn_lstm/src/_offmerge_4cls_mag.py": {
+    "bytes": 5683,
+    "sha256": "37557fbd7b3b94dd532bcfbf285cc6d85081c0476a6668df63f78c80ed5a8d7e"
+  },
+  "/data_s3200a/Claude/electromagnetic-foundation-model/magnetic_rebenchmark_20261028/code/encode_features.py": {
+    "bytes": 9127,
+    "sha256": "fb9ee7c6995efa731a71ae4706202506d641da797b7608659cb13af8bc20a303"
+  },
+  "/data_s3200a/Claude/electromagnetic-foundation-model/magnetic_rebenchmark_20261028/code/encoding_protocol.json": {
+    "bytes": 1633,
+    "sha256": "21c0d8394b1d46723403b48a09c0c12067cecaa12c58e856482b3f928e352ad0"
+  }
+}

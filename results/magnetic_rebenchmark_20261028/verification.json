@@ -1,0 +1,24 @@
+{
+  "state": "passed",
+  "selected_windows": 3177,
+  "device_days": 44,
+  "methods": 11,
+  "splits_per_method": 53,
+  "prediction_rows": 134882,
+  "source_pointers_labels_inputs": "every selected window rechecked against immutable source objects",
+  "all_saved_fold_metrics": "independently recalculated",
+  "split_membership": "independently reconstructed",
+  "score_argmax": "every saved prediction checked",
+  "selected_exact_hash_duplicates": 0,
+  "cache_spacing_minimum_s": 20,
+  "day_class_cap": 24,
+  "bootstrap_scope": "Conditional device-day block bootstrap on these three devices and fixed fitted models; no population inference over unseen hardware.",
+  "elapsed_seconds": 9.101175308227539,
+  "limitations": [
+    "Inherited waveform clocks and event-label synchronization are not independently certified.",
+    "Cache-block identifiers inferred from relative start resets are not verified acquisition-run identifiers.",
+    "The pure-state task excludes transition boundaries and does not measure frame-level transition localization.",
+    "There is no physical-fault ground truth; this is state classification, not abnormal-versus-normal detection.",
+    "This protocol differs from the earlier two-second raw-waveform pilot; scores are not directly comparable."
+  ]
+}

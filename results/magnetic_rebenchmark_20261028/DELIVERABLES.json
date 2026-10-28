@@ -1,0 +1,190 @@
+{
+  "scope": "Exact-byte code/results manifest; local .gitattributes disable line-ending conversion.",
+  "files": [
+    {
+      "file": "experiments/magnetic_rebenchmark_20261028/.gitattributes",
+      "sha256": "5987330ee0fcb8aa9855ecb645758b4cf5f1f286da311ff164b3b56a795cbb13",
+      "bytes": 84
+    },
+    {
+      "file": "experiments/magnetic_rebenchmark_20261028/encode_features.py",
+      "sha256": "fb9ee7c6995efa731a71ae4706202506d641da797b7608659cb13af8bc20a303",
+      "bytes": 9127
+    },
+    {
+      "file": "experiments/magnetic_rebenchmark_20261028/encoding_protocol.json",
+      "sha256": "21c0d8394b1d46723403b48a09c0c12067cecaa12c58e856482b3f928e352ad0",
+      "bytes": 1633
+    },
+    {
+      "file": "experiments/magnetic_rebenchmark_20261028/evaluate.py",
+      "sha256": "53abd17a29136dcbb157e287201798c2c6c87d1c7954f1b5c96ffe8237daec0d",
+      "bytes": 12854
+    },
+    {
+      "file": "experiments/magnetic_rebenchmark_20261028/prepare_benchmark.py",
+      "sha256": "cae7a0c9539286873257eecb26c76d42c6f18e1158583480a40440fa48c037aa",
+      "bytes": 8034
+    },
+    {
+      "file": "experiments/magnetic_rebenchmark_20261028/protocol.json",
+      "sha256": "987ad200a3378a99c62d7717710fb3a3c72e3719bfa668e7322b52ff9a205992",
+      "bytes": 1715
+    },
+    {
+      "file": "experiments/magnetic_rebenchmark_20261028/README.md",
+      "sha256": "2264d28f9be320330d6f07cd649915f11cba037fd248a9bc4a956815a5477152",
+      "bytes": 6311
+    },
+    {
+      "file": "experiments/magnetic_rebenchmark_20261028/verify_results.py",
+      "sha256": "75e8f13acbb54fffd16c89afab2186b396b1b74129f23638be7dc63574ff39cb",
+      "bytes": 7120
+    },
+    {
+      "file": "experiments/magnetic_rebenchmark_20261028/write_report.py",
+      "sha256": "8c72c2fa0811ce9400ff7520b28da1cfc855f4755de893007e28b76729ac1c73",
+      "bytes": 19005
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/.gitattributes",
+      "sha256": "9e779651803b2e35ee5c9d8b7530bde36bea06abcf434777d4152551fecaf7d0",
+      "bytes": 82
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/artifact_manifest.json",
+      "sha256": "11875080e739a0a7e6e9d2b790a30a9c747b5bc7cb10bfab3f68fd48ad124b38",
+      "bytes": 2692
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/benchmark_summary.pdf",
+      "sha256": "7412344d9247b1f19e46e898d4192673a345da75152a95c425ced94d9142bff6",
+      "bytes": 19971
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/benchmark_summary.png",
+      "sha256": "3eff93ebbab7688cdbcc04e3b4c137ddb044562d639291ae367da37cbca63f26",
+      "bytes": 129228
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/cpu_environment.json",
+      "sha256": "d41fafbc40872e15e2264476ba85c616ace11afbfefff0c824b8ca3376067c01",
+      "bytes": 192
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/data_audit.json",
+      "sha256": "b91f00027e248a6a9e54528f9343550450b102700ae588200ec5745efb6d1727",
+      "bytes": 2007
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/executed_code/encode_features.py",
+      "sha256": "fb9ee7c6995efa731a71ae4706202506d641da797b7608659cb13af8bc20a303",
+      "bytes": 9127
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/executed_code/encoding_protocol.json",
+      "sha256": "21c0d8394b1d46723403b48a09c0c12067cecaa12c58e856482b3f928e352ad0",
+      "bytes": 1633
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/executed_code/evaluate.py",
+      "sha256": "53abd17a29136dcbb157e287201798c2c6c87d1c7954f1b5c96ffe8237daec0d",
+      "bytes": 12854
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/executed_code/prepare_benchmark.py",
+      "sha256": "cae7a0c9539286873257eecb26c76d42c6f18e1158583480a40440fa48c037aa",
+      "bytes": 8034
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/executed_code/protocol.json",
+      "sha256": "987ad200a3378a99c62d7717710fb3a3c72e3719bfa668e7322b52ff9a205992",
+      "bytes": 1715
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/executed_code/verify_results.py",
+      "sha256": "75e8f13acbb54fffd16c89afab2186b396b1b74129f23638be7dc63574ff39cb",
+      "bytes": 7120
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/logs/encode.log",
+      "sha256": "172259a7b89feeaa8e169f718a1cb13e3aa9b4acd2f1b10c2ee07ed37c79d9f9",
+      "bytes": 3236
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/logs/evaluation.log",
+      "sha256": "bac1b1791a31b13f77ea44d69187255b910f4a2f0e6fec5d9df014cbd9137914",
+      "bytes": 762
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/logs/prepare.log",
+      "sha256": "71fb479797cf7f5f2dc0b2e06403c10a5bc252b0ff104cb1e007d4b290948729",
+      "bytes": 1565
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/logs/verify.log",
+      "sha256": "c7a751401f92aeca7b74c565ee69273d1708dda17267900aad21811e7a5d7f53",
+      "bytes": 1245
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/manifest.json",
+      "sha256": "bc2c4995bcb5d2966bf404f0768a9fea0cdba990f26532267541192ac48dc6e4",
+      "bytes": 1371222
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/metrics_table.csv",
+      "sha256": "8ffe87566aaf782ec5543db36e7556f8b68756b5d58c7d96b72254649458063b",
+      "bytes": 6050
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/model_receipt.json",
+      "sha256": "780dbd69d236c3ffd4ead31d5f0c82881b840abf69e8ac19645abf4dada42c12",
+      "bytes": 5490
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/predictions.csv.gz",
+      "sha256": "9b2b5879312b8fa20926d3f0b1b5f0c879d7659ebddd275a8b10c47e82169aaf",
+      "bytes": 3351296
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/publication_validation.json",
+      "sha256": "31bd8491e8f94584ab737469a558e390b54af25932e42e550b95b61a06d24a6b",
+      "bytes": 369
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/removed_duplicates.json",
+      "sha256": "75fcec29b2e8af6b753e7d23d369f03b3b8962363aecc1618f20e81b18c17e39",
+      "bytes": 1636
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/REPORT.md",
+      "sha256": "beb569b578f359f1be2f036f26674a05439d7f934588f521dfcecfb423299b9b",
+      "bytes": 13892
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/samples.csv",
+      "sha256": "e10f45f511e966a2883603f18d43e1f0067b5c7c4b74e2884636663495223262",
+      "bytes": 621365
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/source_file_hashes.json",
+      "sha256": "8022fd7eb4132fc0add2fd28fe5b9ce54197ef4382ebe9a2e2b8eeea140fb45f",
+      "bytes": 3368
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/split_audit.json",
+      "sha256": "ea49080ee9923b17a344e75812c4ad51b15fd9e006958c4371231e0731f49723",
+      "bytes": 77244
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/summary.json",
+      "sha256": "65141e4bf23afff5a93eec75454bbcccdaabadd28cf25d3d35d7ca5cab318282",
+      "bytes": 677808
+    },
+    {
+      "file": "results/magnetic_rebenchmark_20261028/verification.json",
+      "sha256": "97e7bb524983979206d9c0eab68ecea23ac63dfc57b06be417cee289c571c5f9",
+      "bytes": 1282
+    }
+  ]
+}
