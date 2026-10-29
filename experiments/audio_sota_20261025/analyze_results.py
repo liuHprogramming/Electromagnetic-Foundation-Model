@@ -110,11 +110,14 @@ def main():
     paired['audio_cluster_sign_flip_permutations']=100000
     paired['audio_cluster_sign_flip_p_two_sided']=(extreme+1)/100001
     asd=read_jsonl(root/'asd2026/scores.jsonl');am=json.loads((root/'asd2026/metrics.json').read_text())
+    official_auc=am.get('domain_auc_definition')=='official_domain_normals_vs_all_anomalies'
     for group in am['metrics']:
         rows=[r for r in asd if all(r[k]==group[k] for k in ('model','machine','variant'))]
         assert len(rows)==200
         y=np.array([r['label'] for r in rows]);s=np.array([r['anomaly_score'] for r in rows]);ds=np.array([r['domain'] for r in rows])
-        for key,mask,fpr in [('auc_source',ds=='source',None),('auc_target',ds=='target',None),('pauc_standardized_fpr_0_1',np.ones(len(rows),bool),.1),('auc_pooled',np.ones(len(rows),bool),None)]:
+        source_mask=((ds=='source')|(y==1)) if official_auc else ds=='source'
+        target_mask=((ds=='target')|(y==1)) if official_auc else ds=='target'
+        for key,mask,fpr in [('auc_source',source_mask,None),('auc_target',target_mask,None),('pauc_standardized_fpr_0_1',np.ones(len(rows),bool),.1),('auc_pooled',np.ones(len(rows),bool),None)]:
             assert np.isclose(roc_auc_score(y[mask],s[mask],max_fpr=fpr),group[key])
     # Conditional paired uncertainty for the pre-specified BEAM/RDP4 backend.
     machine_data=[]
@@ -132,10 +135,13 @@ def main():
             yy=y[idx];dd=domains[idx]
             for k,s in enumerate((s0,s1)):
                 ss=s[idx]
-                components[k].extend([roc_auc_score(yy[dd=='source'],ss[dd=='source']),roc_auc_score(yy[dd=='target'],ss[dd=='target']),roc_auc_score(yy,ss,max_fpr=.1)])
+                ms=((dd=='source')|(yy==1)) if official_auc else dd=='source'
+                mt=((dd=='target')|(yy==1)) if official_auc else dd=='target'
+                components[k].extend([roc_auc_score(yy[ms],ss[ms]),roc_auc_score(yy[mt],ss[mt]),roc_auc_score(yy,ss,max_fpr=.1)])
         hm=[len(v)/np.sum(1/np.asarray(v)) for v in components]
         bs.append([*hm,hm[1]-hm[0]])
     asd_uncertainty={'variant':'beam_rdp4','resamples':1000,
+                     'domain_auc_definition':'official_domain_normals_vs_all_anomalies' if official_auc else 'historical_within_domain_only_not_official',
                      'method':'paired stratified clip bootstrap within machine/domain/label; conditional descriptive intervals',
                      'beats_ci95':np.quantile(np.asarray(bs)[:,0],[.025,.975]).tolist(),
                      'nabeats_ci95':np.quantile(np.asarray(bs)[:,1],[.025,.975]).tolist(),

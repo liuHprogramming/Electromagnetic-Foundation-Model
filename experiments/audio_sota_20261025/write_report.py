@@ -152,6 +152,10 @@ def main():
             '| --- | ---: | ---: | ---: | --- |',*resources,'',
             'CUDA figures come from PyTorch process counters, not total board memory. Resumed MOSS timings do not '
             'include earlier completed invocations. The GPU was shared and these are not controlled speed benchmarks.','']
+    if s['asd2026']['uncertainty'].get('domain_auc_definition')!='official_domain_normals_vs_all_anomalies':
+        lines[2:2]=['> Historical ASD statistics use within-domain-only AUROC. They are not official DCASE domain AUROCs. '
+                    'See `../baseline_improvements_20261029/REPORT.md` for the 29 October correction. '
+                    'The original model outputs remain unchanged.','']
     (a.results/'REPORT.md').write_text('\n'.join(lines),encoding='utf-8')
     print('Wrote',a.results/'REPORT.md')
 

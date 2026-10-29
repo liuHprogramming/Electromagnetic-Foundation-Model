@@ -1,0 +1,24 @@
+{"passed": true, "new_prediction_rows": 101664, "rows_by_stage": {"nested": 50832, "temporal": 19062, "logistic": 31770}, "new_methods": 16, "folds_per_stage": 47, "stage_count": 3, "split_audits": 141, "no_device_day_overlap": true, "no_target_device_in_strict_training": true, "inner_folds_exclude_outer_test": true, "selection_matches_inner_argmax": true, "all_score_argmax_and_labels_checked": true, "all_old_metrics_reproduced": true, "logistic_convergence_warning_fits": 0}
+method,within_device_leave_day_macro_f1,leave_device_macro_f1
+fisher_nested,0.7433578129353947,0.3289255926307147
+mantis_nested,0.6167006308437906,0.320605102288952
+tspulse_nested,0.4981044354633945,0.2972512667717964
+physical_nested,0.7220112796067344,0.28861208047513404
+relative_dynamics_nested,0.7139831493454128,0.2997275580593291
+fisher_physical_nested,0.7579927307633554,0.2900177120623772
+mantis_random42_nested,0.5687746482689705,0.3372246094960109
+automatic_nested,0.7613642569135978,0.357872873943641
+extra_trees,0.8001355802313229,0.3094830469230494
+minirocket,0.5227012145751434,0.3089991408105035
+minirocket_normalized,0.5300701560930793,0.31157042747236535
+mantis_logistic_default,0.5832460420963181,0.3248221701961564
+mantis_logistic_balanced,0.5848232989394917,0.32591437201422163
+fisher_logistic_balanced,0.7277683727106794,0.32300126749034724
+tspulse_logistic_balanced,0.4640495424414906,0.2787971100842852
+mantis_random42_logistic_balanced,0.5509023745503293,0.31346682942704546
+fisher_pretrained_fixed,0.7331739044184836,0.31326553118540623
+mantis_pretrained_fixed,0.5376670422215715,0.3396063570074063
+mantis_random42_fixed,0.5123856481238338,0.3459935123583986
+spectral_trends_fixed,0.6951752482321242,0.28379197803079553
+tspulse_pretrained_fixed,0.4169955969710568,0.27130760891472155
+

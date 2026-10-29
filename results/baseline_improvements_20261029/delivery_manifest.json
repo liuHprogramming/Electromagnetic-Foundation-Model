@@ -1,0 +1,172 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 23631,
+    "sha256_git_bytes": "fd518e80e896db3f68d41aaf57a514ae13a251b64ecbd904eef495e2638728d0"
+  },
+  {
+    "path": "results/audio_sota_20261025/ERRATUM_20261029.md",
+    "bytes": 623,
+    "sha256_git_bytes": "60a3daaafa42d2fd0e74a93414e543c742a7907311647a4ee3a077873334317c"
+  },
+  {
+    "path": "experiments/audio_sota_20261025/run_asd2026.py",
+    "bytes": 10640,
+    "sha256_git_bytes": "1a82f06dffee442018b25de18d37f09e68df5582e9377762ae79cec4c30f2504"
+  },
+  {
+    "path": "experiments/audio_sota_20261025/analyze_results.py",
+    "bytes": 11885,
+    "sha256_git_bytes": "e2b82b9b4b273f7bf2c42e0984af819d5df0795f0e2ad4834628b6b9da4c14ae"
+  },
+  {
+    "path": "experiments/audio_sota_20261025/write_report.py",
+    "bytes": 15909,
+    "sha256_git_bytes": "fc205b1fc0561223f016fe178bd3d9cc4a7115bdaebbd1dd8a52bc166668c504"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/.gitattributes",
+    "bytes": 66,
+    "sha256_git_bytes": "6bb2e404a53e94515bc8bdfb69fbaa998c0a826c891cd1d883d62dbb7ade82f6"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/asd_metric_audit.json",
+    "bytes": 19835,
+    "sha256_git_bytes": "c8d69d5a79cd062920adf769b46035cf6eb26256667bb347c01800673f34b03c"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/metrics_table.csv",
+    "bytes": 1331,
+    "sha256_git_bytes": "60407430f2347811db3a0e4cb098e64bd5448b6569991ebae6a9832ecf39287c"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/nested_runtime.json",
+    "bytes": 6229,
+    "sha256_git_bytes": "5741a5e599c1436a5b273f05b052d7385db321e4b31c6471626aaf4ee12efcdc"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/predictions.csv.gz",
+    "bytes": 2876986,
+    "sha256_git_bytes": "bc1a05f77cbf1103a7648260b74667c86da904b07bd6fac88d322c7383c19c9d"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/REPORT.md",
+    "bytes": 15285,
+    "sha256_git_bytes": "1b0b78d7c4b454b27af0f9e1cf959d0e02bced78b14ea2a590bb8cf1b9d223ab"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/selection_and_split_audit.json.gz",
+    "bytes": 103519,
+    "sha256_git_bytes": "51dc8a489224a7868d9ac706ce08f42f17d1a49f86e346f84b05c000549f6d73"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/source_literature_receipt.json",
+    "bytes": 2320,
+    "sha256_git_bytes": "1c45a9e1c0626cdee47c64ac8c768d8af1cd4ddb5a9789d01f6bfb1ca37d1bac"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/source_receipt.json",
+    "bytes": 1091,
+    "sha256_git_bytes": "85a1a3920e5518064698d908dd2068ccf46be6ae78a6fab366090484cff3be3f"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/summary.json",
+    "bytes": 121260,
+    "sha256_git_bytes": "336e204e0ffa2e1519cd15d50e9cefb1982e92f1ba27831ea58cb17f2fe9035f"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/SUMMARY_ZH.md",
+    "bytes": 3648,
+    "sha256_git_bytes": "66cc2fe424ae49326c5a3857c9fa61ee81989832df3a8fcaa4f57699dba4bcea"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/temporal_runtime.json",
+    "bytes": 6241,
+    "sha256_git_bytes": "28b5d0c81d92bef67a386466c8335ffb491b532574e19e00ad55592bfdde81fd"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/verification.json",
+    "bytes": 525,
+    "sha256_git_bytes": "ee6d261ba3718faeaba6a1cfeedd5c863f9fb01997261d1fb79df47f79609849"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/tool_logs/followups.log",
+    "bytes": 3838,
+    "sha256_git_bytes": "23b25a32e7f88531f7b21b96d7aa28f2b59779127c91b94e2eddf9bfeb1dd900"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/tool_logs/nested.log",
+    "bytes": 52,
+    "sha256_git_bytes": "9b84c4ff398eb54297fbffc0c82d02220d1c02e65b30d128bb70e8ce8d5a8ddb"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/tool_logs/nested_retry.log",
+    "bytes": 27301,
+    "sha256_git_bytes": "b4dccb65485d4e105f9d94be25ebed225530e17b07608ecd66d7293136ab819c"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/tool_logs/temporal.log",
+    "bytes": 2609,
+    "sha256_git_bytes": "dc9bdeabe4724a344e29950a6ced67ba37fb8b6e6b90227ec51bc2c54861a01e"
+  },
+  {
+    "path": "results/baseline_improvements_20261029/tool_logs/verification.log",
+    "bytes": 1790,
+    "sha256_git_bytes": "636748216469b6829725096610e22289b24d96ea10690474a1ee67f6620f9d13"
+  },
+  {
+    "path": "experiments/baseline_improvements_20261029/.gitattributes",
+    "bytes": 8,
+    "sha256_git_bytes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+  },
+  {
+    "path": "experiments/baseline_improvements_20261029/audit_asd_metrics.py",
+    "bytes": 5197,
+    "sha256_git_bytes": "a34e0e2bf2eaca6d7ac9b9a925498633fc088ca9cbad2566b13c041243259e8b"
+  },
+  {
+    "path": "experiments/baseline_improvements_20261029/evaluate_logistic.py",
+    "bytes": 3760,
+    "sha256_git_bytes": "b22804470a1c953b319a9fd73e5468eb006a6590579b5591bdce1b526919d6d2"
+  },
+  {
+    "path": "experiments/baseline_improvements_20261029/evaluate_magnetic.py",
+    "bytes": 10905,
+    "sha256_git_bytes": "b23a53d3d726b0833efb245212b39beb5ccca0d4e1a394e201cdea52a735e922"
+  },
+  {
+    "path": "experiments/baseline_improvements_20261029/protocol.json",
+    "bytes": 1707,
+    "sha256_git_bytes": "0f41f629be54cff716a7d9c654d88adf2daab51286f7d59705bc4cf3111a0708"
+  },
+  {
+    "path": "experiments/baseline_improvements_20261029/README.md",
+    "bytes": 3567,
+    "sha256_git_bytes": "011db2ba192b8ef488ee94510d1317b2691a29575249a03951a557873dfa5fbc"
+  },
+  {
+    "path": "experiments/baseline_improvements_20261029/summarize_verify.py",
+    "bytes": 12782,
+    "sha256_git_bytes": "aa63270fb309dd31b062fed3d2a86e40f53e26e97babf2e3017fad4ff7700daf"
+  },
+  {
+    "path": "experiments/baseline_improvements_20261029/update_readme.py",
+    "bytes": 6362,
+    "sha256_git_bytes": "68568911e82fa30bc5b667857601f8ceed8a13350128f1658e2dd60b9b61d7b0"
+  },
+  {
+    "path": "experiments/baseline_improvements_20261029/write_report.py",
+    "bytes": 21357,
+    "sha256_git_bytes": "1d05a1bc20111ebb89e977bfaf82503a755343ffeed2e976dfdf1e300e668f1e"
+  },
+  {
+    "path": "experiments/baseline_improvements_20261029/vendor/LICENSE.minirocket",
+    "bytes": 35149,
+    "sha256_git_bytes": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "path": "experiments/baseline_improvements_20261029/vendor/minirocket_multivariate.py",
+    "bytes": 10761,
+    "sha256_git_bytes": "e48c16b9b9b122d3794638d4e01303396c2db76f44b561b6cd6b21331035d940"
+  }
+]

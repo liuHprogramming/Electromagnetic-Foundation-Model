@@ -1,0 +1,249 @@
+{
+  "stage": "temporal",
+  "base_manifest_sha256": "bc2c4995bcb5d2966bf404f0768a9fea0cdba990f26532267541192ac48dc6e4",
+  "protocol_sha256": "0f41f629be54cff716a7d9c654d88adf2daab51286f7d59705bc4cf3111a0708",
+  "python": "3.10.6",
+  "numpy": "1.23.0",
+  "sklearn": "1.5.2",
+  "scipy": "1.12.0",
+  "host": "notebook-075ca90f-f83a-4dda-9253-f0e6d9cb7d30",
+  "folds": [
+    {
+      "protocol": "leave_device",
+      "fold": "3302",
+      "seconds": 5.739049911499023
+    },
+    {
+      "protocol": "leave_device",
+      "fold": "3303",
+      "seconds": 7.369606256484985
+    },
+    {
+      "protocol": "leave_device",
+      "fold": "3304",
+      "seconds": 6.755195379257202
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260518",
+      "seconds": 3.9014358520507812
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260519",
+      "seconds": 3.742372512817383
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260525",
+      "seconds": 3.8219759464263916
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260526",
+      "seconds": 3.8725054264068604
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260527",
+      "seconds": 3.6579742431640625
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260528",
+      "seconds": 3.7331154346466064
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260529",
+      "seconds": 3.6797878742218018
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260530",
+      "seconds": 3.670011043548584
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260607",
+      "seconds": 3.621920347213745
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260608",
+      "seconds": 3.7146220207214355
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260609",
+      "seconds": 3.5664961338043213
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260619",
+      "seconds": 3.5947771072387695
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260625",
+      "seconds": 3.5520434379577637
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260626",
+      "seconds": 3.656350612640381
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260627",
+      "seconds": 3.6601967811584473
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260628",
+      "seconds": 3.7545864582061768
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3302/20260629",
+      "seconds": 3.625316858291626
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3303/20260617",
+      "seconds": 1.5492420196533203
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3303/20260623",
+      "seconds": 1.585062026977539
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3303/20260624",
+      "seconds": 1.517174243927002
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3303/20260625",
+      "seconds": 1.5357885360717773
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3303/20260626",
+      "seconds": 1.5026838779449463
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3303/20260705",
+      "seconds": 1.6017694473266602
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3303/20260708",
+      "seconds": 1.519289493560791
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3303/20260709",
+      "seconds": 1.5055005550384521
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3303/20260710",
+      "seconds": 1.5047636032104492
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260515",
+      "seconds": 2.5327019691467285
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260518",
+      "seconds": 2.601738452911377
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260520",
+      "seconds": 2.5959372520446777
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260523",
+      "seconds": 2.502960443496704
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260525",
+      "seconds": 2.5325241088867188
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260526",
+      "seconds": 2.4821085929870605
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260527",
+      "seconds": 2.477182149887085
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260528",
+      "seconds": 2.5272629261016846
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260529",
+      "seconds": 2.558767557144165
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260530",
+      "seconds": 2.494051694869995
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260601",
+      "seconds": 2.7742645740509033
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260603",
+      "seconds": 2.5411605834960938
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260604",
+      "seconds": 2.4220385551452637
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260605",
+      "seconds": 2.359227418899536
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260608",
+      "seconds": 2.693420171737671
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260609",
+      "seconds": 2.5379953384399414
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260617",
+      "seconds": 2.7511467933654785
+    },
+    {
+      "protocol": "within_device_leave_day",
+      "fold": "3304/20260622",
+      "seconds": 2.5999362468719482
+    }
+  ],
+  "started": 1793276036.5618334,
+  "elapsed_seconds": 143.20202016830444
+}

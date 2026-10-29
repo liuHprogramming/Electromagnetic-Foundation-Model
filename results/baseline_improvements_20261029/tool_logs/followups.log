@@ -1,0 +1,98 @@
+DONE logistic leave_device 3302 22.6
+DONE logistic leave_device 3303 49.2
+DONE logistic leave_device 3304 37.3
+DONE logistic within_device_leave_day 3302/20260518 16.0
+DONE logistic within_device_leave_day 3302/20260519 16.1
+DONE logistic within_device_leave_day 3302/20260525 15.0
+DONE logistic within_device_leave_day 3302/20260526 16.0
+DONE logistic within_device_leave_day 3302/20260527 15.2
+DONE logistic within_device_leave_day 3302/20260528 15.1
+DONE logistic within_device_leave_day 3302/20260529 16.1
+DONE logistic within_device_leave_day 3302/20260530 15.8
+DONE logistic within_device_leave_day 3302/20260607 15.3
+DONE logistic within_device_leave_day 3302/20260608 16.8
+DONE logistic within_device_leave_day 3302/20260609 15.3
+DONE logistic within_device_leave_day 3302/20260619 15.7
+DONE logistic within_device_leave_day 3302/20260625 15.5
+DONE logistic within_device_leave_day 3302/20260626 15.7
+DONE logistic within_device_leave_day 3302/20260627 16.3
+DONE logistic within_device_leave_day 3302/20260628 15.6
+DONE logistic within_device_leave_day 3302/20260629 14.8
+DONE logistic within_device_leave_day 3303/20260617 4.0
+DONE logistic within_device_leave_day 3303/20260623 4.1
+DONE logistic within_device_leave_day 3303/20260624 3.5
+DONE logistic within_device_leave_day 3303/20260625 3.6
+DONE logistic within_device_leave_day 3303/20260626 3.5
+DONE logistic within_device_leave_day 3303/20260705 4.1
+DONE logistic within_device_leave_day 3303/20260708 3.5
+DONE logistic within_device_leave_day 3303/20260709 3.9
+DONE logistic within_device_leave_day 3303/20260710 3.7
+DONE logistic within_device_leave_day 3304/20260515 11.0
+DONE logistic within_device_leave_day 3304/20260518 11.4
+DONE logistic within_device_leave_day 3304/20260520 12.8
+DONE logistic within_device_leave_day 3304/20260523 12.2
+DONE logistic within_device_leave_day 3304/20260525 9.4
+DONE logistic within_device_leave_day 3304/20260526 10.3
+DONE logistic within_device_leave_day 3304/20260527 11.6
+DONE logistic within_device_leave_day 3304/20260528 11.0
+DONE logistic within_device_leave_day 3304/20260529 9.6
+DONE logistic within_device_leave_day 3304/20260530 11.2
+DONE logistic within_device_leave_day 3304/20260601 9.8
+DONE logistic within_device_leave_day 3304/20260603 9.3
+DONE logistic within_device_leave_day 3304/20260604 9.1
+DONE logistic within_device_leave_day 3304/20260605 8.7
+DONE logistic within_device_leave_day 3304/20260608 9.2
+DONE logistic within_device_leave_day 3304/20260609 9.4
+DONE logistic within_device_leave_day 3304/20260617 9.0
+DONE logistic within_device_leave_day 3304/20260622 9.4
+COMPLETE logistic
+[
+  {
+    "model": "BEATs_iter3",
+    "variant": "beam_ap",
+    "legacy_score": 0.6028152402858677,
+    "official_score": 0.6016322494186243
+  },
+  {
+    "model": "BEATs_iter3",
+    "variant": "beam_rdp4",
+    "legacy_score": 0.6080001626323932,
+    "official_score": 0.6061154995696704
+  },
+  {
+    "model": "BEATs_iter3",
+    "variant": "frequency_ap",
+    "legacy_score": 0.6020666445979842,
+    "official_score": 0.6028400077921042
+  },
+  {
+    "model": "BEATs_iter3",
+    "variant": "global_ap",
+    "legacy_score": 0.5866148625040748,
+    "official_score": 0.584519482655014
+  },
+  {
+    "model": "dcase2026_nabeats_seed0",
+    "variant": "beam_ap",
+    "legacy_score": 0.6200732898138012,
+    "official_score": 0.6200436530567517
+  },
+  {
+    "model": "dcase2026_nabeats_seed0",
+    "variant": "beam_rdp4",
+    "legacy_score": 0.6260324257384738,
+    "official_score": 0.6262232574417146
+  },
+  {
+    "model": "dcase2026_nabeats_seed0",
+    "variant": "frequency_ap",
+    "legacy_score": 0.6212591058841519,
+    "official_score": 0.6200972654357423
+  },
+  {
+    "model": "dcase2026_nabeats_seed0",
+    "variant": "global_ap",
+    "legacy_score": 0.6083189152253329,
+    "official_score": 0.6090367655358094
+  }
+]

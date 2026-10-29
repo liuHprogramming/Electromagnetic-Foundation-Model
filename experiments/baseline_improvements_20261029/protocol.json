@@ -1,0 +1,21 @@
+{
+  "benchmark": "unchanged 20261028 magnetic manifest: 3177 LP100 windows, 44 device-days",
+  "outer": ["leave_device_3", "within_device_leave_day_44"],
+  "inner_leave_device": "leave each of the two source devices out; mean per-device macro-F1",
+  "inner_within_day": "GroupKFold(3) on training dates; pool validation predictions before macro-F1",
+  "head_grid": [
+    {"type": "ridge", "alpha": 0.1},
+    {"type": "ridge", "alpha": 10.0},
+    {"type": "ridge", "alpha": 1000.0},
+    {"type": "rbf_svm", "C": 0.1},
+    {"type": "rbf_svm", "C": 1.0},
+    {"type": "rbf_svm", "C": 10.0}
+  ],
+  "head_preprocessing": "StandardScaler fitted on current training partition only; RBF gamma=1/feature_dimension after scaling",
+  "nested_features": ["fisher", "mantis", "tspulse", "physical", "relative_dynamics", "fisher_physical", "mantis_random42"],
+  "other_methods": ["ExtraTrees:256,min_samples_leaf=2,max_features=sqrt,balanced,seed42 on physical+relative_dynamics", "official MiniRocket multivariate:2016 features,8 band envelopes,train-only biases,StandardScaler+balanced Ridge(alpha10)", "same MiniRocket with per-window mean/std normalization"],
+  "selection_rule": "highest inner macro-F1; first grid entry breaks ties; automatic family selector excludes random control and fixed secondary methods",
+  "random_seed": 42,
+  "numerical_threads": 4,
+  "notes": ["No target-device input or labels enter training in strict leave-device.", "All methods are reported; external best-method rankings are exploratory.", "Historical outer test labels have already been inspected, so this is not fresh confirmatory evidence.", "Input clocks, synchronization and run provenance retain the 20261028 limitations."]
+}

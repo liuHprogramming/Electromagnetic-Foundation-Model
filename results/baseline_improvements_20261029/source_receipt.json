@@ -1,0 +1,23 @@
+[
+  {
+    "repo": "angus924/minirocket",
+    "commit": "0b1c245d9c9dbc50886f28bc7b32d5d45b5663d6",
+    "file": "code/minirocket_multivariate.py",
+    "url": "https://raw.githubusercontent.com/angus924/minirocket/0b1c245d9c9dbc50886f28bc7b32d5d45b5663d6/code/minirocket_multivariate.py",
+    "sha256": "e48c16b9b9b122d3794638d4e01303396c2db76f44b561b6cd6b21331035d940"
+  },
+  {
+    "repo": "angus924/minirocket",
+    "commit": "0b1c245d9c9dbc50886f28bc7b32d5d45b5663d6",
+    "file": "LICENSE",
+    "url": "https://raw.githubusercontent.com/angus924/minirocket/0b1c245d9c9dbc50886f28bc7b32d5d45b5663d6/LICENSE",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "repo": "nttcslab/dcase2026_task2_evaluator",
+    "commit": "f6a94a2b5e614a9626c9d1ccff6df0705e6aaa75",
+    "file": "dcase2026_task2_evaluator.py",
+    "url": "https://raw.githubusercontent.com/nttcslab/dcase2026_task2_evaluator/f6a94a2b5e614a9626c9d1ccff6df0705e6aaa75/dcase2026_task2_evaluator.py",
+    "sha256": "c9ff00199e602a192aa35a05ed0ec134d65643e8799d3a94eabbc60afb3068ec"
+  }
+]

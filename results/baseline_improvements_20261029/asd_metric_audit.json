@@ -1,0 +1,921 @@
+{
+  "domain_auc_definition": "official_domain_normals_vs_all_anomalies",
+  "source_scores_sha256": "d9b220a3ae2c53c112ccbf95076f9a5af2794418a527c436108e5bfe23c4928d",
+  "metric_fix_only": true,
+  "model_inference_repeated": false,
+  "per_machine": [
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_ap",
+      "machine": "ToyCar",
+      "legacy_components": [
+        0.716,
+        0.8812,
+        0.6047368421052632
+      ],
+      "official_components": [
+        0.8174,
+        0.7674,
+        0.6047368421052632
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_ap",
+      "machine": "ToyCarEmu",
+      "legacy_components": [
+        0.6088,
+        0.8475999999999999,
+        0.5121052631578947
+      ],
+      "official_components": [
+        0.6648000000000001,
+        0.7762,
+        0.5121052631578947
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_ap",
+      "machine": "bearingEmu",
+      "legacy_components": [
+        0.6552,
+        0.5964,
+        0.5952631578947368
+      ],
+      "official_components": [
+        0.6240000000000001,
+        0.6155999999999999,
+        0.5952631578947368
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_ap",
+      "machine": "fan",
+      "legacy_components": [
+        0.574,
+        0.43639999999999995,
+        0.5226315789473684
+      ],
+      "official_components": [
+        0.5611999999999999,
+        0.4538,
+        0.5226315789473684
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_ap",
+      "machine": "gearboxEmu",
+      "legacy_components": [
+        0.6728,
+        0.5936,
+        0.5278947368421053
+      ],
+      "official_components": [
+        0.7246000000000001,
+        0.5422,
+        0.5278947368421053
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_ap",
+      "machine": "sliderEmu",
+      "legacy_components": [
+        0.6864000000000001,
+        0.6096,
+        0.5352631578947369
+      ],
+      "official_components": [
+        0.7252000000000001,
+        0.5592,
+        0.5352631578947369
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_ap",
+      "machine": "valveEmu",
+      "legacy_components": [
+        0.72,
+        0.6108,
+        0.5026315789473684
+      ],
+      "official_components": [
+        0.7082,
+        0.618,
+        0.5026315789473684
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_rdp4",
+      "machine": "ToyCar",
+      "legacy_components": [
+        0.7216,
+        0.8668,
+        0.6031578947368421
+      ],
+      "official_components": [
+        0.8154,
+        0.753,
+        0.6031578947368421
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_rdp4",
+      "machine": "ToyCarEmu",
+      "legacy_components": [
+        0.6084,
+        0.8404,
+        0.5152631578947369
+      ],
+      "official_components": [
+        0.667,
+        0.7602,
+        0.5152631578947369
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_rdp4",
+      "machine": "bearingEmu",
+      "legacy_components": [
+        0.6564,
+        0.5952000000000001,
+        0.5978947368421053
+      ],
+      "official_components": [
+        0.6228,
+        0.6206,
+        0.5978947368421053
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_rdp4",
+      "machine": "fan",
+      "legacy_components": [
+        0.572,
+        0.45439999999999997,
+        0.5263157894736842
+      ],
+      "official_components": [
+        0.567,
+        0.46540000000000004,
+        0.5263157894736842
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_rdp4",
+      "machine": "gearboxEmu",
+      "legacy_components": [
+        0.6832,
+        0.594,
+        0.5278947368421053
+      ],
+      "official_components": [
+        0.7343999999999999,
+        0.5426,
+        0.5278947368421053
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_rdp4",
+      "machine": "sliderEmu",
+      "legacy_components": [
+        0.6920000000000001,
+        0.608,
+        0.5473684210526316
+      ],
+      "official_components": [
+        0.7288,
+        0.5552,
+        0.5473684210526316
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_rdp4",
+      "machine": "valveEmu",
+      "legacy_components": [
+        0.7624,
+        0.6384,
+        0.49842105263157893
+      ],
+      "official_components": [
+        0.7342000000000001,
+        0.6624,
+        0.49842105263157893
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "frequency_ap",
+      "machine": "ToyCar",
+      "legacy_components": [
+        0.7208000000000001,
+        0.8648,
+        0.6136842105263158
+      ],
+      "official_components": [
+        0.7747999999999999,
+        0.817,
+        0.6136842105263158
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "frequency_ap",
+      "machine": "ToyCarEmu",
+      "legacy_components": [
+        0.576,
+        0.8752,
+        0.4978947368421053
+      ],
+      "official_components": [
+        0.6416000000000001,
+        0.8164,
+        0.4978947368421053
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "frequency_ap",
+      "machine": "bearingEmu",
+      "legacy_components": [
+        0.6695999999999999,
+        0.5975999999999999,
+        0.6042105263157895
+      ],
+      "official_components": [
+        0.6432,
+        0.6165999999999999,
+        0.6042105263157895
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "frequency_ap",
+      "machine": "fan",
+      "legacy_components": [
+        0.6084,
+        0.4644,
+        0.5152631578947369
+      ],
+      "official_components": [
+        0.5920000000000001,
+        0.4822,
+        0.5152631578947369
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "frequency_ap",
+      "machine": "gearboxEmu",
+      "legacy_components": [
+        0.6608,
+        0.572,
+        0.5310526315789473
+      ],
+      "official_components": [
+        0.714,
+        0.528,
+        0.5310526315789473
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "frequency_ap",
+      "machine": "sliderEmu",
+      "legacy_components": [
+        0.6692000000000001,
+        0.6015999999999999,
+        0.5352631578947369
+      ],
+      "official_components": [
+        0.6916,
+        0.5622,
+        0.5352631578947369
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "frequency_ap",
+      "machine": "valveEmu",
+      "legacy_components": [
+        0.6692,
+        0.62,
+        0.5042105263157894
+      ],
+      "official_components": [
+        0.6751,
+        0.614,
+        0.5042105263157894
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "global_ap",
+      "machine": "ToyCar",
+      "legacy_components": [
+        0.74,
+        0.8448,
+        0.6363157894736842
+      ],
+      "official_components": [
+        0.8192,
+        0.7497999999999999,
+        0.6363157894736842
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "global_ap",
+      "machine": "ToyCarEmu",
+      "legacy_components": [
+        0.5832,
+        0.7948,
+        0.4942105263157895
+      ],
+      "official_components": [
+        0.6530000000000001,
+        0.7192000000000001,
+        0.4942105263157895
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "global_ap",
+      "machine": "bearingEmu",
+      "legacy_components": [
+        0.6172,
+        0.5539999999999999,
+        0.6
+      ],
+      "official_components": [
+        0.5912,
+        0.5764,
+        0.6
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "global_ap",
+      "machine": "fan",
+      "legacy_components": [
+        0.48560000000000003,
+        0.5236,
+        0.5126315789473684
+      ],
+      "official_components": [
+        0.518,
+        0.4946,
+        0.5126315789473684
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "global_ap",
+      "machine": "gearboxEmu",
+      "legacy_components": [
+        0.7016,
+        0.6027999999999999,
+        0.5168421052631579
+      ],
+      "official_components": [
+        0.7527999999999999,
+        0.5419999999999999,
+        0.5168421052631579
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "global_ap",
+      "machine": "sliderEmu",
+      "legacy_components": [
+        0.658,
+        0.5576,
+        0.531578947368421
+      ],
+      "official_components": [
+        0.6938,
+        0.5152,
+        0.531578947368421
+      ]
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "global_ap",
+      "machine": "valveEmu",
+      "legacy_components": [
+        0.6264000000000001,
+        0.5336000000000001,
+        0.5
+      ],
+      "official_components": [
+        0.6254,
+        0.5294000000000001,
+        0.5
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_ap",
+      "machine": "ToyCar",
+      "legacy_components": [
+        0.7195999999999999,
+        0.86,
+        0.6105263157894737
+      ],
+      "official_components": [
+        0.7914,
+        0.7992000000000001,
+        0.6105263157894737
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_ap",
+      "machine": "ToyCarEmu",
+      "legacy_components": [
+        0.6115999999999999,
+        0.8712000000000001,
+        0.5089473684210526
+      ],
+      "official_components": [
+        0.6674,
+        0.8170000000000001,
+        0.5089473684210526
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_ap",
+      "machine": "bearingEmu",
+      "legacy_components": [
+        0.6332,
+        0.47559999999999997,
+        0.56
+      ],
+      "official_components": [
+        0.5746,
+        0.5429999999999999,
+        0.56
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_ap",
+      "machine": "fan",
+      "legacy_components": [
+        0.4652,
+        0.5307999999999999,
+        0.5152631578947369
+      ],
+      "official_components": [
+        0.4714,
+        0.516,
+        0.5152631578947369
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_ap",
+      "machine": "gearboxEmu",
+      "legacy_components": [
+        0.73,
+        0.5835999999999999,
+        0.5210526315789473
+      ],
+      "official_components": [
+        0.7707999999999999,
+        0.5246,
+        0.5210526315789473
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_ap",
+      "machine": "sliderEmu",
+      "legacy_components": [
+        0.76,
+        0.5880000000000001,
+        0.531578947368421
+      ],
+      "official_components": [
+        0.7784000000000001,
+        0.5466,
+        0.531578947368421
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_ap",
+      "machine": "valveEmu",
+      "legacy_components": [
+        0.98,
+        0.79,
+        0.7689473684210526
+      ],
+      "official_components": [
+        0.9036000000000001,
+        0.8806,
+        0.7689473684210526
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_rdp4",
+      "machine": "ToyCar",
+      "legacy_components": [
+        0.7175999999999999,
+        0.8456000000000001,
+        0.6047368421052631
+      ],
+      "official_components": [
+        0.7892,
+        0.786,
+        0.6047368421052631
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_rdp4",
+      "machine": "ToyCarEmu",
+      "legacy_components": [
+        0.6004,
+        0.8672,
+        0.5142105263157895
+      ],
+      "official_components": [
+        0.6646,
+        0.8138,
+        0.5142105263157895
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_rdp4",
+      "machine": "bearingEmu",
+      "legacy_components": [
+        0.6416000000000001,
+        0.47919999999999996,
+        0.5647368421052632
+      ],
+      "official_components": [
+        0.5773999999999999,
+        0.5475999999999999,
+        0.5647368421052632
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_rdp4",
+      "machine": "fan",
+      "legacy_components": [
+        0.48,
+        0.5324,
+        0.5147368421052632
+      ],
+      "official_components": [
+        0.484,
+        0.5226000000000001,
+        0.5147368421052632
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_rdp4",
+      "machine": "gearboxEmu",
+      "legacy_components": [
+        0.7396,
+        0.582,
+        0.5221052631578947
+      ],
+      "official_components": [
+        0.7767999999999999,
+        0.5238,
+        0.5221052631578947
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_rdp4",
+      "machine": "sliderEmu",
+      "legacy_components": [
+        0.7648,
+        0.6212,
+        0.5384210526315789
+      ],
+      "official_components": [
+        0.7892,
+        0.5734,
+        0.5384210526315789
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_rdp4",
+      "machine": "valveEmu",
+      "legacy_components": [
+        0.9995999999999999,
+        0.7716000000000001,
+        0.851578947368421
+      ],
+      "official_components": [
+        0.8864,
+        0.8854,
+        0.851578947368421
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "frequency_ap",
+      "machine": "ToyCar",
+      "legacy_components": [
+        0.7228,
+        0.8672,
+        0.6168421052631579
+      ],
+      "official_components": [
+        0.7468,
+        0.8516,
+        0.6168421052631579
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "frequency_ap",
+      "machine": "ToyCarEmu",
+      "legacy_components": [
+        0.6055999999999999,
+        0.8784,
+        0.5021052631578947
+      ],
+      "official_components": [
+        0.6298,
+        0.8755999999999999,
+        0.5021052631578947
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "frequency_ap",
+      "machine": "bearingEmu",
+      "legacy_components": [
+        0.634,
+        0.5144000000000001,
+        0.5652631578947368
+      ],
+      "official_components": [
+        0.5868,
+        0.563,
+        0.5652631578947368
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "frequency_ap",
+      "machine": "fan",
+      "legacy_components": [
+        0.5,
+        0.47480000000000006,
+        0.5121052631578947
+      ],
+      "official_components": [
+        0.4932,
+        0.486,
+        0.5121052631578947
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "frequency_ap",
+      "machine": "gearboxEmu",
+      "legacy_components": [
+        0.726,
+        0.5752,
+        0.5210526315789473
+      ],
+      "official_components": [
+        0.7676,
+        0.5122,
+        0.5210526315789473
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "frequency_ap",
+      "machine": "sliderEmu",
+      "legacy_components": [
+        0.7467999999999999,
+        0.5720000000000001,
+        0.5205263157894737
+      ],
+      "official_components": [
+        0.7626,
+        0.5400000000000001,
+        0.5205263157894737
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "frequency_ap",
+      "machine": "valveEmu",
+      "legacy_components": [
+        0.9763999999999999,
+        0.8412,
+        0.7952631578947369
+      ],
+      "official_components": [
+        0.9062,
+        0.9067999999999999,
+        0.7952631578947369
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "global_ap",
+      "machine": "ToyCar",
+      "legacy_components": [
+        0.7312000000000001,
+        0.7936,
+        0.62
+      ],
+      "official_components": [
+        0.7762,
+        0.7632,
+        0.62
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "global_ap",
+      "machine": "ToyCarEmu",
+      "legacy_components": [
+        0.5712,
+        0.8404,
+        0.4936842105263158
+      ],
+      "official_components": [
+        0.6484,
+        0.7714000000000001,
+        0.4936842105263158
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "global_ap",
+      "machine": "bearingEmu",
+      "legacy_components": [
+        0.5876,
+        0.47840000000000005,
+        0.5494736842105263
+      ],
+      "official_components": [
+        0.5544,
+        0.5124,
+        0.5494736842105263
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "global_ap",
+      "machine": "fan",
+      "legacy_components": [
+        0.49319999999999997,
+        0.5144,
+        0.51
+      ],
+      "official_components": [
+        0.5037999999999999,
+        0.5,
+        0.51
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "global_ap",
+      "machine": "gearboxEmu",
+      "legacy_components": [
+        0.7303999999999999,
+        0.5892,
+        0.54
+      ],
+      "official_components": [
+        0.7676,
+        0.5324,
+        0.54
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "global_ap",
+      "machine": "sliderEmu",
+      "legacy_components": [
+        0.7647999999999999,
+        0.554,
+        0.511578947368421
+      ],
+      "official_components": [
+        0.7796000000000001,
+        0.5232,
+        0.511578947368421
+      ]
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "global_ap",
+      "machine": "valveEmu",
+      "legacy_components": [
+        0.9663999999999999,
+        0.7236000000000001,
+        0.7310526315789474
+      ],
+      "official_components": [
+        0.8814,
+        0.8334,
+        0.7310526315789474
+      ]
+    }
+  ],
+  "aggregate": [
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_ap",
+      "legacy_score": 0.6028152402858677,
+      "official_score": 0.6016322494186243
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "beam_rdp4",
+      "legacy_score": 0.6080001626323932,
+      "official_score": 0.6061154995696704
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "frequency_ap",
+      "legacy_score": 0.6020666445979842,
+      "official_score": 0.6028400077921042
+    },
+    {
+      "model": "BEATs_iter3",
+      "variant": "global_ap",
+      "legacy_score": 0.5866148625040748,
+      "official_score": 0.584519482655014
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_ap",
+      "legacy_score": 0.6200732898138012,
+      "official_score": 0.6200436530567517
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "beam_rdp4",
+      "legacy_score": 0.6260324257384738,
+      "official_score": 0.6262232574417146
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "frequency_ap",
+      "legacy_score": 0.6212591058841519,
+      "official_score": 0.6200972654357423
+    },
+    {
+      "model": "dcase2026_nabeats_seed0",
+      "variant": "global_ap",
+      "legacy_score": 0.6083189152253329,
+      "official_score": 0.6090367655358094
+    }
+  ],
+  "paired_bootstrap": {
+    "repetitions": 2000,
+    "seed": 20261029,
+    "scope": "conditional paired stratified clip bootstrap, not independent device/run uncertainty",
+    "beats_95": [
+      0.5804050904405694,
+      0.6277336003985916
+    ],
+    "nabeats_95": [
+      0.5982198638615275,
+      0.6502601294642671
+    ],
+    "difference_95": [
+      0.0011935286651420243,
+      0.03939388877064462
+    ]
+  },
+  "verification": {
+    "groups": 56,
+    "score_rows": 11200,
+    "legacy_reproduced": true,
+    "official_auc_matches_pairwise_probability": true
+  }
+}

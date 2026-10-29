@@ -1,0 +1,377 @@
+HEAD leave_device 3302 fisher inner 0.3772 chosen 1
+HEAD leave_device 3302 mantis inner 0.2275 chosen 0
+HEAD leave_device 3302 tspulse inner 0.2316 chosen 0
+HEAD leave_device 3302 physical inner 0.3641 chosen 5
+HEAD leave_device 3302 relative_dynamics inner 0.3478 chosen 3
+HEAD leave_device 3302 fisher_physical inner 0.3617 chosen 5
+HEAD leave_device 3302 mantis_random42 inner 0.2036 chosen 2
+DONE nested leave_device 3302 35.3
+HEAD leave_device 3303 fisher inner 0.4455 chosen 3
+HEAD leave_device 3303 mantis inner 0.3978 chosen 5
+HEAD leave_device 3303 tspulse inner 0.2586 chosen 2
+HEAD leave_device 3303 physical inner 0.3752 chosen 2
+HEAD leave_device 3303 relative_dynamics inner 0.374 chosen 2
+HEAD leave_device 3303 fisher_physical inner 0.3931 chosen 3
+HEAD leave_device 3303 mantis_random42 inner 0.3848 chosen 2
+DONE nested leave_device 3303 59.5
+HEAD leave_device 3304 fisher inner 0.3159 chosen 1
+HEAD leave_device 3304 mantis inner 0.3197 chosen 4
+HEAD leave_device 3304 tspulse inner 0.2238 chosen 5
+HEAD leave_device 3304 physical inner 0.3058 chosen 5
+HEAD leave_device 3304 relative_dynamics inner 0.2689 chosen 4
+HEAD leave_device 3304 fisher_physical inner 0.295 chosen 1
+HEAD leave_device 3304 mantis_random42 inner 0.2525 chosen 2
+DONE nested leave_device 3304 46.4
+HEAD within_device_leave_day 3302/20260518 fisher inner 0.7054 chosen 5
+HEAD within_device_leave_day 3302/20260518 mantis inner 0.5044 chosen 4
+HEAD within_device_leave_day 3302/20260518 tspulse inner 0.3413 chosen 4
+HEAD within_device_leave_day 3302/20260518 physical inner 0.5804 chosen 5
+HEAD within_device_leave_day 3302/20260518 relative_dynamics inner 0.6427 chosen 5
+HEAD within_device_leave_day 3302/20260518 fisher_physical inner 0.6615 chosen 4
+HEAD within_device_leave_day 3302/20260518 mantis_random42 inner 0.4543 chosen 2
+DONE nested within_device_leave_day 3302/20260518 50.8
+HEAD within_device_leave_day 3302/20260519 fisher inner 0.7025 chosen 5
+HEAD within_device_leave_day 3302/20260519 mantis inner 0.5295 chosen 5
+HEAD within_device_leave_day 3302/20260519 tspulse inner 0.35 chosen 4
+HEAD within_device_leave_day 3302/20260519 physical inner 0.6089 chosen 4
+HEAD within_device_leave_day 3302/20260519 relative_dynamics inner 0.6367 chosen 5
+HEAD within_device_leave_day 3302/20260519 fisher_physical inner 0.6872 chosen 4
+HEAD within_device_leave_day 3302/20260519 mantis_random42 inner 0.4831 chosen 2
+DONE nested within_device_leave_day 3302/20260519 48.2
+HEAD within_device_leave_day 3302/20260525 fisher inner 0.6808 chosen 5
+HEAD within_device_leave_day 3302/20260525 mantis inner 0.5298 chosen 4
+HEAD within_device_leave_day 3302/20260525 tspulse inner 0.3422 chosen 4
+HEAD within_device_leave_day 3302/20260525 physical inner 0.5924 chosen 4
+HEAD within_device_leave_day 3302/20260525 relative_dynamics inner 0.648 chosen 4
+HEAD within_device_leave_day 3302/20260525 fisher_physical inner 0.6718 chosen 4
+HEAD within_device_leave_day 3302/20260525 mantis_random42 inner 0.4646 chosen 2
+DONE nested within_device_leave_day 3302/20260525 47.3
+HEAD within_device_leave_day 3302/20260526 fisher inner 0.7105 chosen 5
+HEAD within_device_leave_day 3302/20260526 mantis inner 0.5354 chosen 5
+HEAD within_device_leave_day 3302/20260526 tspulse inner 0.3341 chosen 4
+HEAD within_device_leave_day 3302/20260526 physical inner 0.6266 chosen 5
+HEAD within_device_leave_day 3302/20260526 relative_dynamics inner 0.6611 chosen 5
+HEAD within_device_leave_day 3302/20260526 fisher_physical inner 0.6893 chosen 4
+HEAD within_device_leave_day 3302/20260526 mantis_random42 inner 0.476 chosen 2
+DONE nested within_device_leave_day 3302/20260526 44.0
+HEAD within_device_leave_day 3302/20260527 fisher inner 0.7011 chosen 5
+HEAD within_device_leave_day 3302/20260527 mantis inner 0.5358 chosen 5
+HEAD within_device_leave_day 3302/20260527 tspulse inner 0.3462 chosen 4
+HEAD within_device_leave_day 3302/20260527 physical inner 0.6087 chosen 4
+HEAD within_device_leave_day 3302/20260527 relative_dynamics inner 0.6352 chosen 4
+HEAD within_device_leave_day 3302/20260527 fisher_physical inner 0.6911 chosen 4
+HEAD within_device_leave_day 3302/20260527 mantis_random42 inner 0.4816 chosen 2
+DONE nested within_device_leave_day 3302/20260527 43.5
+HEAD within_device_leave_day 3302/20260528 fisher inner 0.7131 chosen 5
+HEAD within_device_leave_day 3302/20260528 mantis inner 0.5429 chosen 4
+HEAD within_device_leave_day 3302/20260528 tspulse inner 0.3649 chosen 4
+HEAD within_device_leave_day 3302/20260528 physical inner 0.6296 chosen 5
+HEAD within_device_leave_day 3302/20260528 relative_dynamics inner 0.6531 chosen 4
+HEAD within_device_leave_day 3302/20260528 fisher_physical inner 0.7049 chosen 4
+HEAD within_device_leave_day 3302/20260528 mantis_random42 inner 0.4959 chosen 2
+DONE nested within_device_leave_day 3302/20260528 43.3
+HEAD within_device_leave_day 3302/20260529 fisher inner 0.72 chosen 5
+HEAD within_device_leave_day 3302/20260529 mantis inner 0.5404 chosen 4
+HEAD within_device_leave_day 3302/20260529 tspulse inner 0.3503 chosen 4
+HEAD within_device_leave_day 3302/20260529 physical inner 0.6164 chosen 5
+HEAD within_device_leave_day 3302/20260529 relative_dynamics inner 0.6599 chosen 4
+HEAD within_device_leave_day 3302/20260529 fisher_physical inner 0.6941 chosen 4
+HEAD within_device_leave_day 3302/20260529 mantis_random42 inner 0.4792 chosen 2
+DONE nested within_device_leave_day 3302/20260529 43.6
+HEAD within_device_leave_day 3302/20260530 fisher inner 0.6969 chosen 5
+HEAD within_device_leave_day 3302/20260530 mantis inner 0.5236 chosen 5
+HEAD within_device_leave_day 3302/20260530 tspulse inner 0.3685 chosen 4
+HEAD within_device_leave_day 3302/20260530 physical inner 0.5941 chosen 5
+HEAD within_device_leave_day 3302/20260530 relative_dynamics inner 0.6459 chosen 5
+HEAD within_device_leave_day 3302/20260530 fisher_physical inner 0.6681 chosen 4
+HEAD within_device_leave_day 3302/20260530 mantis_random42 inner 0.4534 chosen 2
+DONE nested within_device_leave_day 3302/20260530 43.8
+HEAD within_device_leave_day 3302/20260607 fisher inner 0.7066 chosen 5
+HEAD within_device_leave_day 3302/20260607 mantis inner 0.5265 chosen 5
+HEAD within_device_leave_day 3302/20260607 tspulse inner 0.3393 chosen 4
+HEAD within_device_leave_day 3302/20260607 physical inner 0.6066 chosen 4
+HEAD within_device_leave_day 3302/20260607 relative_dynamics inner 0.6564 chosen 4
+HEAD within_device_leave_day 3302/20260607 fisher_physical inner 0.6876 chosen 4
+HEAD within_device_leave_day 3302/20260607 mantis_random42 inner 0.4749 chosen 2
+DONE nested within_device_leave_day 3302/20260607 43.7
+HEAD within_device_leave_day 3302/20260608 fisher inner 0.6762 chosen 4
+HEAD within_device_leave_day 3302/20260608 mantis inner 0.5076 chosen 5
+HEAD within_device_leave_day 3302/20260608 tspulse inner 0.3409 chosen 4
+HEAD within_device_leave_day 3302/20260608 physical inner 0.5949 chosen 5
+HEAD within_device_leave_day 3302/20260608 relative_dynamics inner 0.6248 chosen 5
+HEAD within_device_leave_day 3302/20260608 fisher_physical inner 0.6561 chosen 5
+HEAD within_device_leave_day 3302/20260608 mantis_random42 inner 0.4573 chosen 2
+DONE nested within_device_leave_day 3302/20260608 43.8
+HEAD within_device_leave_day 3302/20260609 fisher inner 0.702 chosen 5
+HEAD within_device_leave_day 3302/20260609 mantis inner 0.5244 chosen 4
+HEAD within_device_leave_day 3302/20260609 tspulse inner 0.3395 chosen 4
+HEAD within_device_leave_day 3302/20260609 physical inner 0.6211 chosen 4
+HEAD within_device_leave_day 3302/20260609 relative_dynamics inner 0.6632 chosen 5
+HEAD within_device_leave_day 3302/20260609 fisher_physical inner 0.6886 chosen 4
+HEAD within_device_leave_day 3302/20260609 mantis_random42 inner 0.4667 chosen 2
+DONE nested within_device_leave_day 3302/20260609 45.1
+HEAD within_device_leave_day 3302/20260619 fisher inner 0.6857 chosen 5
+HEAD within_device_leave_day 3302/20260619 mantis inner 0.5116 chosen 4
+HEAD within_device_leave_day 3302/20260619 tspulse inner 0.354 chosen 5
+HEAD within_device_leave_day 3302/20260619 physical inner 0.5999 chosen 5
+HEAD within_device_leave_day 3302/20260619 relative_dynamics inner 0.6315 chosen 5
+HEAD within_device_leave_day 3302/20260619 fisher_physical inner 0.6616 chosen 5
+HEAD within_device_leave_day 3302/20260619 mantis_random42 inner 0.4555 chosen 2
+DONE nested within_device_leave_day 3302/20260619 46.3
+HEAD within_device_leave_day 3302/20260625 fisher inner 0.7004 chosen 5
+HEAD within_device_leave_day 3302/20260625 mantis inner 0.4996 chosen 5
+HEAD within_device_leave_day 3302/20260625 tspulse inner 0.3527 chosen 4
+HEAD within_device_leave_day 3302/20260625 physical inner 0.5931 chosen 4
+HEAD within_device_leave_day 3302/20260625 relative_dynamics inner 0.6224 chosen 4
+HEAD within_device_leave_day 3302/20260625 fisher_physical inner 0.6569 chosen 5
+HEAD within_device_leave_day 3302/20260625 mantis_random42 inner 0.4591 chosen 2
+DONE nested within_device_leave_day 3302/20260625 44.4
+HEAD within_device_leave_day 3302/20260626 fisher inner 0.6832 chosen 5
+HEAD within_device_leave_day 3302/20260626 mantis inner 0.509 chosen 5
+HEAD within_device_leave_day 3302/20260626 tspulse inner 0.3414 chosen 4
+HEAD within_device_leave_day 3302/20260626 physical inner 0.5916 chosen 4
+HEAD within_device_leave_day 3302/20260626 relative_dynamics inner 0.6261 chosen 4
+HEAD within_device_leave_day 3302/20260626 fisher_physical inner 0.659 chosen 4
+HEAD within_device_leave_day 3302/20260626 mantis_random42 inner 0.4605 chosen 2
+DONE nested within_device_leave_day 3302/20260626 42.4
+HEAD within_device_leave_day 3302/20260627 fisher inner 0.6982 chosen 5
+HEAD within_device_leave_day 3302/20260627 mantis inner 0.5261 chosen 4
+HEAD within_device_leave_day 3302/20260627 tspulse inner 0.3342 chosen 5
+HEAD within_device_leave_day 3302/20260627 physical inner 0.6132 chosen 4
+HEAD within_device_leave_day 3302/20260627 relative_dynamics inner 0.6504 chosen 4
+HEAD within_device_leave_day 3302/20260627 fisher_physical inner 0.6853 chosen 4
+HEAD within_device_leave_day 3302/20260627 mantis_random42 inner 0.4772 chosen 2
+DONE nested within_device_leave_day 3302/20260627 41.7
+HEAD within_device_leave_day 3302/20260628 fisher inner 0.699 chosen 5
+HEAD within_device_leave_day 3302/20260628 mantis inner 0.5162 chosen 4
+HEAD within_device_leave_day 3302/20260628 tspulse inner 0.3497 chosen 4
+HEAD within_device_leave_day 3302/20260628 physical inner 0.5921 chosen 4
+HEAD within_device_leave_day 3302/20260628 relative_dynamics inner 0.6145 chosen 4
+HEAD within_device_leave_day 3302/20260628 fisher_physical inner 0.6684 chosen 4
+HEAD within_device_leave_day 3302/20260628 mantis_random42 inner 0.4753 chosen 2
+DONE nested within_device_leave_day 3302/20260628 49.3
+HEAD within_device_leave_day 3302/20260629 fisher inner 0.7079 chosen 5
+HEAD within_device_leave_day 3302/20260629 mantis inner 0.527 chosen 5
+HEAD within_device_leave_day 3302/20260629 tspulse inner 0.3567 chosen 4
+HEAD within_device_leave_day 3302/20260629 physical inner 0.6107 chosen 4
+HEAD within_device_leave_day 3302/20260629 relative_dynamics inner 0.6509 chosen 4
+HEAD within_device_leave_day 3302/20260629 fisher_physical inner 0.6855 chosen 5
+HEAD within_device_leave_day 3302/20260629 mantis_random42 inner 0.4462 chosen 2
+DONE nested within_device_leave_day 3302/20260629 43.7
+HEAD within_device_leave_day 3303/20260617 fisher inner 0.7507 chosen 0
+HEAD within_device_leave_day 3303/20260617 mantis inner 0.5247 chosen 2
+HEAD within_device_leave_day 3303/20260617 tspulse inner 0.4683 chosen 4
+HEAD within_device_leave_day 3303/20260617 physical inner 0.745 chosen 5
+HEAD within_device_leave_day 3303/20260617 relative_dynamics inner 0.7012 chosen 5
+HEAD within_device_leave_day 3303/20260617 fisher_physical inner 0.7484 chosen 5
+HEAD within_device_leave_day 3303/20260617 mantis_random42 inner 0.5085 chosen 2
+DONE nested within_device_leave_day 3303/20260617 12.2
+HEAD within_device_leave_day 3303/20260623 fisher inner 0.7659 chosen 0
+HEAD within_device_leave_day 3303/20260623 mantis inner 0.564 chosen 2
+HEAD within_device_leave_day 3303/20260623 tspulse inner 0.4753 chosen 2
+HEAD within_device_leave_day 3303/20260623 physical inner 0.7296 chosen 5
+HEAD within_device_leave_day 3303/20260623 relative_dynamics inner 0.7069 chosen 4
+HEAD within_device_leave_day 3303/20260623 fisher_physical inner 0.7679 chosen 5
+HEAD within_device_leave_day 3303/20260623 mantis_random42 inner 0.5467 chosen 2
+DONE nested within_device_leave_day 3303/20260623 12.2
+HEAD within_device_leave_day 3303/20260624 fisher inner 0.7627 chosen 0
+HEAD within_device_leave_day 3303/20260624 mantis inner 0.5272 chosen 2
+HEAD within_device_leave_day 3303/20260624 tspulse inner 0.4702 chosen 2
+HEAD within_device_leave_day 3303/20260624 physical inner 0.7443 chosen 5
+HEAD within_device_leave_day 3303/20260624 relative_dynamics inner 0.7353 chosen 5
+HEAD within_device_leave_day 3303/20260624 fisher_physical inner 0.7683 chosen 5
+HEAD within_device_leave_day 3303/20260624 mantis_random42 inner 0.5032 chosen 4
+DONE nested within_device_leave_day 3303/20260624 11.6
+HEAD within_device_leave_day 3303/20260625 fisher inner 0.7196 chosen 1
+HEAD within_device_leave_day 3303/20260625 mantis inner 0.5621 chosen 4
+HEAD within_device_leave_day 3303/20260625 tspulse inner 0.502 chosen 2
+HEAD within_device_leave_day 3303/20260625 physical inner 0.7003 chosen 4
+HEAD within_device_leave_day 3303/20260625 relative_dynamics inner 0.6807 chosen 4
+HEAD within_device_leave_day 3303/20260625 fisher_physical inner 0.7355 chosen 1
+HEAD within_device_leave_day 3303/20260625 mantis_random42 inner 0.5282 chosen 4
+DONE nested within_device_leave_day 3303/20260625 13.5
+HEAD within_device_leave_day 3303/20260626 fisher inner 0.752 chosen 0
+HEAD within_device_leave_day 3303/20260626 mantis inner 0.5615 chosen 4
+HEAD within_device_leave_day 3303/20260626 tspulse inner 0.5299 chosen 2
+HEAD within_device_leave_day 3303/20260626 physical inner 0.7103 chosen 5
+HEAD within_device_leave_day 3303/20260626 relative_dynamics inner 0.6941 chosen 4
+HEAD within_device_leave_day 3303/20260626 fisher_physical inner 0.7381 chosen 5
+HEAD within_device_leave_day 3303/20260626 mantis_random42 inner 0.5467 chosen 2
+DONE nested within_device_leave_day 3303/20260626 13.8
+HEAD within_device_leave_day 3303/20260705 fisher inner 0.7384 chosen 0
+HEAD within_device_leave_day 3303/20260705 mantis inner 0.5383 chosen 4
+HEAD within_device_leave_day 3303/20260705 tspulse inner 0.4908 chosen 2
+HEAD within_device_leave_day 3303/20260705 physical inner 0.729 chosen 5
+HEAD within_device_leave_day 3303/20260705 relative_dynamics inner 0.6944 chosen 5
+HEAD within_device_leave_day 3303/20260705 fisher_physical inner 0.7648 chosen 5
+HEAD within_device_leave_day 3303/20260705 mantis_random42 inner 0.5065 chosen 4
+DONE nested within_device_leave_day 3303/20260705 14.0
+HEAD within_device_leave_day 3303/20260708 fisher inner 0.754 chosen 0
+HEAD within_device_leave_day 3303/20260708 mantis inner 0.5605 chosen 2
+HEAD within_device_leave_day 3303/20260708 tspulse inner 0.4738 chosen 4
+HEAD within_device_leave_day 3303/20260708 physical inner 0.7213 chosen 5
+HEAD within_device_leave_day 3303/20260708 relative_dynamics inner 0.6755 chosen 5
+HEAD within_device_leave_day 3303/20260708 fisher_physical inner 0.752 chosen 5
+HEAD within_device_leave_day 3303/20260708 mantis_random42 inner 0.5447 chosen 5
+DONE nested within_device_leave_day 3303/20260708 12.8
+HEAD within_device_leave_day 3303/20260709 fisher inner 0.7502 chosen 0
+HEAD within_device_leave_day 3303/20260709 mantis inner 0.5595 chosen 2
+HEAD within_device_leave_day 3303/20260709 tspulse inner 0.5084 chosen 2
+HEAD within_device_leave_day 3303/20260709 physical inner 0.7119 chosen 5
+HEAD within_device_leave_day 3303/20260709 relative_dynamics inner 0.6842 chosen 5
+HEAD within_device_leave_day 3303/20260709 fisher_physical inner 0.7445 chosen 5
+HEAD within_device_leave_day 3303/20260709 mantis_random42 inner 0.5376 chosen 2
+DONE nested within_device_leave_day 3303/20260709 13.0
+HEAD within_device_leave_day 3303/20260710 fisher inner 0.7544 chosen 0
+HEAD within_device_leave_day 3303/20260710 mantis inner 0.5632 chosen 2
+HEAD within_device_leave_day 3303/20260710 tspulse inner 0.5069 chosen 2
+HEAD within_device_leave_day 3303/20260710 physical inner 0.7108 chosen 5
+HEAD within_device_leave_day 3303/20260710 relative_dynamics inner 0.7033 chosen 4
+HEAD within_device_leave_day 3303/20260710 fisher_physical inner 0.7562 chosen 5
+HEAD within_device_leave_day 3303/20260710 mantis_random42 inner 0.546 chosen 4
+DONE nested within_device_leave_day 3303/20260710 13.2
+HEAD within_device_leave_day 3304/20260515 fisher inner 0.7603 chosen 1
+HEAD within_device_leave_day 3304/20260515 mantis inner 0.7198 chosen 4
+HEAD within_device_leave_day 3304/20260515 tspulse inner 0.6155 chosen 4
+HEAD within_device_leave_day 3304/20260515 physical inner 0.758 chosen 4
+HEAD within_device_leave_day 3304/20260515 relative_dynamics inner 0.7661 chosen 4
+HEAD within_device_leave_day 3304/20260515 fisher_physical inner 0.7774 chosen 4
+HEAD within_device_leave_day 3304/20260515 mantis_random42 inner 0.6439 chosen 5
+DONE nested within_device_leave_day 3304/20260515 31.8
+HEAD within_device_leave_day 3304/20260518 fisher inner 0.7714 chosen 1
+HEAD within_device_leave_day 3304/20260518 mantis inner 0.7467 chosen 4
+HEAD within_device_leave_day 3304/20260518 tspulse inner 0.6206 chosen 4
+HEAD within_device_leave_day 3304/20260518 physical inner 0.78 chosen 4
+HEAD within_device_leave_day 3304/20260518 relative_dynamics inner 0.7764 chosen 4
+HEAD within_device_leave_day 3304/20260518 fisher_physical inner 0.7883 chosen 4
+HEAD within_device_leave_day 3304/20260518 mantis_random42 inner 0.6697 chosen 2
+DONE nested within_device_leave_day 3304/20260518 31.9
+HEAD within_device_leave_day 3304/20260520 fisher inner 0.7809 chosen 1
+HEAD within_device_leave_day 3304/20260520 mantis inner 0.7495 chosen 4
+HEAD within_device_leave_day 3304/20260520 tspulse inner 0.6312 chosen 4
+HEAD within_device_leave_day 3304/20260520 physical inner 0.7761 chosen 4
+HEAD within_device_leave_day 3304/20260520 relative_dynamics inner 0.7807 chosen 4
+HEAD within_device_leave_day 3304/20260520 fisher_physical inner 0.7955 chosen 4
+HEAD within_device_leave_day 3304/20260520 mantis_random42 inner 0.6901 chosen 2
+DONE nested within_device_leave_day 3304/20260520 31.3
+HEAD within_device_leave_day 3304/20260523 fisher inner 0.7624 chosen 1
+HEAD within_device_leave_day 3304/20260523 mantis inner 0.7398 chosen 4
+HEAD within_device_leave_day 3304/20260523 tspulse inner 0.6201 chosen 4
+HEAD within_device_leave_day 3304/20260523 physical inner 0.7713 chosen 4
+HEAD within_device_leave_day 3304/20260523 relative_dynamics inner 0.777 chosen 4
+HEAD within_device_leave_day 3304/20260523 fisher_physical inner 0.7882 chosen 2
+HEAD within_device_leave_day 3304/20260523 mantis_random42 inner 0.6759 chosen 2
+DONE nested within_device_leave_day 3304/20260523 29.5
+HEAD within_device_leave_day 3304/20260525 fisher inner 0.7713 chosen 1
+HEAD within_device_leave_day 3304/20260525 mantis inner 0.7377 chosen 4
+HEAD within_device_leave_day 3304/20260525 tspulse inner 0.626 chosen 5
+HEAD within_device_leave_day 3304/20260525 physical inner 0.7719 chosen 4
+HEAD within_device_leave_day 3304/20260525 relative_dynamics inner 0.7605 chosen 4
+HEAD within_device_leave_day 3304/20260525 fisher_physical inner 0.7875 chosen 4
+HEAD within_device_leave_day 3304/20260525 mantis_random42 inner 0.6786 chosen 2
+DONE nested within_device_leave_day 3304/20260525 29.1
+HEAD within_device_leave_day 3304/20260526 fisher inner 0.7715 chosen 5
+HEAD within_device_leave_day 3304/20260526 mantis inner 0.7455 chosen 4
+HEAD within_device_leave_day 3304/20260526 tspulse inner 0.6237 chosen 4
+HEAD within_device_leave_day 3304/20260526 physical inner 0.7703 chosen 4
+HEAD within_device_leave_day 3304/20260526 relative_dynamics inner 0.7729 chosen 4
+HEAD within_device_leave_day 3304/20260526 fisher_physical inner 0.7944 chosen 4
+HEAD within_device_leave_day 3304/20260526 mantis_random42 inner 0.6809 chosen 2
+DONE nested within_device_leave_day 3304/20260526 31.2
+HEAD within_device_leave_day 3304/20260527 fisher inner 0.7369 chosen 1
+HEAD within_device_leave_day 3304/20260527 mantis inner 0.7384 chosen 4
+HEAD within_device_leave_day 3304/20260527 tspulse inner 0.6115 chosen 5
+HEAD within_device_leave_day 3304/20260527 physical inner 0.7514 chosen 2
+HEAD within_device_leave_day 3304/20260527 relative_dynamics inner 0.756 chosen 4
+HEAD within_device_leave_day 3304/20260527 fisher_physical inner 0.7679 chosen 2
+HEAD within_device_leave_day 3304/20260527 mantis_random42 inner 0.6607 chosen 2
+DONE nested within_device_leave_day 3304/20260527 29.8
+HEAD within_device_leave_day 3304/20260528 fisher inner 0.7512 chosen 1
+HEAD within_device_leave_day 3304/20260528 mantis inner 0.7439 chosen 4
+HEAD within_device_leave_day 3304/20260528 tspulse inner 0.6515 chosen 4
+HEAD within_device_leave_day 3304/20260528 physical inner 0.7774 chosen 4
+HEAD within_device_leave_day 3304/20260528 relative_dynamics inner 0.7775 chosen 4
+HEAD within_device_leave_day 3304/20260528 fisher_physical inner 0.7858 chosen 5
+HEAD within_device_leave_day 3304/20260528 mantis_random42 inner 0.6804 chosen 2
+DONE nested within_device_leave_day 3304/20260528 28.6
+HEAD within_device_leave_day 3304/20260529 fisher inner 0.778 chosen 1
+HEAD within_device_leave_day 3304/20260529 mantis inner 0.7484 chosen 4
+HEAD within_device_leave_day 3304/20260529 tspulse inner 0.6146 chosen 2
+HEAD within_device_leave_day 3304/20260529 physical inner 0.7794 chosen 4
+HEAD within_device_leave_day 3304/20260529 relative_dynamics inner 0.7806 chosen 4
+HEAD within_device_leave_day 3304/20260529 fisher_physical inner 0.7987 chosen 2
+HEAD within_device_leave_day 3304/20260529 mantis_random42 inner 0.6824 chosen 2
+DONE nested within_device_leave_day 3304/20260529 28.6
+HEAD within_device_leave_day 3304/20260530 fisher inner 0.7763 chosen 4
+HEAD within_device_leave_day 3304/20260530 mantis inner 0.7277 chosen 4
+HEAD within_device_leave_day 3304/20260530 tspulse inner 0.631 chosen 4
+HEAD within_device_leave_day 3304/20260530 physical inner 0.7624 chosen 4
+HEAD within_device_leave_day 3304/20260530 relative_dynamics inner 0.7707 chosen 4
+HEAD within_device_leave_day 3304/20260530 fisher_physical inner 0.7784 chosen 4
+HEAD within_device_leave_day 3304/20260530 mantis_random42 inner 0.6748 chosen 2
+DONE nested within_device_leave_day 3304/20260530 29.5
+HEAD within_device_leave_day 3304/20260601 fisher inner 0.7739 chosen 4
+HEAD within_device_leave_day 3304/20260601 mantis inner 0.7532 chosen 4
+HEAD within_device_leave_day 3304/20260601 tspulse inner 0.6332 chosen 4
+HEAD within_device_leave_day 3304/20260601 physical inner 0.7804 chosen 5
+HEAD within_device_leave_day 3304/20260601 relative_dynamics inner 0.7822 chosen 4
+HEAD within_device_leave_day 3304/20260601 fisher_physical inner 0.7978 chosen 4
+HEAD within_device_leave_day 3304/20260601 mantis_random42 inner 0.6763 chosen 2
+DONE nested within_device_leave_day 3304/20260601 29.3
+HEAD within_device_leave_day 3304/20260603 fisher inner 0.7782 chosen 1
+HEAD within_device_leave_day 3304/20260603 mantis inner 0.7488 chosen 4
+HEAD within_device_leave_day 3304/20260603 tspulse inner 0.6273 chosen 4
+HEAD within_device_leave_day 3304/20260603 physical inner 0.7698 chosen 4
+HEAD within_device_leave_day 3304/20260603 relative_dynamics inner 0.7862 chosen 4
+HEAD within_device_leave_day 3304/20260603 fisher_physical inner 0.7978 chosen 4
+HEAD within_device_leave_day 3304/20260603 mantis_random42 inner 0.6906 chosen 2
+DONE nested within_device_leave_day 3304/20260603 30.5
+HEAD within_device_leave_day 3304/20260604 fisher inner 0.7776 chosen 4
+HEAD within_device_leave_day 3304/20260604 mantis inner 0.7548 chosen 4
+HEAD within_device_leave_day 3304/20260604 tspulse inner 0.6351 chosen 4
+HEAD within_device_leave_day 3304/20260604 physical inner 0.7809 chosen 4
+HEAD within_device_leave_day 3304/20260604 relative_dynamics inner 0.7853 chosen 4
+HEAD within_device_leave_day 3304/20260604 fisher_physical inner 0.8021 chosen 5
+HEAD within_device_leave_day 3304/20260604 mantis_random42 inner 0.6848 chosen 2
+DONE nested within_device_leave_day 3304/20260604 30.4
+HEAD within_device_leave_day 3304/20260605 fisher inner 0.7787 chosen 4
+HEAD within_device_leave_day 3304/20260605 mantis inner 0.7392 chosen 4
+HEAD within_device_leave_day 3304/20260605 tspulse inner 0.6159 chosen 4
+HEAD within_device_leave_day 3304/20260605 physical inner 0.7679 chosen 4
+HEAD within_device_leave_day 3304/20260605 relative_dynamics inner 0.7787 chosen 4
+HEAD within_device_leave_day 3304/20260605 fisher_physical inner 0.7873 chosen 4
+HEAD within_device_leave_day 3304/20260605 mantis_random42 inner 0.6897 chosen 5
+DONE nested within_device_leave_day 3304/20260605 27.8
+HEAD within_device_leave_day 3304/20260608 fisher inner 0.7655 chosen 4
+HEAD within_device_leave_day 3304/20260608 mantis inner 0.7579 chosen 4
+HEAD within_device_leave_day 3304/20260608 tspulse inner 0.6337 chosen 4
+HEAD within_device_leave_day 3304/20260608 physical inner 0.7869 chosen 4
+HEAD within_device_leave_day 3304/20260608 relative_dynamics inner 0.7769 chosen 4
+HEAD within_device_leave_day 3304/20260608 fisher_physical inner 0.7987 chosen 2
+HEAD within_device_leave_day 3304/20260608 mantis_random42 inner 0.6812 chosen 2
+DONE nested within_device_leave_day 3304/20260608 29.0
+HEAD within_device_leave_day 3304/20260609 fisher inner 0.7674 chosen 4
+HEAD within_device_leave_day 3304/20260609 mantis inner 0.7379 chosen 4
+HEAD within_device_leave_day 3304/20260609 tspulse inner 0.6234 chosen 4
+HEAD within_device_leave_day 3304/20260609 physical inner 0.7794 chosen 4
+HEAD within_device_leave_day 3304/20260609 relative_dynamics inner 0.7782 chosen 4
+HEAD within_device_leave_day 3304/20260609 fisher_physical inner 0.794 chosen 2
+HEAD within_device_leave_day 3304/20260609 mantis_random42 inner 0.6656 chosen 2
+DONE nested within_device_leave_day 3304/20260609 29.1
+HEAD within_device_leave_day 3304/20260617 fisher inner 0.7641 chosen 1
+HEAD within_device_leave_day 3304/20260617 mantis inner 0.7501 chosen 4
+HEAD within_device_leave_day 3304/20260617 tspulse inner 0.6284 chosen 4
+HEAD within_device_leave_day 3304/20260617 physical inner 0.7695 chosen 4
+HEAD within_device_leave_day 3304/20260617 relative_dynamics inner 0.7755 chosen 4
+HEAD within_device_leave_day 3304/20260617 fisher_physical inner 0.7808 chosen 4
+HEAD within_device_leave_day 3304/20260617 mantis_random42 inner 0.6712 chosen 2
+DONE nested within_device_leave_day 3304/20260617 28.0
+HEAD within_device_leave_day 3304/20260622 fisher inner 0.7675 chosen 4
+HEAD within_device_leave_day 3304/20260622 mantis inner 0.7412 chosen 4
+HEAD within_device_leave_day 3304/20260622 tspulse inner 0.6159 chosen 5
+HEAD within_device_leave_day 3304/20260622 physical inner 0.7757 chosen 4
+HEAD within_device_leave_day 3304/20260622 relative_dynamics inner 0.7888 chosen 4
+HEAD within_device_leave_day 3304/20260622 fisher_physical inner 0.7987 chosen 4
+HEAD within_device_leave_day 3304/20260622 mantis_random42 inner 0.6713 chosen 2
+DONE nested within_device_leave_day 3304/20260622 27.7
+COMPLETE nested 1556.2475280761719

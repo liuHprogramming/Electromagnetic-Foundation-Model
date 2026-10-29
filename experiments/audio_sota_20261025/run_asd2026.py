@@ -41,8 +41,10 @@ def pool(z):
 
 def metrics(labels,scores,domains):
     y=np.asarray(labels);s=np.asarray(scores);ds=np.asarray(domains)
-    return {'auc_source':float(roc_auc_score(y[ds=='source'],s[ds=='source'])),
-            'auc_target':float(roc_auc_score(y[ds=='target'],s[ds=='target'])),
+    source=(ds=='source')|(y==1)
+    target=(ds=='target')|(y==1)
+    return {'auc_source':float(roc_auc_score(y[source],s[source])),
+            'auc_target':float(roc_auc_score(y[target],s[target])),
             'pauc_standardized_fpr_0_1':float(roc_auc_score(y,s,max_fpr=.1)),
             'auc_pooled':float(roc_auc_score(y,s))}
 
@@ -174,6 +176,7 @@ def main():
             components=[r[k] for r in group for k in ('auc_source','auc_target','pauc_standardized_fpr_0_1')]
             aggregate.append({'model':model,'variant':variant,'harmonic_auc_source_target_pauc':len(components)/sum(1/x for x in components),'machines':len(group)})
     write_json(out/'metrics.json',{'dataset':'DCASE2026 development','machines':machines,'n':len(entries),
+                                 'domain_auc_definition':'official_domain_normals_vs_all_anomalies',
                                  'metrics':all_metrics,'aggregate':aggregate,'runtime':runtime(a.device),
                                  'seconds':time.monotonic()-start,'far_mic_usage':'auxiliary noise input only for NA-BEATs',
                                  'precision':'CUDA autocast bfloat16; float32 pooling and cosine scoring',

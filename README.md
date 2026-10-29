@@ -2,9 +2,34 @@
 
 This repository contains task-matched audio evaluations and near-field
 magnetic transfer benchmarks for laboratory instruments, including the
-28 October 2026 three-centrifuge rebenchmark.
+29 October 2026 nested-readout and temporal-method comparison.
 The new work evaluates released checkpoints; it does not repeat large-scale
 pretraining or claim a new leaderboard SOTA.
+
+## Sound audit and magnetic improvements — 29 October 2026
+
+On the **same 3,177 windows / 44 device-days**, we tested training-only nested Ridge/RBF-SVM selection, fixed logistic probes, ExtraTrees and the official multivariate MiniRocket reference. Strict held-device inference fits no target samples. The prior test results were already known: these remain exploratory comparisons and need confirmation on new acquisition dates.
+
+| Method | Within-device held-date OOF macro-F1 | Held-device macro-F1 |
+| --- | ---: | ---: |
+| FISHER + original fixed Ridge | 0.7332 | 0.3133 |
+| FISHER + nested head | 0.7434 | 0.3289 |
+| FISHER + balanced logistic head | 0.7278 | 0.3230 |
+| MantisV2 + original fixed Ridge | 0.5377 | 0.3396 |
+| MantisV2 + nested head | 0.6167 | 0.3206 |
+| TSPulse + nested head | 0.4981 | 0.2973 |
+| ExtraTrees on physical / relative features | 0.8001 | 0.3095 |
+| MiniRocket multivariate, sample-normalized envelopes | 0.5301 | 0.3116 |
+| Training-only representation / head selector | 0.7614 | 0.3579 |
+
+The automatic selector chooses both representation and head using only inner validation. All 16 new configurations, fixed baselines, matched random controls, per-device errors and paired date intervals are retained in the report. MiniRocket/ExtraTrees are supervised task baselines, not pretrained foundation models. The inherited LP100-clock/log/run limitations remain.
+
+**Sound metric correction:** official DCASE domain AUROCs compare normals of the indicated domain with all anomalies. Recomputing unchanged scores gives BEATs **60.61%** and NA-BEATs **62.62%**. The old 60.80%/62.60% values use within-domain-only AUC and are superseded; the original outputs are kept for audit. ESC-50 and QA metrics are unaffected. The complete NA-BEATs competition system remains distinct from our frozen frontend.
+
+- [Complete report, SOTA evidence and matched changes](results/baseline_improvements_20261029/REPORT.md)
+- [New predictions and verified metrics](results/baseline_improvements_20261029/summary.json)
+- [Official-domain sound metric audit](results/baseline_improvements_20261029/asd_metric_audit.json)
+- [Reproduction protocol and commands](experiments/baseline_improvements_20261029/README.md)
 
 ## Three-device magnetic rebenchmark — 28 October 2026
 
@@ -102,10 +127,12 @@ The operating-state labels do not provide physical fault ground truth.
 | Environmental sound classification / ESC-50 | AudioMosaic, five official fold checkpoints | 2,000 held-out clips | Accuracy **97.45%**, macro-F1 0.9743 |
 | Audio reasoning / MMAU-test-mini sound | MOSS-Audio-8B-Thinking | 333 questions | **274/333 = 82.28%** |
 | Audio reasoning / MMAU-test-mini sound | Qwen2-Audio-7B-Instruct | 333 questions | **214/333 = 64.26%** |
-| Noise-aware ASD / DCASE2026 dev | BEATs_iter3, frequency memory banks + RDP4 | 7,000 normal train + 1,400 test | Harmonic source AUC / target AUC / pAUC **60.80%** |
-| Noise-aware ASD / DCASE2026 dev | dcase2026_nabeats_seed0, frequency memory banks + RDP4 | 7,000 normal train + 1,400 test | Harmonic source AUC / target AUC / pAUC **62.60%** |
+| Noise-aware ASD / DCASE2026 dev | BEATs_iter3, frequency memory banks + RDP4 | 7,000 normal train + 1,400 test | Harmonic source AUC / target AUC / pAUC **60.61%** (corrected 29 October) |
+| Noise-aware ASD / DCASE2026 dev | dcase2026_nabeats_seed0, frequency memory banks + RDP4 | 7,000 normal train + 1,400 test | Harmonic source AUC / target AUC / pAUC **62.62%** (corrected 29 October) |
 | Machine-condition QA / diagnostic only | MOSS-Audio-8B-Thinking | 200 distinct clips | Accuracy **13.00%**, binary answer coverage 25.50% |
 | Machine-condition QA / diagnostic only | Qwen2-Audio-7B-Instruct | 200 distinct clips | Accuracy **50.00%**, binary answer coverage 100.00% |
+
+Archived figure (ASD numbers use the superseded statistic):
 
 ![Task-specific evaluation summary](results/audio_sota_20261025/evaluation_summary.png)
 
@@ -134,11 +161,10 @@ The machine diagnostic supplies no machine-specific normal reference. MOSS
 abstains on146/200 full clips; Qwen answers NORMAL on all200. MOSS meets the
 protocol's abstention expectation on80/80 silent/short controls, versus0/80 for
 Qwen. General sound-QA success therefore does not establish fault diagnosis.
-For ASD, the observed NA-BEATs gain of1.80 points has a paired95% interval of
-[-0.12,+3.66] points, so a stable advantage is not resolved in this run.
+For ASD, the corrected official-definition NA-BEATs difference is +2.01 points, with conditional paired clip-bootstrap 95% interval [+0.12, +3.94] points. This supersedes the historical within-domain-only statistic; see the 29 October audit. It does not establish device-population generalization.
 
-- [English evaluation report](results/audio_sota_20261025/REPORT.md)
-- [Verified metrics](results/audio_sota_20261025/summary.json)
+- [Archived 25 October report (ASD superseded)](results/audio_sota_20261025/REPORT.md)
+- [Archived metrics (legacy ASD domain AUROC)](results/audio_sota_20261025/summary.json)
 - [Reproduction commands and pinned assets](experiments/audio_sota_20261025/README.md)
 - [Fixed protocol and scope](experiments/audio_sota_20261025/protocol.json)
 - [Artifact integrity checks](results/audio_sota_20261025/verification.json)

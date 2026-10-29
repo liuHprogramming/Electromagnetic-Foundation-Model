@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "new_prediction_rows": 101664,
+  "rows_by_stage": {
+    "nested": 50832,
+    "temporal": 19062,
+    "logistic": 31770
+  },
+  "new_methods": 16,
+  "folds_per_stage": 47,
+  "stage_count": 3,
+  "split_audits": 141,
+  "no_device_day_overlap": true,
+  "no_target_device_in_strict_training": true,
+  "inner_folds_exclude_outer_test": true,
+  "selection_matches_inner_argmax": true,
+  "all_score_argmax_and_labels_checked": true,
+  "all_old_metrics_reproduced": true,
+  "logistic_convergence_warning_fits": 0
+}
